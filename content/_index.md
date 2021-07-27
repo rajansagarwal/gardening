@@ -8,8 +8,12 @@
 > Deployed on July 27, 2021. Still building and transferring files.
 
 ## Main Maps of Content 🗺
+- [Personal Development](moc/perdev.md)
+	- [Leadership MOC](moc/perdev/leadership.md)
+		- [Facilitation MOC](moc/perdev/facilitation.md)
+	- [Learning MOC](moc/perdev/learning.md)
 
 ## Projects
 ### [Writing](moc/writing.md)
-[Interplays of Mathematics and Classism](notes/projects/writing/imc/interplays-of-mathematics-and-classism.md)
+- [Interplays of Mathematics and Classism](notes/projects/writing/imc/interplays-of-mathematics-and-classism.md)
 

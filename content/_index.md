@@ -10,5 +10,6 @@
 ## Main Maps of Content 🗺
 
 ## Projects
-[Interplays of Mathematics and Classism](moc/interplays-of-mathematics-and-classism.md)
+### [Writing](moc/writing.md)
+[Interplays of Mathematics and Classism](notes/projects/writing/imc/interplays-of-mathematics-and-classism.md)
 

@@ -1,7 +1,6 @@
-# 🌱 Quartz
-## v1.1
+# Chloe's Digital Garden
+Hi, I'm Chloe!
 
-Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
 ## Why Quartz?
 Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
@@ -21,3 +20,4 @@ I was really inspired by [Bianca](https://garden.bianca.digital/) and [Joel](htt
 The entire Quartz documentation is fully hosted using Quartz! To get started, let's visit the main directory.
 
 👉  [Directory](moc/directory.md)
+

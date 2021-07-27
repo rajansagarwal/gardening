@@ -6,5 +6,5 @@
 ## Main Maps of Content 🗺
 
 ## Projects
-[Writing](moc/writing.md)
+[Interplays of Mathematics and Classism](moc/Interplays%20of%20Mathematics%20and%20Classism.md)
 

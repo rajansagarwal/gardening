@@ -2,7 +2,7 @@
 title: "Interplays of Mathematics and Classism"
 ---
 
-# Interplays of Mathematics and Classism
+## Interplays of Mathematics and Classism
 **Working Title:** Interplays of Mathematics and Classism
 Midyear 2021
 

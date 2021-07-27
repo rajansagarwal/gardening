@@ -6,5 +6,5 @@
 ## Main Maps of Content 🗺
 
 ## Projects
-[Interplays of Mathematics and Classism](moc/Interplays%20of%20Mathematics%20and%20Classism.md)
+[Interplays of Mathematics and Classism](moc/interplays-of-mathematics-and-classism.md)
 

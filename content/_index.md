@@ -8,10 +8,11 @@
 > Deployed on July 27, 2021. Still building and transferring files.
 
 ## Main Maps of Content 🗺
-- [Personal Development](moc/perdev.md)
+- **Personal Development**
 	- [Leadership MOC](moc/perdev/leadership.md)
 		- [Facilitation MOC](moc/perdev/facilitation.md)
 	- [Learning MOC](moc/perdev/learning.md)
+	- [Life Advice MOC](moc/perdev/lifeadvice.md)
 
 ## Projects
 ### [Writing](moc/writing.md)

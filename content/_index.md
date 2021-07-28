@@ -30,8 +30,7 @@
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨
-	- [UX Design MOC](moc/ux.md)
-	- [Creativity MOC](moc/creativity.md)
+	- [Design MOC](moc/design.md)
 - **Niche-based** 🥰
 	- [Human resources MOC](moc/hr.md)
 		- [Recruitment](notes/niche/hr/recruitment.md)

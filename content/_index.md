@@ -40,7 +40,7 @@
 
 ## Keywords
 ### Points of Reference
-#[come_back](notes/por/come_back.md)
-#[writing_prompt](notes/por/wri-prompt.md)
-#[philosophy](notes/por/philo.md)
-#[in_progress](notes/por/in-progress.md)
+- [come_back](notes/por/come_back.md)
+- [writing_prompt](notes/por/wri-prompt.md)
+- [philosophy](notes/por/philo.md)
+- [in_progress](notes/por/in-progress.md)

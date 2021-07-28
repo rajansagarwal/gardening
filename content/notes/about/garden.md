@@ -11,7 +11,7 @@ A digital garden is an online space at the intersection of a notebook and a blog
 
 ## Why build a digital garden?
 I love how this garden puts it:
-![photo](notes/photos/amar-garden.png)
+![photo](/notes/photos/amar-garden.png)
 *Screenshot from: [Anthomy Amar](https://garden.anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)*
 
 So yeah, what motivated me into building my own garden is how much it offered authenticity and how it opens up to new conversations and ideas with different people.

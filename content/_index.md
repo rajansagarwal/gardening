@@ -3,6 +3,7 @@
 
 💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🪴
 
+
 🌴 *Building since July 26, 2021*.
 
 > Deployed on July 27, 2021. Still building and transferring files. There are also a loooot of broken links!
@@ -26,7 +27,6 @@
 
 ## Projects
 ### [Writing](moc/writing.md)
-- [Interplays of Mathematics and Classism](notes/projects/writing/imc/interplays-of-mathematics-and-classism.md)
 
 ## Keywords
 ### Points of Reference

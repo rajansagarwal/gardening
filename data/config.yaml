@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 name: Chloe Digital Garden
+=======
+name: Jacky Zhao
+>>>>>>> parent of da36d96 (Update config.yaml)
 enableToc: true
 description:
-  Hi, I'm Chloe! This is my digital garden where I publish into the word my learning notes, paths, and projects as a commitment to loving learning.
+  Here is the page description. This is an example Quartz site that details installation,
+  setup, customization, and troubleshooting for Quartz itself.
 page_title:
+<<<<<<< HEAD
   Chloe Digital Garden
 links:
   - link_name: Portfolio
@@ -13,3 +19,11 @@ links:
     link: https://be.net/chloeabrasada
   - link_name: Medium
     link: https://chloeabrasada.medium.com
+=======
+  Quartz Example Page
+links:
+  - link_name: Twitter
+    link: https://twitter.com/_jzhao
+  - link_name: Github
+    link: https://github.com/jackyzha0
+>>>>>>> parent of da36d96 (Update config.yaml)

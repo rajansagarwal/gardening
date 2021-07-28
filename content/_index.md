@@ -3,10 +3,17 @@
 
 💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🪴
 
-
 🌴 *Building since July 26, 2021*.
 
-> Deployed on July 27, 2021. Still building and transferring files. There are also a loooot of broken links!
+> Deployed on July 27, 2021. Still building and transferring files. There are also a loooot of broken links! I prematurely deployed since I was really excited about building it online. 💪
+
+---
+- **Home** 🏡
+	- [About Me](moc/about.md)
+	- [On Digital Gardens](notes/about/garden.md)
+	- [Roadmap-ish](notes/about/roadmap.md) 🫀
+
+---
 
 ## Main Maps of Content 🗺
 - **Personal Development** 💪

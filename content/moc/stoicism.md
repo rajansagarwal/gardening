@@ -10,9 +10,9 @@ I regularly updated my [Are.na on Stoicism](https://www.are.na/chloe-abrasada/st
 
 ## Contents
 - [Stoic Values](moc/philosophy/stoicism/values.md)
-- [How to be Stoic](moc/philosophy/stoicism/how-to.md)
-- [Quotes on Stoicism](moc/philosophy/stoicism/stoic-quotes.md)
-- [Sources](moc/philosophy/stoicism/sources-stoicism.md)
+- [How to be Stoic](notes/philosophy/stoicism/how-to.md)
+- [Quotes on Stoicism](notes/philosophy/stoicism/stoic-quotes.md)
+- [Sources](notes/philosophy/stoicism/sources-stoicism.md)
 
 
 ---

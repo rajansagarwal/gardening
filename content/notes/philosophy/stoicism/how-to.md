@@ -7,7 +7,7 @@ title: "How to Be Stoic"
 - **Keywords:** [permanent notes](notes/permanent-notes.md)
 - **Tags:** #philosophy #stoicism
 - **Relevant Notes:**
-	- [What to answer to mamamatay rin tayong lahat](moc/perdev/mamamatay.md)
+	- [What to answer to mamamatay rin tayong lahat](notes/perdev/mamamatay.md)
 - **Thoughts:**
 
 ## Dichothomy of Control

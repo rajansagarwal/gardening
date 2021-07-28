@@ -4,7 +4,7 @@ title: "What to answer to 'mamamatay rin tayong lahat'"
 
 This may seem.. morbid. While I do admit that I sometimes say "Mamamatay din tayong lahat" in an escapist manner *(albeit true)*, I do acknowledge that it is true, comforting, and a good way to move forward when it comes to handling problems. However, this acceptance into the finite nature of life also makes one prone to not living ceasing each day.
 
-Embracing [stoicism](moc/philosophy/stoicism.md) is a good way to avoid that mistake.
+Embracing [stoicism](moc/stoicism.md) is a good way to avoid that mistake.
 
 All that being said, here are things I like saying in response to ***"Mamamatay rin tayong tayong lahat"***.
 

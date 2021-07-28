@@ -10,20 +10,21 @@
 
 ## Main Maps of Content 🗺
 - **Personal Development** 💪
-	- [Leadership MOC](moc/perdev/leadership.md)
-		- [Facilitation MOC](moc/perdev/facilitation.md)
-	- [Learning MOC](moc/perdev/learning.md)
-	- [Life Advice MOC](moc/perdev/lifeadvice.md)
+	- [Leadership MOC](moc/leadership.md)
+		- [Facilitation MOC](moc/facilitation.md)
+	- [Learning MOC](moc/learning.md)
+	- [Life Advice MOC](moc/lifeadvice.md)
+	- [Becoming Better MOC](moc/better.md)
 - **Health** 👩‍⚕️
-	- [Occupational Therapy MOC](moc/health/ot.md)
+	- [Occupational Therapy MOC](moc/ot.md)
 - **Philosophy** 🤲
-	- [Stoicism MOC](moc/philosophy/stoicism.md)
+	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨
-	- [UX Design MOC](moc/arts/ux.md)
-	- [Creativity MOC](moc/arts/creativity.md)
-- **Niche-based**
-	- [Human resources MOC](moc/niche/hr.md)
-		- [Recruitment](moc/niche/hr/recruitment.md)
+	- [UX Design MOC](moc/ux.md)
+	- [Creativity MOC](moc/creativity.md)
+- **Niche-based** 🥰
+	- [Human resources MOC](moc/hr.md)
+		- [Recruitment](notes/niche/hr/recruitment.md)
 
 ## Projects
 ### [Writing](moc/writing.md)

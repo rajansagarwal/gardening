@@ -2,7 +2,7 @@
 title: "Sources"
 ---
 
-## References
+**References**
 - **Source:**
 - **Keywords:** [permanent notes](notes/permanent-notes.md)
 - **Tags:** 

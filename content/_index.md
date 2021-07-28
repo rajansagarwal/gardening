@@ -15,6 +15,7 @@
 	- [Learning MOC](moc/learning.md)
 	- [Life Advice MOC](moc/lifeadvice.md)
 	- [Becoming Better MOC](moc/better.md)
+	- [Mental Models MOC](moc/mental-models.md)
 - **Health** 👩‍⚕️
 	- [Occupational Therapy MOC](moc/ot.md)
 - **Philosophy** 🤲

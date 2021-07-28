@@ -25,6 +25,7 @@
 	- [Mental Models MOC](moc/mental-models.md)
 - **Health** 👩‍⚕️
 	- [Occupational Therapy MOC](moc/ot.md)
+	- [Psychology MOC](moc/psycho.md)
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨
@@ -39,6 +40,7 @@
 
 ## Keywords
 ### Points of Reference
-#come_back
-#writing_prompt
-#absorb_soon
+#[come_back](notes/por/come_back.md)
+#[writing_prompt](notes/por/wri-prompt.md)
+#[philosophy](notes/por/philo.md)
+#[in_progress](notes/por/in-progress.md)

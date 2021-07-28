@@ -4,7 +4,6 @@ title: "Quotes on Stoicism"
 
 ## References
 - **Source:**
-- **Keywords:** [permanent notes](notes/permanent-notes.md)
 - **Tags:** #stoicism 
 - **Relevant Notes:**
 - **Thoughts:**

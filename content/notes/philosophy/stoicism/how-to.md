@@ -4,7 +4,6 @@ title: "How to Be Stoic"
 
 ## References
 - **Source:**
-- **Keywords:** [permanent notes](notes/permanent-notes.md)
 - **Tags:** #philosophy #stoicism
 - **Relevant Notes:**
 	- [What to answer to mamamatay rin tayong lahat](notes/perdev/mamamatay.md)

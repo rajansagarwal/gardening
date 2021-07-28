@@ -23,6 +23,7 @@
 	- [Life Advice MOC](moc/lifeadvice.md)
 	- [Becoming Better MOC](moc/better.md)
 	- [Mental Models MOC](moc/mental-models.md)
+	- [Mental Health MOC](moc/mh.md)
 - **Health** 👩‍⚕️
 	- [Occupational Therapy MOC](moc/ot.md)
 	- [Psychology MOC](moc/psycho.md)

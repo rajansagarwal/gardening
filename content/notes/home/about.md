@@ -30,3 +30,5 @@ title: "About Me"
 - Leadership and facilitation 👥
 - Music 🎧 I have over a hundred playlists (okay 98 that are published online) on [Spotify](https://open.spotify.com/user/chloeabrasada) and am constantly on the lookout for good finds. I'm also a bathroom singer and frustrated guitarist/ pianist.
 - Sitcoms! When I'm too tired to do anythiiing, I like spending my time watching lighthearted shows for the sake of just smiling.
+- Dogs... 🐶
+- Tea lol. I like green tea & chai. 🍵 Also, tea >>> coffee.

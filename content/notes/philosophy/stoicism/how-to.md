@@ -4,7 +4,7 @@ title: "How to Be Stoic"
 
 - **Tags:** #philosophy #stoicism
 - **Relevant Notes:**
-	- [What to answer to mamamatay rin tayong lahat](notes/perdev/mamamatay.md)
+	- [What to answer to mamamatay rin tayong lahat](notes/perdev/life-advice/mamamatay.md)
 - **Thoughts:**
 
 ---

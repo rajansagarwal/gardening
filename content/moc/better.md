@@ -2,6 +2,8 @@
 title: "Becoming Better MOC"
 ---
 
-## **How to become a better person**
-### On staying grounded
-1. [Check your privilege](notes/perdev/better/privilege.md)
+## On staying grounded
+- [Check your privilege](notes/perdev/better/privilege.md)
+
+## On connecting with others
+- [Vulnerability](notes/perdev/better/vulnerability.md)

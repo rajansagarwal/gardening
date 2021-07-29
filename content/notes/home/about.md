@@ -6,7 +6,7 @@ title: "About Me"
 
 > 👋 Hello! I'm Chloe Abrasada. I actually have a second name that I don't use for branding purposes *(jkjk)*. I'm a productivity nerd 👩‍🏫, web lurker 💻, and design enthusiast 🎨.
 
-📚 I'm currently an incoming third year student in UP Manila studying Occupational Therapy. Outside school, I part time as a designer and volunteer in NGOs related to my cause. 🍃
+📚 I'm an incoming third year student in UP Manila studying Occupational Therapy. Outside school, I part time as a designer and volunteer in NGOs related to my cause. 🍃
 
 ## 🔗 Links
 - I publish my works here at my [portfolio](https://chloeabrasada.online/).
@@ -17,7 +17,7 @@ title: "About Me"
 
 ## 🍉 Luvs...
 
-🥳 I'm in love with learning, building, and creating! So I pretty much *can* get interested at mostly anything, but here are some of the things that really pique my interest:
+🥳 I'm in love with learning, building, and creating! So I pretty much *can* get interested at anything, but here are some of the things that really pique my interest:
 
 - I like learning about health in general! I've been a health nut (I don't drink carbonated drinks lol) for a huge part of my life and have been working out consistently since the start of 2021 after *yeeeeaaaarsss* of having month-long exercise stints.
 - Mental health! I started my advocacy journey back in 2018, and it has been a huge part of who I am.

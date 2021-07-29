@@ -8,7 +8,6 @@ title: "Design MOC"
 
 ## Concepts
 
-
 ## Learning
 - *Related to* [where-to-learn](notes/perdev/learning/where-to-learn.md)
 

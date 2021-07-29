@@ -5,7 +5,8 @@ title: "Roadmap"
 ## Currently...
 - Fixing the broken links
 - Building repository on [productivity](moc/productivity.md)
-- Finishing [personality tests](notes/perdev/mh/self-awareness/tests.md) list
+- Finishing [personality tests page](notes/perdev/mh/self-awareness/tests.md)
+- Finishing [confirmation bias page](notes/health/psycho/con-bias.md)
 
 ## Building these...
 - [ ] Upload resources on psychology

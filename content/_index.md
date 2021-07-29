@@ -14,28 +14,31 @@
 
 
 ## Main Maps of Content 🗺
+
+Most of these are still broken links 🍒 Adding an #empty tag so I can see them sorted as I build!
+
 - **Personal Development** 💪
-	- [Leadership MOC](moc/leadership.md)
-		- [Facilitation MOC](moc/facilitation.md)
+	- [Leadership MOC](moc/leadership.md) #empty
+		- [Facilitation MOC](moc/facilitation.md) #empty 
 	- [Learning MOC](moc/learning.md)
 	- [Life Advice MOC](moc/lifeadvice.md)
 	- [Becoming Better MOC](moc/better.md)
 	- [Mental Models MOC](moc/mental-models.md)
-	- [Mental Health MOC](moc/mh.md)
+	- [Mental Health MOC](moc/mh.md) 
 	- [Productivity MOC](moc/productivity.md)
 - **Health** 👩‍⚕️
-	- [Occupational Therapy MOC](moc/ot.md)
+	- [Occupational Therapy MOC](moc/ot.md) #empty 
 	- [Psychology MOC](moc/psycho.md)
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨
-	- [Design MOC](moc/design.md)
+	- [Design MOC](moc/design.md) #empty 
 - **Niche-based** 🥰
-	- [Human resources MOC](moc/hr.md)
-		- [Recruitment](notes/niche/hr/recruitment.md)
+	- [Human resources MOC](moc/hr.md) #empty 
+		- [Recruitment](notes/niche/hr/recruitment.md) #empty 
 
 ## Projects
-### [Writing](moc/writing.md)
+### [Writing](moc/writing.md) #empty 
 
 ## Keywords
 ### Points of Reference

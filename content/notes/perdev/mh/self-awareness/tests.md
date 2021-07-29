@@ -2,7 +2,6 @@
 title: "Personality Tests"
 ---
 
-**References**
 - **Tags:** 
 - **Relevant Notes:**
 	- [Self-awareness](notes/perdev/mh/self-awareness.md)

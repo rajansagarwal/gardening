@@ -2,11 +2,10 @@
 title: "Mental Models"
 ---
 
-**References**
 - **Sources:**
 	- [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) by Gabriel Weinberg
 - **Keywords:**
-- **Tags:** 
+- **Tags:** [in-progress](notes/por/in-progress.md)
 - **Related to**
 - **Thoughts:**
 
@@ -16,7 +15,6 @@ title: "Mental Models"
 
 ## Laws of Life
 ### Productivity
-- 
 
 ## Communication
 ### How to Explain Better

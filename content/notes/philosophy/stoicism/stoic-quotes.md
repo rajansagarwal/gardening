@@ -2,11 +2,12 @@
 title: "Quotes on Stoicism"
 ---
 
-## References
 - **Source:**
 - **Tags:** #stoicism 
 - **Relevant Notes:**
 - **Thoughts:**
+
+---
 
 ## Quotes
 - “We are often more frightened than hurt; and we suffer more from imagination than from reality.” — Seneca

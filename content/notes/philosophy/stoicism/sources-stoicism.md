@@ -2,7 +2,6 @@
 title: "Sources"
 ---
 
-**References**
 - **Source:**
 - **Tags:** 
 - **Relevant Notes:**

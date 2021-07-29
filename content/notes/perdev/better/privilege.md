@@ -2,7 +2,6 @@
 title: "Check your privilege"
 ---
 
-**References**
 - **Source:** [The Daily Stoic](notes/books/the-daily-stoic.md)
 - **Tags:** 
 - **Relevant Notes:**

@@ -3,7 +3,7 @@
 
 💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🪴
 
-🧠 In this garden/ [second brain](https://fortelabs.co/blog/basboverview/), I publish my learning notes, journeys, and projects as [evergreen notes](https://mikegiannulis.com/how-to-take-evergreen-notes/) that I continue to cultivate and grow. My notes range from fleeting notes to completely fleshed out permanent notes.
+🧠 In this garden/ [second brain](https://fortelabs.co/blog/basboverview/)↗️, I publish my learning notes, journeys, and projects as [evergreen notes](https://mikegiannulis.com/how-to-take-evergreen-notes/)↗️ that I continue to cultivate and grow. My notes range from fleeting notes to completely fleshed out permanent notes. I write more about digital gardens [here](notes/home/garden.md).
 
 > 💪  ***Building since July 26, 2021 and deployed on July 27, 2021.*** Still building and transferring files. There are also a loooot of broken links! I prematurely deployed since I was really excited about building it online. 
 

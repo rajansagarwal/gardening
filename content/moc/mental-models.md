@@ -2,6 +2,8 @@
 title: "Mental Models MOC"
 ---
 
+> Unsorted
+
 - **Sources:**
 	- [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) by Gabriel Weinberg
 - **Keywords:**

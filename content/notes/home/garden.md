@@ -6,6 +6,10 @@ This digital garden is one of my personal projects this year! I'm still learning
 
 I realized how unconducive for permanence my past notes were. I literally have too much bookmark managers + mind dumps *(thanks Apple Notes, Telegram, Messenger, Mem.ai for keeping up with me)*.
 
+This digital garden serves as my **personal knowledge management** system. I'm a really forgetful person who tends to highlight stuff and tbh rarely comes back to them! 😪 I want to overcome the [forgetting curve](notes/sources/books/book-notes/forgetting-curve.md) because there's so much to learn and love. 🌸
+
+---
+
 ## What's a digital garden?
 A digital garden is an online space at the intersection of a notebook and a blog, where digital gardeners share seeds of thoughts to be cultivated in public. Contrary to a blog, where articles and essays have a publication date and start decaying as soon as they are published, a digital garden is evergreen: digital gardeners keep on editing and refining their notes. [Ness Labs](https://nesslabs.com/digital-garden-set-up)
 
@@ -30,6 +34,14 @@ So yeah, what motivated me into building my own garden is how much it offered au
 
 
 ## Sources
+### Digital Gardens
 - [How to set up your own digital garden](https://nesslabs.com/digital-garden-set-up)
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 - [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
+
+### Other Helpful Links
+- [PKM Primer: An Introduction to Personal Knowledge Management for Creatives](https://thesweetsetup.com/pkm-intro-for-creatives/)
+- [A Beginner’s Guide to the Zettelkasten Method](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/) Still trying to learn how to integrate this to my system 😶‍🌫️
+- [How To Take Evergreen Notes (Part 4 In Series)](https://mikegiannulis.com/how-to-take-evergreen-notes/)
+- [The Second Brain - A Life-Changing Productivity System](https://www.youtube.com/watch?v=OP3dA2GcAh8)
+- [Building a Second Brain: An Overview](https://fortelabs.co/blog/basboverview/)

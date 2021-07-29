@@ -39,7 +39,6 @@ Most of these are still broken links 🍒 Adding an #empty tag so I can see them
 
 ## Projects
 ### [Writing](moc/writing.md) #empty 
-- [This a a test](test.md)
 
 
 ## Keywords

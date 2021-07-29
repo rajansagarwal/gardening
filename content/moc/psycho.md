@@ -1,5 +1,5 @@
 ---
-title: "Psychology"
+title: "Psychology MOC"
 ---
 
 ## Contents

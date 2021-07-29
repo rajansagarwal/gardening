@@ -1,5 +1,5 @@
 ---
-title: "Mental Health"
+title: "Mental Health MOC"
 ---
 
 ## [Self-awareness](notes/perdev/mh/self-awareness.md)

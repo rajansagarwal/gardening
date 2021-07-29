@@ -1,15 +1,5 @@
 ---
-title: "Productivity Map of Contents (MOC)"
----
-
----
-title: "productivity"
----
-
-- **Tags:** [in-progress](notes/por/in-progress.md)
-- **Relevant Notes:**
-- **Thoughts:**
-
+title: "Productivity MOC"
 ---
 
 > Mostly broken links still! (a/o July 29, 2021)

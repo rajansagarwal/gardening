@@ -1,7 +1,7 @@
 ---
-title: "writing"
+title: "Writing"
 ---
 
-# Writing
+> Emptyy!!
 
 ## Projects

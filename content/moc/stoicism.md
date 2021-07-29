@@ -1,5 +1,5 @@
 ---
-title: "stoicism"
+title: "Stoicism MOC"
 ---
 
 Early 2021, I journeyed on to integrating stoicism to my life. I think it's a wonderful philosophy that all in all makes life easier. Here are some of my ~~unstoic~~ notes as I was learning about stoicism and continue to build it on today.

@@ -1,5 +1,5 @@
 ---
-title: "Becoming Better"
+title: "Becoming Better MOC"
 ---
 
 ## **How to become a better person**

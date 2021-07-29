@@ -8,7 +8,7 @@ title: "Roadmap"
 - Finishing [personality tests page](notes/perdev/mh/self-awareness/tests.md)
 - Finishing [confirmation bias page](notes/health/psycho/con-bias.md)
 
-## Building these...
+## What to do..
 - [ ] Upload resources on psychology
 - [ ] Upload resources on journalling
 - [ ] Transfer material from Commonplace notebook

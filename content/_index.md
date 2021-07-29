@@ -38,6 +38,8 @@ Most of these are still broken links 🍒 Adding an #empty tag so I can see them
 - **Niche-based** 🥰
 	- [Human resources MOC](moc/hr.md) #empty 
 		- [Recruitment](notes/niche/hr/recruitment.md) #empty 
+- **Desk Clutter** 🧩
+	- [Daily Notes](moc/daily-notes.md)
 
 ## Projects
 ### [Writing](moc/writing.md) #empty 

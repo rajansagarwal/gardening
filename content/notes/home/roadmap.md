@@ -15,6 +15,6 @@ title: "Roadmap"
 - [x] Create [About Me](notes/home/about.md) page
 
 ## Trying to figure out...
-- How to highlight text
-- How to set-up the backlinks since they're not showing yet
+- [ ] How to highlight text
+- [x] How to set-up the backlinks since they're not showing yet
 	- **Reference:** https://quartz.jzhao.xyz/notes/editing/

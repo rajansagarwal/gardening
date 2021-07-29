@@ -1,7 +1,7 @@
-# Chloe's Digital Garden 🌸
+# Chloe's Digital Garden 🪴
 👋 Hey, I'm Chloe! As a chronic learner, I like my life with organized chaos.. hence the ~~scattered folder under folder~~ garden. 📁
 
-💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🪴
+💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🌸
 
 🧠 In this garden/ [second brain↗](https://fortelabs.co/blog/basboverview/), I publish my learning notes, journeys, and projects as [evergreen notes↗](https://mikegiannulis.com/how-to-take-evergreen-notes/) that I continue to cultivate and grow. My notes range from fleeting notes to completely fleshed out permanent notes. I write more about digital gardens [here](notes/home/garden.md).
 

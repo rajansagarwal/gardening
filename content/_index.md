@@ -10,9 +10,9 @@
 ---
 
 ## Home 🏡
-- [About Me](moc/about.md)
-- [On Digital Gardens](notes/about/garden.md)
-- [Roadmap-ish](notes/about/roadmap.md) 🫀
+- [About Me](notes/home/about.md)
+- [On Digital Gardens](notes/home/garden.md)
+- [Roadmap-ish](notes/home/roadmap.md) 🫀
 
 
 ## Main Maps of Content 🗺

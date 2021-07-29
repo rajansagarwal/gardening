@@ -5,7 +5,7 @@ title: "Where to Learn"
 - **Tags:** [in-progress](notes/por/in-progress.md)
 - **Relevant Notes:**
 	- [Learning](moc/learning.md)
-	- [What to Learn](notes/perdev/learning/what-to-learn.md)]
+	- [What to Learn](notes/perdev/learning/what-to-learn.md)
 - **Thoughts:**
 
 ---
@@ -24,6 +24,7 @@ title: "Where to Learn"
 - [The Gynasium](https://thegymnasium.com/)
 ### Courses
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+- [Hyperlink](https://hyperlink.academy/)
 
 ## Business
 - [GoTo Stage](https://www.gotostage.com/)

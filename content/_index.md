@@ -34,7 +34,7 @@ Most of these are still broken links 🍒 Adding an #empty tag so I can see them
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨
-	- [Design MOC](moc/design.md) #empty 
+	- [Design MOC](moc/design.md)
 - **Niche-based** 🥰
 	- [Human resources MOC](moc/hr.md) #empty 
 		- [Recruitment](notes/niche/hr/recruitment.md) #empty 
@@ -43,9 +43,12 @@ Most of these are still broken links 🍒 Adding an #empty tag so I can see them
 ### [Writing](moc/writing.md) #empty 
 
 
-## Keywords
-### Points of Reference
+## Points of Reference
+These are some keywords to link my notes as point of reference. The linked notes are in the backlinks 🎒
+
 - [come_back](notes/por/come_back.md)
 - [writing_prompt](notes/por/wri-prompt.md)
 - [philosophy](notes/por/philo.md)
 - [in_progress](notes/por/in-progress.md)
+- [read-queue](notes/por/read-queue.md)
+- [extra-push](notes/por/extra-push.md)

@@ -3,9 +3,7 @@
 
 💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🪴
 
-🌴 *Building since July 26, 2021*.
-
-> Deployed on July 27, 2021. Still building and transferring files. There are also a loooot of broken links! I prematurely deployed since I was really excited about building it online. 💪
+> 🌴  Building since July 26, 2021 and deployed on July 27, 2021. Still building and transferring files. There are also a loooot of broken links! I prematurely deployed since I was really excited about building it online. 💪
 
 ---
 
@@ -24,6 +22,7 @@
 	- [Becoming Better MOC](moc/better.md)
 	- [Mental Models MOC](moc/mental-models.md)
 	- [Mental Health MOC](moc/mh.md)
+	- [Productivity MOC](moc/productivity.md)
 - **Health** 👩‍⚕️
 	- [Occupational Therapy MOC](moc/ot.md)
 	- [Psychology MOC](moc/psycho.md)

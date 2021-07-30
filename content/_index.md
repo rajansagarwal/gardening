@@ -55,4 +55,4 @@ These are some keywords to link my notes as point of reference. The linked notes
 - 💭 [philosophy](notes/por/philo.md) for the notes related to philosophy 
 - 📚 [read-queue](notes/por/read-queue.md) for the notes I want to read soon
 - 💖 [extra-push](notes/por/extra-push.md) for the notes I want to read when I need an extra push
-- 🙇‍♀️ [pondering](notes/por/pondering.md) for the notes I'm still trying to take a stand on and that I'm constantly thinking of
+- 🙇‍♀️ [pondering](notes/por/pondering.md) for the notes I'm still trying to take a stand on and want to mind bump

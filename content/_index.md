@@ -36,15 +36,16 @@
 	- [Design MOC](moc/design.md)
 - **Career** 🎃
 	- [Human Resources MOC](moc/hr.md)
-- **Desk Clutter** 🧩
-	- [Daily Notes](moc/daily-notes.md)
-	- [To Read](moc/to-read.md)
 
-## Projects
-### [Writing](moc/writing.md)
+## Projects 🌟
+Nothing here yet!
+-  [Writing](moc/writing.md)
 
+## Desk Clutter 🧩
+- [Daily Notes](moc/daily-notes.md)
+- [To Read](moc/to-read.md)
 
-## [Points of Reference](moc/por.md)
+## [Points of Reference](moc/por.md) 🌞
 These are some keywords to link my notes as point of reference. The linked notes are in the backlinks 🎒
 
 - 👷‍ [in-progress](notes/por/in-progress.md) for the notes I'm still writing/ transferring

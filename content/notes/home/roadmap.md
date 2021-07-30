@@ -4,7 +4,7 @@ title: "Roadmap"
 
 ## Currently...
 - Fixing the broken links
-- Fixing the notes tagged [in-progress](notes/por/in-progress.md)
+- Fixing the notes tagged [in-progress](notes/por/in-progress.md) *(also will I ever lol)*
 
 ## What to do..
 - [ ] Upload resources on psychology

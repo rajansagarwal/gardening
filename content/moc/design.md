@@ -10,7 +10,7 @@ title: "Design MOC"
 ## Concepts
 
 ## Learning
-- *Related to* [where-to-learn](notes/perdev/learning/where-to-learn.md)
+- *Related to* [where-to-learn](notes/perdev/learning-thinking/where-to-learn.md)
 
 ## Tooling
 - [Cool Tools](notes/arts/design-tools.md)

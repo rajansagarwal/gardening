@@ -2,4 +2,6 @@
 title: "Human Resources MOC"
 ---
 
-- [Recruitment](notes/niche/hr/recruitment.md) 
+- [Interviews](notes/hr/interviews.md)
+	- [Interviews for Leadership in Organizations](notes/hr/interviews-org.md)
+- [On choosing your commitments](notes/hr/choosing.md)

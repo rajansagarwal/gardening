@@ -1,11 +1,11 @@
 ---
-title: "Interviews in Leaderships in Organizations"
+title: "Interviews for Leaderships in Organizations"
 ---
 
 ## Common Questions
 1. Tell me about yourself.
 2. Why do you want this position?
-3. Are you aware of [XYZ] and its projects?
+3. Are you aware of `XYZ` and its projects?
 4. How would you encourage members to join projects/ events?
 5. Do you have any projects in mind for the organization?
 6. What are your past relevant experience?
@@ -14,12 +14,12 @@ title: "Interviews in Leaderships in Organizations"
 9. What are you most passionate about?
 10. What is your personal mission statement?
 11. What would your friends say about you?
-12. Why will you be a good fit for <code>[XYZ]</code>?
+12. Why will you be a good fit for `XYZ`?
 13. What do you expect in this role?
 14. What are your strengths?
 15. What are your weaknesses?
-16. Why not position <code>[XYZ]</code>?
-17. How will you ensure your <code>[roles and responsibiities]</code>?
+16. Why not position `XYZ`?
+17. How will you ensure your `roles and responsibiities`?
 18. What do you understand about this role?
 
 ## Sources

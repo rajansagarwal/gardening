@@ -2,6 +2,4 @@
 title: "Writing"
 ---
 
-> Emptyy!!
-
-## Projects
+> No uploaded notes yet! Still building. 👷‍♀️

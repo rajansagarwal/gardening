@@ -5,7 +5,7 @@ title: "Where to Learn"
 - **Tags:** [in-progress](notes/por/in-progress.md)
 - **Relevant Notes:**
 	- [Learning](moc/learning.md)
-	- [What to Learn](notes/perdev/learning/what-to-learn.md)
+	- [What to Learn](notes/perdev/learning-thinking/what-to-learn.md)
 - **Thoughts:**
 
 ---

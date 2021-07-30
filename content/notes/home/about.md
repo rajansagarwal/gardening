@@ -9,11 +9,11 @@ title: "About Me"
 📚 I'm an incoming third year student in UP Manila studying Occupational Therapy. Outside school, I part time as a designer and volunteer in NGOs related to my cause. 🍃
 
 ## 🔗 Links
-- I publish my works here at my [portfolio](https://chloeabrasada.online/) and [Behance](https://www.behance.net/chloeabrasada).
-- Let's connect at [LinkedIn](https://www.linkedin.com/in/chloeabrasada)!
-- I like writing at [Medium](https://chloeabrasada.medium.com/) and will publish the *personal blog* soon.
-- I'm also at [Facebook](https://www.facebook.com/chloeabrasada/) and [Instagram](https://www.instagram.com/chloeabrasada).
-- I also like dumping my brain in [Are.na](https://www.are.na/chloe-abrasada) or inspiration-seeking in [Pinterest](https://www.pinterest.ph/chloeabrasada).
+- I publish my works here at my [portfolio](https://chloeabrasada.online/) and [Behance.](https://www.behance.net/chloeabrasada)
+- Let's connect at [LinkedIn!](https://www.linkedin.com/in/chloeabrasada)
+- I like writing at [Medium](https://chloeabrasada.medium.com/) and will publish a *personal blog* soon.
+- I'm also at [Facebook](https://www.facebook.com/chloeabrasada/) and [Instagram.](https://www.instagram.com/chloeabrasada)
+- I also like dumping my brain in [Are.na](https://www.are.na/chloe-abrasada) or inspiration-seeking in [Pinterest.](https://www.pinterest.ph/chloeabrasada)
 
 ## 🍉 Luvs...
 

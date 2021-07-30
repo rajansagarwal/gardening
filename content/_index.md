@@ -20,7 +20,7 @@
 Most of these are still broken links 🍒 Adding an #empty tag so I can see them sorted as I build!
 
 - **Personal Development** 💪
-	- [Leadership MOC](moc/leadership.md) #empty
+	- [Leadership MOC](moc/leadership.md)
 		- [Facilitation MOC](moc/facilitation.md) #empty 
 	- [Learning MOC](moc/learning.md)
 	- [Life Advice MOC](moc/lifeadvice.md)
@@ -40,6 +40,7 @@ Most of these are still broken links 🍒 Adding an #empty tag so I can see them
 		- [Recruitment](notes/niche/hr/recruitment.md) #empty 
 - **Desk Clutter** 🧩
 	- [Daily Notes](moc/daily-notes.md)
+	- [To Read](moc/to-read.md)
 
 ## Projects
 ### [Writing](moc/writing.md) #empty 

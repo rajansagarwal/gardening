@@ -4,7 +4,8 @@ title: "Design MOC"
 [in-progress](notes/por/in-progress.md)
 
 ## General
-- [Visual Design](notes/arts/visual.md)
+- [Visual design](notes/arts/visual.md)
+- [Design is political x Decolonizing design](notes/arts/decolonizing-design.md)
 
 ## Concepts
 

@@ -3,6 +3,7 @@ title: "Feedback"
 ---
 
 **Tags:** [might-publish](notes/por/might-publish.md)
+
 **Related to:**
 - [No to micromanaging](notes/perdev/leadership/micromanaging.md)
 - [Becoming better](moc/better.md)
@@ -10,6 +11,8 @@ title: "Feedback"
 I really value the importance of giving feedback. Our words are too powerful to impart things callously. I've seen people give feedback differently, and I think there's no super perfect formula into giving it because people are so unpredictable and subjective. I adjust my approach, but what I always seek to maintain is to relay feedback in a **constructive manner that helps a person move forward concretely**.
 
 A common argument against taking a very systematic and calculated approach is that we take away the directness of things. However, [directness just isn't an excuse to be an asshole.](notes/perdev/better/directness.md) You can find balance into creating [safe spaces](notes/perdev/mh/safe-spaces.md), [psychological safety](notes/perdev/mh/psychological-safety.md), and being candid.
+
+---
 
 ## Guiding Principles
 1. Give feedback that is and think-forward.

@@ -8,7 +8,7 @@ I realized how unconducive for permanence my past notes were. I literally have t
 
 This digital garden serves as my **personal knowledge management** system. I'm a really forgetful person who tends to highlight stuff and tbh rarely comes back to them! 😪 I want to overcome the [forgetting curve](notes/sources/books/book-notes/forgetting-curve.md) because there's so much to learn and love. 🌸
 
-> I built this with [Obsidian](https://obsidian.md/), [Quartz](https://quartz.jzhao.xyz/), and [Github](https://github.com/).
+> I built this with [Obsidian,](https://obsidian.md/) [Quartz,](https://quartz.jzhao.xyz/) and [Github](https://github.com/).
 
 ---
 

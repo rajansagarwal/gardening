@@ -31,6 +31,8 @@ Most of these are still broken links 🍒 Adding an #empty tag so I can see them
 - **Health** 👩‍⚕️
 	- [Occupational Therapy MOC](moc/ot.md) #empty 
 	- [Psychology MOC](moc/psycho.md)
+- **Social Sciences** 🤵‍♀️
+	- [Politics MOC](moc/politics.md)
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨

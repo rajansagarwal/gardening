@@ -3,7 +3,7 @@ title: "Productivity MOC"
 ---
 
 > Mostly broken links still! (a/o July 29, 2021)
-[in-progress](notes/por/in-progress.md) [come_back](notes/por/come_back.md)
+**Tags:** [in-progress](notes/por/in-progress.md) [come_back](notes/por/come_back.md)
 
 ## Concepts
 - [Don't fall into the overconfidence bias trap](notes/productivity/overconfidence.md)

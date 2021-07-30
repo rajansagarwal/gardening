@@ -4,8 +4,8 @@ title: "What to Learn"
 
 - **Tags:** 
 - **Relevant Notes:**
-	- [Learning](moc/learning.md)
-	- [Where to Learn](notes/perdev/learning-thinking/where-to-learn.md)
+	- [Learning](moc/ltc.md)
+	- [Where to Learn](notes/perdev/ltc/where-to-learn.md)
 - **Thoughts:**
 
 

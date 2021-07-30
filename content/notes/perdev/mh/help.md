@@ -4,7 +4,7 @@ title: "Never be afraid to ask for help"
 
 - **Tags:** 
 - **Relevant Notes:**
-	- [better](moc/better.md)
+	- [life-advice](moc/life-advice.md)
 - **Thoughts:**
 	- There's nothing wrong with asking for help.
 	- The idea of how some people appear successful/ "perfect" may create a barrier for them to becoming vulnerable. This prevents them from asking for help and lets them suffer along in private pain.

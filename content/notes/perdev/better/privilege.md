@@ -5,7 +5,7 @@ title: "Check your privilege"
 - **Source:** [The Daily Stoic](notes/books/the-daily-stoic.md)
 - **Tags:** 
 - **Relevant Notes:**
-	- [Becoming Better](moc/better.md)
+	- [life-advice](moc/life-advice.md)
 - **Thoughts:**
 
 ---

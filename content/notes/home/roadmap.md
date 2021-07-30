@@ -5,6 +5,7 @@ title: "Roadmap"
 ## Currently...
 - Fixing the broken links
 - Fixing the notes tagged [in-progress](notes/por/in-progress.md) *(also will I ever lol)*
+- Revisiting my old notes in Notion, Notes, Mem, Telegram, Messenger, Discord, etc. lol
 
 ## What to do..
 - [ ] Upload resources on psychology

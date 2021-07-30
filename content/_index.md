@@ -20,14 +20,14 @@
 - **Personal Development** 💪
 	- [Leadership MOC](moc/leadership.md)
 	- [Facilitation MOC](moc/facilitation.md)
-	- [Learning & Thinking MOC](moc/learning.md)
-	- [Life Advice MOC](moc/lifeadvice.md)
-	- [Becoming Better MOC](moc/better.md)
+	- [Learning, Thinking, & Communicating MOC](moc/ltc.md)
+	- [Life Advice MOC](moc/life-advice.md)
 	- [Mental Health MOC](moc/mh.md) 
 	- [Productivity MOC](moc/productivity.md)
-- **Health** 👩‍⚕️
+- **Science** 👩‍⚕️
 	- [Occupational Therapy MOC](moc/ot.md)
 	- [Psychology MOC](moc/psycho.md)
+	- [Environmental Education MOC](moc/envi.md)
 - **Social Sciences** 🤵‍♀️
 	- [Politics MOC](moc/politics.md)
 - **Philosophy** 🤲

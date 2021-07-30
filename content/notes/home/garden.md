@@ -4,7 +4,7 @@ title: "On Digital Gardens"
 
 This digital garden is one of my personal projects this year! I'm still learning if there's a *proper* way of setting it up.
 
-I realized how unconducive for permanence my past notes were. I literally have too much bookmark managers + mind dumps *(thanks Apple Notes, Telegram, Messenger, Mem.ai for keeping up with me)* that I never rarely come back to.
+I realized how unconducive for permanence my past notes were. I literally have too much bookmark managers + mind dumps *(thanks Apple Notes, Telegram, Messenger, Mem.ai for keeping up with me)*.
 
 This digital garden serves as my **personal knowledge management** system. I'm a really forgetful person who tends to highlight stuff and tbh rarely comes back to them! 😪 I want to overcome the [forgetting curve](notes/sources/books/book-notes/forgetting-curve.md) because there's so much to learn and love. 🌸
 

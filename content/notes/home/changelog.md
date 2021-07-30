@@ -1,8 +1,3 @@
----
-title: "Changelog"
----
-
-- 2021-07-31 at 04h42 · [[_index]]
 - 2021-07-31 at 03h03 · [[circular-economy]]
 - 2021-07-31 at 02h39 · [[privilege]]
 - 2021-07-31 at 02h39 · [[help]]
@@ -22,3 +17,4 @@ title: "Changelog"
 - 2021-07-31 at 01h43 · [[hr]]
 - 2021-07-31 at 01h43 · [[por]]
 - 2021-07-31 at 01h34 · [[daily-notes]]
+- 2021-07-31 at 01h32 · [[interviews]]

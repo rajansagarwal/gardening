@@ -2,7 +2,7 @@
 title: "Points of Reference"
 ---
 
-These are some keywords to link my notes as point of reference. The linked notes are in the backlinks 🎒
+These are some keywords to link my notes as point of reference. The linked notes are in the related notes section. 🎒
 
 - 🤩 [writing](notes/por/writing.md) for the notes I personally learned along the way
 - 🐶 [repository](notes/por/repository.md) for the notes where I dump out sources and materials

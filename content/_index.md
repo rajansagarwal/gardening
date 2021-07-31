@@ -13,6 +13,7 @@
 - [About Me](notes/home/about.md) 🧘‍♀️
 - [On Digital Gardens](notes/home/garden.md) 🪴
 - [Gardening System](notes/home/gardening-system) 🐵 *(unpublished)*
+- [Navigating the Garden](notes/home/navigate.md) 🍁 *(unpublished)*
 - [Roadmap-ish](notes/home/roadmap.md) 🫀
 
 
@@ -47,7 +48,7 @@ Nothing here yet!
 - [To Read](moc/to-read.md)
 
 ## [Points of Reference](moc/por.md) 🌞
-These are some keywords to link my notes as point of reference. The linked notes are in the backlinks 🎒
+These are some keywords to link my notes as point of reference. The linked notes are in the related notes section. 🎒
 - 🤩 [writing](notes/por/writing.md) for the notes I personally learned along the way
 - 🐶 [repository](notes/por/repository.md) for the notes where I dump out sources and materials
 - 👷‍ [in-progress](notes/por/in-progress.md) for the notes I'm still writing/ transferring

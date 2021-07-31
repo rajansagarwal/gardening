@@ -15,7 +15,7 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 
 ### Basically...
 - [Home](_index.md) 🏡
-	- Entry point towards all the notes. The main points of navigation and entry point are stored there.
+	- Entry point towards all the notes. The main points of navigation and entry points are stored there.
 - **From the Home ** 🗺
 	- **Main Maps of Content** 🌞
 		- I store these at the home page. I sorted these according to overarching ideas or themes between some notes. They contain general topics that branch to specific topics as you enter.

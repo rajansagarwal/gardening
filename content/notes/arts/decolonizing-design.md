@@ -10,7 +10,7 @@ title: "Design is political x Decolonizing design"
 
 ---
 
-## Reading Highlights
+## Highlights
 [What Does It Mean to Decolonize Design?](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/)[^1]
 - “Colonization” is rooted in indigenous peoples’ experiences of oppression—specifically, the seizure of native resources, as well as the embedding of Western ideology into society
 - The work designers make is inspired by taste, and taste is often derived from what we’re exposed to during our upbringing.

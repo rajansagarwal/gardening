@@ -2,6 +2,6 @@
 title: "Human Resources MOC"
 ---
 
-- [Interviews](interviews.md)
-	- [Interviews for Leadership in Organizations](interviews-org.md)
-- [On choosing your commitments](choosing.md)
+- [Interviews](notes/career/interviews.md)
+	- [Interviews for Leadership in Organizations](notes/career/interviews-org.md)
+	- [Should you send a thank you note?](notes/career/ty-note.md)

@@ -13,7 +13,7 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 
 ![garden-structure](/notes/photos/garden-structure.png)
 
-### Basically...
+### Basically... 🎧
 - [Home](_index.md) 🏡
 	- Entry point towards all the notes. The main points of navigation and entry points are stored there.
 - **From the Home ** 🗺

@@ -27,13 +27,15 @@
 	- [Mental Health MOC](moc/mh.md) 
 	- [Productivity MOC](moc/productivity.md)
 	- [Kindness MOC](moc/kindness.md)
-- **Science** 👩‍⚕️
+- **Sciences** 👩‍⚕️
 	- [Occupational Therapy MOC](moc/ot.md)
-	- [Psychology MOC](moc/psycho.md)
+	- [Psychology MOC](moc/psychology.md)
 	- [Environmental Education MOC](moc/envi.md)
-- **Social Sciences** 🤵‍♀️
+- **Social Sciences** 💎
 	- [Politics MOC](moc/politics.md)
 	- [Social Change MOC](moc/social-change.md)
+		- [Feminism MOC](moc/feminism.md)
+		- [Activism MOC](moc/activism.md)
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨

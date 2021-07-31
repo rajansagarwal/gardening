@@ -52,7 +52,7 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 - This is especially useful for my [points of reference.](moc/por.md)
 
 ### Using the Interactive Graph 📈
-- The **teal circle** represents where you are in within the garden of notes. Hovering to a certain point reveals the connections between the notes, and you can jump from one note to another from here.
+- The **teal circle** represents where you are within the garden of notes. Hovering to a certain point reveals the connections between the notes, and you can jump from one note to another from here.
 
 
 ---

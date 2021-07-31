@@ -2,15 +2,15 @@
 title: "How to Change Your Life"
 ---
 
-- **Tags:** 
+- **Tags:** [extra-push](notes/por/extra-push.md)
 - **Relevant Notes:**
-	- [read-when-you-need-an-extra-push](notes/por/extra-push.md)
-- **Thoughts:**
 
 ---
+## Notes
 
-## Three Steps To Transform Your Life
-**Source:** https://www.youtube.com/watch?v=L51h8BBu7b8
+---
+## Highlights
+ [Three Steps To Transform Your Life](https://www.youtube.com/watch?v=L51h8BBu7b8)
 
 **From a YT Comment**
 - **Step 1.** Laser focus on what you want and only what you want. Don't talk yourself or allow yourself to be talked out of your desire. Write it down. Don't let yourself get distracted. 

@@ -4,11 +4,12 @@ title: "Circular Economy"
 
 - **Tags:** [in-progress](notes/por/in-progress.md) 
 - **Relevant Notes:**
-- **Thoughts:**
+
+## Notes
 
 ---
 
-### Notes
+## Reading Highlights
 [How Circular is the Circular Economy? - Local Futures](https://www.localfutures.org/how-circular-is-the-circular-economy/)
 
 In the circular economy, resources would be continually re-used, meaning that there would be no more mining activity or waste production. The stress is on recycling, made possible by designing products so that they can easily be taken apart.
@@ -30,3 +31,6 @@ Several scientific studies (see references) describe the concept as an “ideali
     1. A considerable segment of all resources – about a third of the total – are neither recycled, nor incinerated or dumped: they are accumulated in buildings, infrastructure, and consumer goods. In 2005, 62 Gt of resources were used globally. After subtracting energy sources (fossil fuels and biomass) and waste from the mining sector, the remaining 30 Gt were used to make material goods. Of these, 4 Gt was used to make products that last for less than one year (disposable products).
 
 A more responsible use of resources is of course an excellent idea. But to achieve that, recycling and re-use alone aren’t enough. Since 71% of all resources cannot be recycled or re-used (44% of which are energy sources and 27% of which are added to existing stocks), you can only really get better numbers by reducing total use.
+
+## Sources
+[How Circular is the Circular Economy? - Local Futures](https://www.localfutures.org/how-circular-is-the-circular-economy/)

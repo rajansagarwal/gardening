@@ -2,10 +2,8 @@
 title: "Sources"
 ---
 
-- **Source:**
-- **Tags:** 
+- **Tags:** [repository](notes/por/repository.md)
 - **Relevant Notes:**
-- **Thoughts:**
 
 ---
 

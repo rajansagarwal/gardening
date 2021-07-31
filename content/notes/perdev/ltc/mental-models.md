@@ -3,8 +3,6 @@ title: "Mental Models MOC"
 ---
 
 - **Tags:** [in-progress](notes/por/in-progress.md)
-- **Related to**
-- **Thoughts:**
 
 ---
 

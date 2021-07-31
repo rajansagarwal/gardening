@@ -2,6 +2,9 @@
 title: "Interviews for Leaderships in Organizations"
 ---
 
+**Tags:** [writing](notes/por/writing.md)
+**Relevant Notes**
+
 ## Common Questions
 1. Tell me about yourself.
 2. Why do you want this position?

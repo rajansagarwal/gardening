@@ -2,11 +2,10 @@
 title: "Where to Learn"
 ---
 
-- **Tags:** [in-progress](notes/por/in-progress.md)
+- **Tags:** [in-progress](notes/por/in-progress.md), [repository](notes/por/repository.md)
 - **Relevant Notes:**
 	- [Learning](moc/ltc.md)
 	- [What to Learn](notes/perdev/ltc/what-to-learn.md)
-- **Thoughts:**
 
 ---
 

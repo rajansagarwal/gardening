@@ -2,28 +2,30 @@
 title: "How to Be Stoic"
 ---
 
-- **Tags:** #philosophy #stoicism
+- **Tags:** [philo](notes/por/philo.md)
 - **Relevant Notes:**
 	- [What to answer to mamamatay rin tayong lahat](notes/perdev/life-advice/mamamatay.md)
-- **Thoughts:**
+
+## Notes
 
 ---
 
-## Dichothomy of Control
+## Highlights
+### Dichotomy of Control
 “The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own . . .” Epictetus
 
 The single most important practice in Stoic philosophy is differentiating between what we can change and what we can’t. What we have influence over and what we do not. A flight is delayed because of weather— no amount of yelling at an airline representative will end a storm. No amount of wishing will make you taller or shorter or born in a different country. No matter how hard you try, you can’t make someone like you. And on top of that, time spent hurling yourself at these immovable objects is time not spent on the things we can change.
 
-## Journal
+### Journal
 
 “Few care now about the marches and countermarches of the Roman commanders. What the centuries have clung to is a notebook of thoughts by a man whose real life was largely unknown who put down in the midnight dimness not the events of the day or the plans of the morrow, but something of far more permanent interest, the ideals and aspirations that a rare spirit lived by.” — Brand Blanshard
 
-## Practice Misfortune
+### Practice Misfortune
 Seneca, who enjoyed great wealth as the adviser of Nero, suggested that we ought to set aside a certain number of days each month to practice poverty. Take a little food, wear your worst clothes, get away from the comfort of your home and bed. Put yourself face to face with want, he said, you’ll ask yourself “Is this what I used to dread?”
 
 Practice what you fear, whether a simulation in your mind or in real life. The downside is almost always reversible or transient.
 
-## Train Perceptions
+### Train Perceptions
 
 “Choose not to be harmed and you won’t feel harmed. Don’t feel harmed and you haven’t been.” — Marcus Aurelius*
 
@@ -31,7 +33,7 @@ Suppose for a second that you are trying to help someone and they respond by bei
 
 "The impediment to action advances action. What stands in the way becomes the way.”*
 
-## Remember - It's All Ephemeral
+### Remember - It's All Ephemeral
 
 “Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend…or not even a legend. Think of all the examples. And how trivial the things we want so passionately are.”*
 
@@ -49,7 +51,7 @@ Marcus would often practice an exercise that is referred to as “taking the vie
 
 Seeing how small we are in the grand scheme of things is only one portion of this exercise. The second, more subtle point, is to tap into what the Stoics call sympatheia, or a mutual interdependence with the whole of humanity. As the astronaut Edgar Mitchell, one of the first people to actually experience a real ‘view from above’ put it, “In outer space you develop an instant global consciousness, a people orientation, an intense dissatisfaction with the state of the world, and a compulsion to do something about it.” Take a step back from your own concerns and remind yourself of your duty to others. Take Plato’s view.
 
-## Memento Mori: Meditate on Your Mortality
+### Memento Mori: Meditate on Your Mortality
 “Let us prepare our minds as if we’d come to the very end of life. Let us postpone nothing. Let us balance life’s books each day. … The one who puts the finishing touches on their life each day is never short of time.” Seneca*
 
 ## Premeditatio Malorum → Premeditation of Evils
@@ -57,7 +59,7 @@ Seeing how small we are in the grand scheme of things is only one portion of thi
 
 The premeditatio malorum (“the pre-meditation of evils”) is a Stoic exercise of imagining things that could go wrong or be taken away from us. It helps us prepare for life’s inevitable setbacks. We don’t always get what is rightfully ours, even if we’ve earned it. Not everything is as clean and straightforward as we think they may be. Psychologically, we must prepare ourselves for this to happen. It is one of the most powerful exercise in the Stoics’ toolkit to build resilience and strength.
 
-## Amor Fati
+### Amor Fati
 
 “To love only what happens, what was destined. No greater harmony.” — Marcus Aurelius*
 The great German philosopher Friedrich Nietzsche would describe his formula for human greatness as amor fati—a love of fate. “That one wants nothing to be different, not forward, not backwards, not in all eternity. Not merely bear what is necessary, still less conceal it….but love it.”

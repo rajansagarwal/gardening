@@ -2,10 +2,9 @@
 title: "Personality Tests"
 ---
 
-- **Tags:** 
+- **Tags:** [repository](notes/por/repository.md)
 - **Relevant Notes:**
 	- [Self-awareness](notes/perdev/mh/self-awareness.md)
-- **Thoughts:**
 
 ---
 ## Tests

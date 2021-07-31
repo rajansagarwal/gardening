@@ -3,13 +3,13 @@ title: "Circular Economy"
 ---
 
 - **Tags:** [in-progress](notes/por/in-progress.md) 
-- **Relevant Notes:**
+- **Relevant Notes**
 
 ## Notes
 
 ---
 
-## Reading Highlights
+## Highlights
 [How Circular is the Circular Economy? - Local Futures](https://www.localfutures.org/how-circular-is-the-circular-economy/)
 
 In the circular economy, resources would be continually re-used, meaning that there would be no more mining activity or waste production. The stress is on recycling, made possible by designing products so that they can easily be taken apart.

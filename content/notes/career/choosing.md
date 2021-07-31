@@ -3,7 +3,7 @@ title: "On choosing your commitments"
 ---
 
 - **Tags:** 
-- **Relevant Notes:**
+- **Relevant Notes**
 
 ## Notes
 - It's better to undercommit than overcommit
@@ -13,7 +13,7 @@ title: "On choosing your commitments"
 
 ---
 
-## Reading Highlights
+## Highlights
 
 ---
 

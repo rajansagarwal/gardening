@@ -3,7 +3,7 @@ title: "What to Learn"
 ---
 
 - **Tags:** [repository](notes/por/repository.md)
-- **Relevant Notes:**
+- **Relevant Notes**
 	- [Learning](moc/ltc.md)
 	- [Where to Learn](notes/perdev/ltc/where-to-learn.md)
 

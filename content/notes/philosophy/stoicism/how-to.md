@@ -3,7 +3,7 @@ title: "How to Be Stoic"
 ---
 
 - **Tags:** [philo](notes/por/philo.md)
-- **Relevant Notes:**
+- **Relevant Notes**
 	- [What to answer to mamamatay rin tayong lahat](notes/perdev/life-advice/mamamatay.md)
 
 ## Notes

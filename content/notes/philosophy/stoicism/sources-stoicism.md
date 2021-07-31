@@ -3,7 +3,7 @@ title: "Sources"
 ---
 
 - **Tags:** [repository](notes/por/repository.md)
-- **Relevant Notes:**
+- **Relevant Notes**
 
 ---
 

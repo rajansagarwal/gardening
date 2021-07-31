@@ -3,8 +3,9 @@ title: "Check your privilege"
 ---
 
 - **Tags:** 
-- **Relevant Notes:**
+- **Relevant Notes**
 	- [life-advice](moc/life-advice.md)
+	- [relating](notes/perdev/kindness/relating-to-others.md)
 
 ## Notes
 

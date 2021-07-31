@@ -3,7 +3,7 @@ title: "How to Change Your Life"
 ---
 
 - **Tags:** [extra-push](notes/por/extra-push.md)
-- **Relevant Notes:**
+- **Relevant Notes**
 
 ---
 ## Notes

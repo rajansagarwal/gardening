@@ -3,7 +3,7 @@ title: "What to answer to 'mamamatay rin tayong lahat'"
 ---
 
 - **Tags:** [writing](notes/por/writing.md)
-- **Relevant Notes:**
+- **Relevant Notes**
 
 ---
 This may seem.. morbid. While I do admit that I sometimes say "Mamamatay din tayong lahat" in an escapist manner *(albeit true)*, I do acknowledge that it is true, comforting, and a good way to move forward when it comes to handling problems. However, this acceptance into the finite nature of life also makes one prone to not living ceasing each day.

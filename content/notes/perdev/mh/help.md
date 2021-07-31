@@ -5,7 +5,7 @@ title: "Never be afraid to ask for help"
 - **Tags:** 
 - **Relevant Notes**
 	- [life-advice](moc/life-advice.md)
-	- [vulnerability](notes/perdev/better/vulnerability.md)
+	- [vulnerability](notes/perdev/life-advice/vulnerability.md)
 
 ## Notes
  - There's nothing wrong with asking for help

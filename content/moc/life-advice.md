@@ -7,8 +7,9 @@ title: "Life Advice MOC"
 ## Content
 - [What to answer to mamamatay din tayong lahat](notes/perdev/life-advice/mamamatay.md)
 - [How to change your life](notes/perdev/life-advice/change-life.md)
-- [Check your privilege](notes/perdev/better/privilege.md)
-- [Vulnerability](notes/perdev/better/vulnerability.md)
+- [Check your privilege](notes/perdev/life-advice/privilege.md)
+- [Vulnerability](notes/perdev/life-advice/vulnerability.md)
+- [Start with why–Golden Circle](notes/perdev/life-advice/start-with-why.md)
 
 ---
 ## Words & Quotes

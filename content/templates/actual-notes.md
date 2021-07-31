@@ -9,8 +9,4 @@ title: "{{title}}"
 
 ## Notes
 
----
-
 ## Highlights
-
-## Sources

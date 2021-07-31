@@ -5,13 +5,13 @@ title: "Design is political x Decolonizing design"
 ## Notes
 - Western ideologies have shaped our concepts of "preferable design"
 	- Anything outside these Western preferences are seen as different
-- We should remove the distinction of art and craft
+- We should remove the distinction of art and craft[^2]
 	- The concept of a difference between art and craft reflect classist distinctions from the West
 
 ---
 
 ## Reading Highlights
-[What Does It Mean to Decolonize Design?](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/)
+[What Does It Mean to Decolonize Design?](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/)[^1]
 - “Colonization” is rooted in indigenous peoples’ experiences of oppression—specifically, the seizure of native resources, as well as the embedding of Western ideology into society
 - The work designers make is inspired by taste, and taste is often derived from what we’re exposed to during our upbringing.
 - The authority of the canon has undermined the work produced by non-Western cultures and those from poorer background
@@ -24,8 +24,5 @@ title: "Design is political x Decolonizing design"
 - But there are certain situations where we cannot begin to identify with the lived experiences of the audience we need to communicate with.
 - For far too long, designers have remained married to the concept that what we do is neutral, universal, that politics has no place in design,” says Abdulla. Yet the choices we make as designers are intrinsically political
 
-
----
-## Sources
-- [What Does It Mean to Decolonize Design?](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/)
-- [Is there a difference between art and craft? - Laura Morelli - YouTube](https://www.youtube.com/watch?v=tVdw60eCnJI)
+[^1]: [What Does It Mean to Decolonize Design?](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/)
+[^2]: [Is there a difference between art and craft? - Laura Morelli - YouTube](https://www.youtube.com/watch?v=tVdw60eCnJI)

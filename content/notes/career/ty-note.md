@@ -9,9 +9,6 @@ title: "Should you send a thank you note?"
 ## Notes
 - TLDR; Yes.
 
-
----
-
 ## Highlights
 Thanks or no thanks? Sending a note[^1]
 - They suggest:

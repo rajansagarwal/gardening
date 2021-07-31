@@ -7,10 +7,8 @@ title: "Circular Economy"
 
 ## Notes
 
----
-
 ## Highlights
-[How Circular is the Circular Economy? - Local Futures](https://www.localfutures.org/how-circular-is-the-circular-economy/)
+[How Circular is the Circular Economy? - Local Futures](https://www.localfutures.org/how-circular-is-the-circular-economy/)[^1]
 
 In the circular economy, resources would be continually re-used, meaning that there would be no more mining activity or waste production. The stress is on recycling, made possible by designing products so that they can easily be taken apart.
 
@@ -32,5 +30,6 @@ Several scientific studies (see references) describe the concept as an “ideali
 
 A more responsible use of resources is of course an excellent idea. But to achieve that, recycling and re-use alone aren’t enough. Since 71% of all resources cannot be recycled or re-used (44% of which are energy sources and 27% of which are added to existing stocks), you can only really get better numbers by reducing total use.
 
-## Sources
-[How Circular is the Circular Economy? - Local Futures](https://www.localfutures.org/how-circular-is-the-circular-economy/)
+
+
+[^1]: [How Circular is the Circular Economy? - Local Futures](https://www.localfutures.org/how-circular-is-the-circular-economy/)

@@ -11,10 +11,4 @@ title: "On choosing your commitments"
 - Strive for quantity > quality
 	- Employers look at value of experience, growth, and impact, NOT how many interships you had
 
----
-
 ## Highlights
-
----
-
-## Sources

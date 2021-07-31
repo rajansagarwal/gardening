@@ -1,5 +1,5 @@
 ---
-title: "Sources"
+title: "Sources on Stoicism"
 ---
 
 - **Tags:** [repository](notes/por/repository.md)

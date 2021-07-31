@@ -2,13 +2,13 @@
 title: "How to Be Stoic"
 ---
 
+Still finding where I got these!
+
 - **Tags:** [philo](notes/por/philo.md)
 - **Relevant Notes**
 	- [What to answer to mamamatay rin tayong lahat](notes/perdev/life-advice/mamamatay.md)
 
 ## Notes
-
----
 
 ## Highlights
 ### Dichotomy of Control

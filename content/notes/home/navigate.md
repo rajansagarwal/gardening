@@ -5,11 +5,11 @@ title: "Navigating the Garden"
 Hello! 👋 Thank you so much for being here! In this page, I map out how this garden is structured for ease of navigation. There are a lot of links & backlinks, so it can get confusing! 😵‍💫
 
 ## Structure 🏛
-I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Here's a basic outline of what navigating looks like:
-
 Digital gardens are composed of notes that are interlinked for the purpose of linking thinking. As such, there are notes inside notes.
 
 I structured my garden in this manner from when you navigate from the [homepage.](_index.md) Whilte it does seem linear, all notes are actually interconnected! So you can jump from one note to another and find one note also in another note.
+
+I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Here's a basic outline of what navigating looks like:
 
 ![garden-structure](/notes/photos/garden-structure.png)
 

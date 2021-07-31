@@ -8,11 +8,16 @@ title: "Learning, Thinking, & Communicating MOC"
 
 ## Thinking
 - [Mental Models](notes/perdev/ltc/mental-models.md)
-- [Second Brain](notes/perdev/learning-thinking/second-brain.md)
+- [Second Brain](notes/perdev/ltc/second-brain.md)
+- [Visual Thinking](notes/perdev/ltc/visual-thinking.md)
 ### Problem-solving
-- [5 Whys](notes/perdev/learning-thinking/whys.md)
+- [5 Whys](notes/perdev/ltc/whys.md)
 
 ## Communicating
 ### Questioning
-- [Socratic method](notes/perdev/learning-thinking/socratic.md)
-- [5 Whys](notes/perdev/learning-thinking/whys.md)
+- [Socratic method](notes/perdev/ltc/socratic.md)
+- [5 Whys](notes/perdev/ltc/whys.md)
+
+## Sources
+- [Kinopio](https://kinopio.club/types-of-thinking-iMpOnWd83whg3niGIdbRK) [to-read](moc/to-read.md)
+- [Use these visual thinking tools to explore, clarify, and communicate your ideas. | by Erin Rufledt Hunter | Luminary Lab | Medium](https://medium.com/luminary-lab/use-these-visual-thinking-tools-to-explore-clarify-and-communicate-your-ideas-3b493d016b18)]

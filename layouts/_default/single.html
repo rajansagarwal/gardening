@@ -8,6 +8,11 @@
     {{partial "darkmode.html" .}}
     <article>
         {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
+        <p style="color:gray"><i>Last updated on <span id="demo"></span></i></span></p>
+
+        <script>
+        document.getElementById("demo").innerHTML = document.lastModified;
+        </script>
         {{if $.Site.Data.config.enableToc}}
         <aside class="mainTOC">
             <h3>Table of Contents</h3>

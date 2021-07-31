@@ -7,7 +7,7 @@ Hello! 👋 Thank you so much for being here! In this page, I map out how this g
 ## Structure 🏛
 Digital gardens are composed of notes that are interlinked for the purpose of linking thinking. As such, there are notes inside notes.
 
-I structured my garden in this manner from when you navigate from the [homepage.](_index.md) Whilte it does seem linear, all notes are actually interconnected! So you can jump from one note to another and find one note also in another note.
+I structured my garden in this manner from when you navigate from the [homepage.](_index.md) While it does seem linear, all notes are actually interconnected! So you can jump from one note to another and find one note also in another note.
 
 I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Here's a basic outline of what navigating looks like:
 

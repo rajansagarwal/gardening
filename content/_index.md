@@ -26,18 +26,21 @@
 	- [Life Advice MOC](moc/life-advice.md)
 	- [Mental Health MOC](moc/mh.md) 
 	- [Productivity MOC](moc/productivity.md)
+	- [Kindness MOC](moc/kindness.md)
 - **Science** 👩‍⚕️
 	- [Occupational Therapy MOC](moc/ot.md)
 	- [Psychology MOC](moc/psycho.md)
 	- [Environmental Education MOC](moc/envi.md)
 - **Social Sciences** 🤵‍♀️
 	- [Politics MOC](moc/politics.md)
+	- [Social Change MOC](moc/social-change.md)
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨
 	- [Design MOC](moc/design.md)
 - **Career** 🎃
 	- [Human Resources MOC](moc/hr.md)
+	- [Career Advice MOC](moc/career-advice.md)
 
 ## Projects 🌟
 Nothing here yet!

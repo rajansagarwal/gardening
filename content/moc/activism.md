@@ -2,4 +2,4 @@
 title: "Activism"
 ---
 
-- [Faux activism](notes/soc-sci/activism/faux.md)
+- [Faux activism](notes/soc-sci/activism/faux-activism.md)

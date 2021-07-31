@@ -12,7 +12,7 @@
 ## Home 🏡
 - [About Me](notes/home/about.md) 🧘‍♀️
 - [On Digital Gardens](notes/home/garden.md) 🪴
-- [Gardening System](notes/home/gardening-system) 🐵 *(unpublished)*
+- [Gardening System](notes/home/gardening-system) 🐵
 - [Navigating the Garden](notes/home/navigate.md) 🍁
 - [Roadmap-ish](notes/home/roadmap.md) 🫀
 

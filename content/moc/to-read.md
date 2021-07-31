@@ -1,12 +1,14 @@
-How to Stop Micromanaging Your Teamg List"
+---
+Title: "To Read"
 ---
 
 **Tag:** [come_back](notes/por/come_back.md)
 
+## Haven't read
 -  [ ] [How to grow liveable worlds: Ten (not-so-easy) steps for life in the Planthroposcene](https://www.abc.net.au/religion/natasha-myers-how-to-grow-liveable-worlds:-ten-not-so-easy-step/11906548)
 
 
-## To Revisit & Take Notes
+## To revisit & take notes
 07/31: Read these before and posted these somewhere, want to read them again since I didn't take notes!
 - [ ] [How to Keep Changing the World When You're Burning Out](https://philippines.makesense.org/2021/06/03/how-to-keep-changing-the-world-when-youre-burning-out/)
 - [ ] [Stories are Necessary for Our Survival | Zeus Jones](https://zeusjones.com/athena/articles/stories-are-necessary-for-our-survival)
@@ -30,4 +32,4 @@ How to Stop Micromanaging Your Teamg List"
 - [ ] [An Occupational Therapist's Role in Person-Centered Design | Rebecca Langbein | TEDxJeffersonU - YouTube](https://www.youtube.com/watch?v=HD6PdW5vHkQ) [ot](moc/ot.md) [moc/ux-design.md](moc/ux-design.md)
 - [ ] [Most of us tend to be attracted to people who are similar to ourselves](https://www.psypost.org/2017/03/us-tend-attracted-people-similar-48596) [psycho](moc/psycho.md) [notes/health/psycho/attraction.md](notes/health/psycho/attraction.md)
 - [ ] [10 Lessons I Learned From 10 Years of Depression | by Jesh Orquina | Medium](https://medium.com/@jeshorquina/10-lessons-i-learned-from-10-years-of-depression-8c7ddff8f268) [mh](moc/mh.md)
-- [ ] [Fetching Title#h4gn](https://www.powerofpositivity.com/research-reveals-kids-more-hugs-more-developed-brains/) [psycho](moc/psycho.md)
+- [ ] [Researchers Reveal Kids Who Get More Hugs Have More Developed Brains](https://www.powerofpositivity.com/research-reveals-kids-more-hugs-more-developed-brains/) [psycho](moc/psycho.md)

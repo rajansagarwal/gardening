@@ -28,6 +28,7 @@
 	- [Productivity MOC](moc/productivity.md)
 	- [Kindness MOC](moc/kindness.md)
 - **Sciences** 👩‍⚕️
+	- [Health MOC](moc/health.md)
 	- [Occupational Therapy MOC](moc/ot.md)
 	- [Psychology MOC](moc/psychology.md)
 	- [Environmental Education MOC](moc/envi.md)

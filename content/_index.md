@@ -29,7 +29,6 @@
 	- [Kindness MOC](moc/kindness.md)
 - **Sciences** 👩‍⚕️
 	- [Health MOC](moc/health.md)
-	- [Occupational Therapy MOC](moc/ot.md)
 	- [Psychology MOC](moc/psychology.md)
 	- [Environmental Education MOC](moc/environmental-educ.md)
 - **Social Sciences** 💎
@@ -37,6 +36,7 @@
 	- [Social Change MOC](moc/social-change.md)
 		- [Feminism MOC](moc/feminism.md)
 		- [Activism MOC](moc/activism.md)
+	- [Education MOC](moc/education.md)
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts** 🎨
@@ -44,6 +44,7 @@
 - **Career** 🎃
 	- [Human Resources MOC](moc/hr.md)
 	- [Career Advice MOC](moc/career-advice.md)
+
 
 ## Projects 🌟
 Nothing here yet!

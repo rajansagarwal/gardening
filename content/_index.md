@@ -31,7 +31,7 @@
 	- [Health MOC](moc/health.md)
 	- [Occupational Therapy MOC](moc/ot.md)
 	- [Psychology MOC](moc/psychology.md)
-	- [Environmental Education MOC](moc/envi.md)
+	- [Environmental Education MOC](moc/environmental-educ.md)
 - **Social Sciences** 💎
 	- [Politics MOC](moc/politics.md)
 	- [Social Change MOC](moc/social-change.md)

@@ -2,7 +2,8 @@
 title: "Changelog"
 ---
 
-- 2021-08-01 at 15h44 · [[_index]]
+- 2021-08-01 at 15h54 · [[changelog-temp]]
+- 2021-08-01 at 15h53 · [[_index]]
 - 2021-08-01 at 15h39 · [[navigate]]
 - 2021-08-01 at 15h38 · [[daily-notes]]
 - 2021-08-01 at 15h36 · [[politics]]
@@ -22,3 +23,12 @@ title: "Changelog"
 - 2021-08-01 at 14h55 · [[2021-08-01]]
 - 2021-08-01 at 14h55 · [[por]]
 - 2021-08-01 at 03h59 · [[active-listening]]
+- 2021-08-01 at 03h46 · [[2021-07-30]]
+- 2021-08-01 at 03h44 · [[kindness]]
+- 2021-08-01 at 03h37 · [[garden]]
+- 2021-08-01 at 01h56 · [[roadmap]]
+- 2021-08-01 at 01h52 · [[life-advice]]
+- 2021-08-01 at 01h52 · [[help]]
+- 2021-08-01 at 00h30 · [[faux-activism]]
+- 2021-08-01 at 00h30 · [[activism]]
+- 2021-08-01 at 00h13 · [[leadership]]

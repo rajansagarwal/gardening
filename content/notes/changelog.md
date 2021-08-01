@@ -1,5 +1,5 @@
 ---
-title: "Changelog"
+title: "changelog"
 ---
 
 - 2021-08-01 at 15h54 · [[changelog-temp]]

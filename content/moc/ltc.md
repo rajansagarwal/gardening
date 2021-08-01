@@ -14,6 +14,7 @@ title: "Learning, Thinking, & Communicating MOC"
 - [5 Whys](notes/perdev/ltc/whys.md)
 
 ## Communicating
+- [Public speaking](notes/perdev/ltc/public-speaking.md)
 ### Questioning
 - [Socratic method](notes/perdev/ltc/socratic.md)
 - [5 Whys](notes/perdev/ltc/whys.md)

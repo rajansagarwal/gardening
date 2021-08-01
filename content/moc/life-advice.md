@@ -10,6 +10,7 @@ title: "Life Advice MOC"
 - [Check your privilege](notes/perdev/life-advice/privilege.md)
 - [Vulnerability](notes/perdev/life-advice/vulnerability.md)
 - [Start with why–Golden Circle](notes/perdev/life-advice/start-with-why.md)
+- [Don't be afraid of failure](notes/perdev/life-advice/afraid-failure.md)
 
 ---
 ## Words & Quotes

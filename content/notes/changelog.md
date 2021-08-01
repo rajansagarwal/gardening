@@ -1,3 +1,7 @@
+---
+title: "Changelog"
+---
+
 - 2021-08-01 at 16h10 · [[roadmap]]
 - 2021-08-01 at 15h58 · [[_index]]
 - 2021-08-01 at 15h54 · [[changelog-temp]]

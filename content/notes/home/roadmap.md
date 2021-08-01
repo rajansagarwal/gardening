@@ -19,6 +19,6 @@ title: "Roadmap"
 
 ## Trying to figure out...
 - [ ] How to highlight text
-- [ ] How to add a changelog
+- [x] How to add a changelog
 - [x] How to set-up the backlinks since they're not showing yet
 	- **Reference:** https://quartz.jzhao.xyz/notes/editing/

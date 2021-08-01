@@ -33,6 +33,7 @@ So yeah, what motivated me into building my own garden is how much it offered au
 - [Tom Critchlow](http://tomcritchlow.com/)
 - [Joel's Digital Garden](https://joelhooks.com/)
 - [Anthony Amar](https://garden.anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
+- [Maggie Appleton](https://maggieappleton.com/garden)
 
 
 ## Sources

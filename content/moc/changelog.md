@@ -2,10 +2,9 @@
 title: "Changelog"
 ---
 
-
+- 2021-08-01 at 15h44 · [_index](_index.md)
 - 2021-08-01 at 15h39 · [navigate](navigate.md)
 - 2021-08-01 at 15h38 · [daily-notes](daily-notes.md)
-- 2021-08-01 at 15h38 · [_index](_index.md)
 - 2021-08-01 at 15h36 · [politics](politics.md)
 - 2021-08-01 at 15h35 · [mental-health](mental-health.md)
 - 2021-08-01 at 15h33 · [quit](quit.md)
@@ -13,3 +12,13 @@ title: "Changelog"
 - 2021-08-01 at 15h32 · [psychology](psychology.md)
 - 2021-08-01 at 15h28 · [hr](hr.md)
 - 2021-08-01 at 15h28 · [career-advice](career-advice.md)
+- 2021-08-01 at 15h28 · [2021-07-31](2021-07-31.md)
+- 2021-08-01 at 15h27 · [ideas](ideas.md)
+- 2021-08-01 at 15h26 · [interviews](interviews.md)
+- 2021-08-01 at 15h26 · [psychological-safety](psychological-safety.md)
+- 2021-08-01 at 15h25 · [work-culture](work-culture.md)
+- 2021-08-01 at 15h15 · [design-teams](design-teams.md)
+- 2021-08-01 at 14h57 · [design](design.md)
+- 2021-08-01 at 14h55 · [2021-08-01](2021-08-01.md)
+- 2021-08-01 at 14h55 · [por](por.md)
+- 2021-08-01 at 03h59 · [active-listening](active-listening.md)

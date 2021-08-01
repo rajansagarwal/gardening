@@ -15,6 +15,7 @@
 - [Gardening System](notes/home/gardening-system) 🐵
 - [Navigating the Garden](notes/home/navigate.md) 🍁
 - [Roadmap-ish](notes/home/roadmap.md) 🫀
+- [Changelog](moc/changelog.md)
 
 
 ## Main Maps of Content 🗺

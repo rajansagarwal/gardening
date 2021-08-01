@@ -9,7 +9,7 @@ title: "Psychological Safety"
 
 ## Notes
 - While there is an idea that creating time for check-ins/ socio-emotional involvement within the team, it's always an investment.
-- Good working environments/ [good working cultures](notes/career/working-culture.md) foster creativity and good dynamics within the team.
+- Good working environments/ [good working cultures](notes/career/hr/work-culture.md) foster creativity and good dynamics within the team.
 
 ## Highlights
 - "The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond. And those human bonds matter as much at work as anywhere else. In fact, they sometimes matter more."[^1]

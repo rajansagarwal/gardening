@@ -20,7 +20,7 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 	- **Main Maps of Content** 🌞
 		- I store these at the home page. I sorted these according to overarching ideas or themes between some notes. They contain general topics that branch to specific topics as you enter.
 	- **Desk Clutter** 🧩
-		- The two entry points in the desk clutter ([to-read](moc/to-read.md), [daily-notes](moc/daily-notes.md)) are more of the fleeting notes I take throughout the day. It's mostly just mess and highlights from all over the web.
+		- The [to-read](moc/to-read.md) contains a dump of the things soon.
 	- [Points of Reference](moc/por.md) 👈
 		- I use the points of reference as keywords to connect the content between different notes. The notes in which each point of reference can be found in the Related Notes section at the bottom.
 	- **Projects** 🥰

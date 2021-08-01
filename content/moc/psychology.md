@@ -3,8 +3,8 @@ title: "Psychology MOC"
 ---
 
 ## Content
-- [Therapy](notes/health/psycho/therapy.md)
+- [Therapy](notes/sciences/psycho/therapy.md)
 
 ## Concepts
-- [Confirmation Bias](notes/health/psycho/con-bias)
+- [Confirmation Bias](notes/sciences/psycho/con-bias.md)
 - 

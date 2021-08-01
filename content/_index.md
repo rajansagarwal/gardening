@@ -50,7 +50,6 @@ Nothing here yet!
 -  [Writing](moc/writing.md)
 
 ## Desk Clutter 🧩
-- [Daily Notes](moc/daily-notes.md)
 - [To Read](moc/to-read.md)
 
 ## [Points of Reference](moc/por.md) 🌞

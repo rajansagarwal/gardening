@@ -8,14 +8,17 @@ title: "Productivity MOC"
 
 ## Concepts
 - [Choosing priorities](notes/producitivity/priorities.md)
+- [Flow state](notes/productivity/flow-state.md)
+- [Deep focus](notes/productivity/deep-focus.md)
+- [Attentional spaces](notes/productivity/attentional-spaces.md)
+
+## Techniques
+- [Time blocking](notes/productivity/time-blocking.md)
+
+## Unlocking
 - [Don't fall into the overconfidence bias trap](notes/productivity/overconfidence.md)
 - [Avoid multitasking](notes/productivity/multitasking.md)
-- [Flow state](notes/productivity/flow-state)
 
-### Deconstructing Constructs
+## Deconstructing constructs
 - ["Screw motivation, what you need is discipline"](notes/productivity/screw.md)
 - [Laziness does not exist](notes/productivity/laziness-not-exist.md)
-
-### Laws
-
-## Tools

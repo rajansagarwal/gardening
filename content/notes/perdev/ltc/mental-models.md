@@ -2,18 +2,11 @@
 title: "Mental Models MOC"
 ---
 
-- **Tags:** [in-progress](notes/por/in-progress.md)
+[in-progress](notes/por/in-progress.md)
 
----
-
-## Laws of Life
-### Productivity
-
-## Communication
-### How to Explain Better
-- [Occam's Razor](notes/perdev/soft-skills/occam.md)
-	- Explain with the most economical explanations.
-	- Stick with the most fool-proof explanations.
-
-## Sources
-- [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) by Gabriel Weinberg
+- [Occam's razor](notes/perdev/ltc/occam.md)
+- [OODA loop](notes/perdev/ltc/ooda-loop.md)
+- [Levels of magnification](notes/perdev/ltc/levels-of-magnification.md)
+- [Refraction thinking](notes/perdev/ltc/refraction-thinking.md)
+- [Lindy effect](notes/perdev/ltc/lindy-effect.md)
+- [Refraction thinking](notes/perdev/refraction-thinking.md)

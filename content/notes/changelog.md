@@ -2,13 +2,15 @@
 title: "Changelog"
 ---
 
+- 2021-08-02 at 14h38 · [[_index]]
+- 2021-08-02 at 12h36 · [[productivity]]
+- 2021-08-02 at 11h34 · [[mental-models]]
+- 2021-08-02 at 11h29 · [[ltc]]
 - 2021-08-01 at 22h33 · [[garden]]
 - 2021-08-01 at 21h20 · [[public-speaking]]
-- 2021-08-01 at 19h24 · [[ltc]]
 - 2021-08-01 at 19h22 · [[afraid-failure]]
 - 2021-08-01 at 19h20 · [[life-advice]]
 - 2021-08-01 at 19h20 · [[career-advice]]
-- 2021-08-01 at 19h15 · [[_index]]
 - 2021-08-01 at 19h07 · [[blogs]]
 - 2021-08-01 at 19h06 · [[2021-08-01]]
 - 2021-08-01 at 17h29 · [[about]]
@@ -20,5 +22,3 @@ title: "Changelog"
 - 2021-08-01 at 15h36 · [[politics]]
 - 2021-08-01 at 15h35 · [[mental-health]]
 - 2021-08-01 at 15h33 · [[quit]]
-- 2021-08-01 at 15h32 · [[to-read]]
-- 2021-08-01 at 15h32 · [[psychology]]

@@ -1,6 +1,9 @@
 ---
 title: "Roadmap"
+notoc: true
 ---
+
+> I have super scrappy baseline knowledge in code. I only reached up to midway of my FreeCodeCamp journey so I'm documenting my journey here at [Building this website](notes/home/building-this-website.md)
 
 ## Currently...
 - Fixing the broken links
@@ -19,6 +22,7 @@ title: "Roadmap"
 
 ## Trying to figure out...
 - [ ] How to highlight text
+- [x] How to add emoji to hyperlinks
 - [x] How to add a changelog
 - [x] How to set-up the backlinks since they're not showing yet
 	- **Reference:** https://quartz.jzhao.xyz/notes/editing/

@@ -1,3 +1,4 @@
 ---
 title: "Changelog"
+notoc: true
 ---

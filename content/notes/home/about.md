@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+notoc: true
 ---
 
 ![chloe-photo](/notes/photos/chloe-about.png)
@@ -9,7 +10,7 @@ title: "About Me"
 📚 I'm an incoming third year student in UP Manila studying Occupational Therapy. Outside school, I part time as a designer and volunteer in NGOs related to my cause. 🍃
 
 ## 🔗 Links
-- I publish my works here at my [portfolio](https://chloeabrasada.online/) and [Behance.](https://www.behance.net/chloeabrasada)
+- I publish my works here at my [portfolio](https://chloeabrasada.online/) and [Behance](https://www.behance.net/chloeabrasada).
 - Let's connect at [LinkedIn!](https://www.linkedin.com/in/chloeabrasada)
 - I like writing at [Medium](https://chloeabrasada.medium.com/) and will publish a personal blog soon.
 - I'm also at [Facebook](https://www.facebook.com/chloeabrasada/) and [Instagram.](https://www.instagram.com/chloeabrasada)
@@ -27,7 +28,7 @@ title: "About Me"
 - Psychology! One of my goals is to read this huge repository of psychology books.. but I haven't found the luxury to do so yet. 💭 I like [personality tests](notes/perdev/mh/self-awareness/tests.md) and [self-awareness.](notes/perdev/mh/self-awareness.md)
 - Anything related to personal development! I'm trying to get into reading more non-fiction books this year. I recently read [Atomic Habits](notes/sources/books.md) by James Clear. I'm also subscribed to a loooot of [newsletters](notes/sources/newsletters.md) and make time to read them.
 - Leadership and facilitation 👥
-- Music 🎧 I have over a hundred playlists (okay 99 that are published online) on [Spotify](https://open.spotify.com/user/chloeabrasada) and am constantly on the lookout for good finds. I'm also a bathroom singer and frustrated guitarist/ pianist. I sometimes post in [Stream Chloe Abrasada music | Listen to songs, albums, playlists for free on SoundCloud](https://soundcloud.com/chloeabrasada) lol.
+- Music 🎧 I have over a hundred playlists (okay 99 that are published online) on [Spotify](https://open.spotify.com/user/chloeabrasada) and am constantly on the lookout for good finds. I'm also a bathroom singer and frustrated guitarist/ pianist. I sometimes post in [SoundCloud](https://soundcloud.com/chloeabrasada) lol.
 - Sitcoms! When I'm too tired to do anythiiing, I like spending my time watching lighthearted shows for the sake of just smiling.
 - Dogs... 🐶
 - Tea lol. I like green tea & chai. 🍵 Also, tea >>> coffee.

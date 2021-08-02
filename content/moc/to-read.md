@@ -7,6 +7,7 @@ Title: "To Read"
 ## Haven't read
 - [ ] [How to grow liveable worlds: Ten (not-so-easy) steps for life in the Planthroposcene](https://www.abc.net.au/religion/natasha-myers-how-to-grow-liveable-worlds:-ten-not-so-easy-step/11906548)
 - [ ] [How to Professionally Deal With Your Bad Boss](https://www.thebalancecareers.com/bad-to-the-bone-dealing-with-a-bad-boss-1917714) [hr](moc/hr.md)
+- [ ] [Why You Click with Certain People](https://greatergood.berkeley.edu/article/item/why_you_click_with_certain_people) [psychology](moc/psychology.md)
 
 
 ## To revisit & take notes

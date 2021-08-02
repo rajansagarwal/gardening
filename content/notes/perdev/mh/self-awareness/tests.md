@@ -9,7 +9,7 @@ title: "Personality Tests"
 ---
 ## Tests
 
-> My results are [here](https://chloeabrasada.online/d0763cb237db450c85b33a09570657ab?v=f2fb42ea2e75490390f98a22f979e52e) lol. 👻
+> My results are [here](https://www.notion.so/cjabrasada/404c60a2c6d245c8b7d3bbd427c0b3d0?v=c107e9203098481fb735ea6c74daa255) lol. 👻
 
 1. **Enneagram**
 	- I like the enneagram test because there are a looot of resources about working with enneagram styles as well as the performance of each personality depending on their health level.

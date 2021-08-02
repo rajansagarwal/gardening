@@ -1,5 +1,6 @@
 ---
 title: "Leadership MOC"
+notoc: true
 ---
 
 - [Feedback](notes/perdev/leadership/feedback.md)

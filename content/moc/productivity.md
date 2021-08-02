@@ -12,6 +12,9 @@ title: "Productivity MOC"
 - [Deep focus](notes/productivity/deep-focus.md)
 - [Attentional spaces](notes/productivity/attentional-spaces.md)
 
+## Productivity systems
+- [Productivity systems MOC](notes/productivity/productivity-systems-moc.md)
+
 ## Techniques
 - [Time blocking](notes/productivity/time-blocking.md)
 

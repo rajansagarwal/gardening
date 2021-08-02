@@ -197,7 +197,11 @@ a[href^="/"] {
 // external link
 a[href^="https://"]::after {
   /* "\ao " is a non-breaking space */
-  content: "\a0 ↗";
+  content: "↗";
+  position: relative;
+  bottom: 0.5em;
+  font-size: 0.8em;
+  display: inline-block;
 }
 
 

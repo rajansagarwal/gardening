@@ -12,3 +12,4 @@ notoc: true
 - Add changelog
 - Add option to remove TOC
 - Add arrow to external links
+	- [Superscript in CSS only? - Stack Overflow](https://stackoverflow.com/questions/501671/superscript-in-css-only/501696)

@@ -42,3 +42,4 @@ Title: "To Read"
 - [ ] [Design better by avoiding your cognitive biases | Koos Looijesteijn](https://www.kooslooijesteijn.net/blog/design-better-avoiding-cognitive-biases?ref=vincentapp.io) [design](moc/design.md) [con-bias](notes/sciences/psycho/confirmation-bias.md)
 - [ ] [We should all be mental health advocates](https://www.hellocrazycat.com/blog/2020/we-should-all-be-mental-health-advocates) [mh](moc/mental-health.md)
 - [ ] [How social justice slideshows made by activists took over Instagram - Vox](https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism) [faux-activism](notes/soc-sci/activism/faux-activism.md)
+- [ ] [Feeling Blah During the Pandemic? It's Called Languishing - The New York Times](https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html)

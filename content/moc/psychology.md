@@ -2,10 +2,11 @@
 title: "Psychology MOC"
 ---
 
-## Content
 - [Therapy](notes/sciences/psycho/therapy.md)
-
-## Concepts
 - [Biases](notes/sciences/psycho/biases.md)
 	- [Confirmation Bias](notes/sciences/psycho/confirmation-bias.md)
 	- [Availability Bias](notes/sciences/psycho/availability-bias.md)
+- [Collective effervesence–We thrive more when we're with others](notes/sciences/psycho/collective-effervesence.md)
+- [Emotions are contagious](notes/sciences/psycho/emotions-contagious.md)
+- [We weren't build to be alone](notes/sciences/psycho/not-alone.md)
+- [Languishing](notes/sciences/psycho/languishing.md)

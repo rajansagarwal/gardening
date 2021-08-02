@@ -2,12 +2,17 @@
 title: "Changelog"
 ---
 
-- 2021-08-02 at 17h04 · [[psychology]]
+- 2021-08-02 at 20h07 · [[to-read]]
+- 2021-08-02 at 20h06 · [[psychology]]
+- 2021-08-02 at 20h05 · [[collective-effervesence]]
+- 2021-08-02 at 20h05 · [[not-alone]]
+- 2021-08-02 at 20h03 · [[emotions-contagious]]
+- 2021-08-02 at 19h49 · [[workplace-equity]]
+- 2021-08-02 at 19h47 · [[feminism]]
 - 2021-08-02 at 17h04 · [[biases]]
 - 2021-08-02 at 17h03 · [[hanlon]]
 - 2021-08-02 at 17h01 · [[confirmation-bias]]
 - 2021-08-02 at 16h59 · [[availability-bias]]
-- 2021-08-02 at 16h58 · [[to-read]]
 - 2021-08-02 at 16h54 · [[ltc]]
 - 2021-08-02 at 16h53 · [[mental-models]]
 - 2021-08-02 at 16h52 · [[kindness]]
@@ -17,8 +22,3 @@ title: "Changelog"
 - 2021-08-01 at 22h33 · [[garden]]
 - 2021-08-01 at 21h20 · [[public-speaking]]
 - 2021-08-01 at 19h22 · [[afraid-failure]]
-- 2021-08-01 at 19h20 · [[life-advice]]
-- 2021-08-01 at 19h20 · [[career-advice]]
-- 2021-08-01 at 19h07 · [[blogs]]
-- 2021-08-01 at 19h06 · [[2021-08-01]]
-- 2021-08-01 at 17h29 · [[about]]

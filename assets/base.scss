@@ -124,6 +124,7 @@ td, th {
 article a {
   font-family: Source Sans Pro;
   font-weight: 600;
+  text-decoration: underline;
   text-decoration-color: var(--tertiary);
   text-decoration-thickness: .15em;
 }
@@ -196,7 +197,7 @@ a[href^="/"] {
 // external link
 a[href^="https://"]::after {
   /* "\ao " is a non-breaking space */
-  content: "\a0 ↗️";
+  content: "\a0 ↗";
 }
 
 

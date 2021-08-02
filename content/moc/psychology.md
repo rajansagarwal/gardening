@@ -6,5 +6,6 @@ title: "Psychology MOC"
 - [Therapy](notes/sciences/psycho/therapy.md)
 
 ## Concepts
-- [Confirmation Bias](notes/sciences/psycho/con-bias.md)
-- 
+- [Biases](notes/sciences/psycho/biases.md)
+	- [Confirmation Bias](notes/sciences/psycho/confirmation-bias.md)
+	- [Availability Bias](notes/sciences/psycho/availability-bias.md)

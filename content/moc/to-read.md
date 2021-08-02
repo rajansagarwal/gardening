@@ -39,6 +39,6 @@ Title: "To Read"
 - [ ] [Building Strong Design Teams Pt 3: Structure & Strategy | Adobe XD Ideas](https://xd.adobe.com/ideas/perspectives/leadership-insights/building-strong-design-teams-pt-3-structure-strategy/) [leadership](moc/leadership.md)
 - [ ] [The Emotional Toll of Working in UX | by Vivianne Castillo | Modus](https://modus.medium.com/the-emotional-toll-of-being-in-ux-a7cc35bff4b5) [moc/ux-design](moc/ux-design) [psycho](moc/psychology.md)
 - [ ] [Netflix’s UX Design is Keeping Us Up at Night](https://eyeondesign.aiga.org/netflixs-ux-design-is-keeping-us-up-at-night/) [moc/ux-design](moc/ux-design)
-- [ ] [Design better by avoiding your cognitive biases | Koos Looijesteijn](https://www.kooslooijesteijn.net/blog/design-better-avoiding-cognitive-biases?ref=vincentapp.io) [design](moc/design.md) [con-bias](notes/sciences/psycho/con-bias.md)
+- [ ] [Design better by avoiding your cognitive biases | Koos Looijesteijn](https://www.kooslooijesteijn.net/blog/design-better-avoiding-cognitive-biases?ref=vincentapp.io) [design](moc/design.md) [con-bias](notes/sciences/psycho/confirmation-bias.md)
 - [ ] [We should all be mental health advocates](https://www.hellocrazycat.com/blog/2020/we-should-all-be-mental-health-advocates) [mh](moc/mental-health.md)
 - [ ] [How social justice slideshows made by activists took over Instagram - Vox](https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism) [faux-activism](notes/soc-sci/activism/faux-activism.md)

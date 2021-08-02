@@ -25,11 +25,11 @@
 	- [Leadership MOC](moc/leadership.md)
 	- [Facilitation MOC](moc/facilitation.md)
 	- [Learning, Thinking, & Communicating MOC](moc/ltc.md)
+		- [PKM MOC](moc/pkm.md)
 	- [Life Advice MOC](moc/life-advice.md)
 	- [Mental Health MOC](moc/mental-health.md) 
 	- [Productivity MOC](moc/productivity.md)
 	- [Kindness MOC](moc/kindness.md)
-	- [PKM MOC](moc/pkm.md)
 - **Sciences** 👩‍⚕️
 	- [Health MOC](moc/health.md)
 	- [Psychology MOC](moc/psychology.md)

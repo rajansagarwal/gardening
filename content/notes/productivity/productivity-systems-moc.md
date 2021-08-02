@@ -22,6 +22,7 @@ Title: "Productivity Systems MOC"
 - [Seinfeld Calendar System](notes/productivity/seinfeld.md)
 - [Eat that frog](notes/productivity/eat-that-frog.md)
 - [The SMART method](notes/productivity/smart-method.md)
+- [MoSCoW method](notes/productivity/moscow.md)
 
 ## Sources
 - [Is there a perfect productivity system? - Ness Labs](https://nesslabs.com/perfect-productivity-system)
@@ -29,3 +30,4 @@ Title: "Productivity Systems MOC"
 - [The 7 Best Productivity Systems In 2021 (Tips, Tools) - Biz 3.0](https://biz30.timedoctor.com/productivity-systems/)
 - [Which Productivity System Is Best for Me? - SitePoint](https://www.sitepoint.com/which-productivity-system-is-best-for-me/)
 - [The Ultimate Guide to Personal Productivity Methods](https://blog.doist.com/personal-productivity-methods/)
+- [Choosing the right productivity system: a guide for small businesses | RingCentral](https://www.ringcentral.com/us/en/blog/productivity-systems/)

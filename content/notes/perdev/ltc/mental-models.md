@@ -10,3 +10,4 @@ title: "Mental Models MOC"
 - [Refraction thinking](notes/perdev/ltc/refraction-thinking.md)
 - [Lindy effect](notes/perdev/ltc/lindy-effect.md)
 - [Refraction thinking](notes/perdev/refraction-thinking.md)
+- [Hanlon's razor](notes/perdev/kindness/hanlon.md)

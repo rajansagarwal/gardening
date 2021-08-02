@@ -199,8 +199,8 @@ a[href^="https://"]::after {
   /* "\ao " is a non-breaking space */
   content: "⇗";
   position: relative;
-  bottom: 0.5em;
-  font-size: 0.8em;
+  bottom: 0.3em;
+  font-size: 1em;
   display: inline-block;
 }
 

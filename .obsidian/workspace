@@ -7,8 +7,11 @@
         "id": "d9efdba1127ed9a1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "chloe-lyt new/010 Notes/Write-up.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "write-up",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "chloe-lyt new/010 Notes/Write-up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "d9efdba1127ed9a1",
   "lastOpenFiles": [
+    "chloe-lyt new/010 Notes/Write-up.md",
     "chloe-lyt copy/010 Notes/PHILARTS 1.md",
     "chloe-lyt copy/🧠 Chloe's Second brain.md"
   ]

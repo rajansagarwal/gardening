@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chloe-lyt new/010 Notes/Write-up.md",
-            "mode": "source"
+            "file": "chloe-lyt/010 Notes/Documentation of stories.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "write-up",
+                "query": "kinalakihan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chloe-lyt new/010 Notes/Write-up.md",
+                "file": "chloe-lyt/010 Notes/Documentation of stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +88,15 @@
   },
   "active": "d9efdba1127ed9a1",
   "lastOpenFiles": [
-    "chloe-lyt new/010 Notes/Write-up.md",
-    "chloe-lyt copy/010 Notes/PHILARTS 1.md",
-    "chloe-lyt copy/🧠 Chloe's Second brain.md"
+    "chloe-lyt/010 Notes/Documentation of stories.md",
+    "chloe-lyt/010 Notes/Outline.md",
+    "chloe-lyt/010 Notes/Write-up.md",
+    "chloe-lyt/010 Notes/Interview transcription.md",
+    "chloe-lyt/010 Notes/PHILARTS 1 Projects.md",
+    "chloe-lyt/010 Notes/PHILARTS 1.md",
+    "chloe-lyt/000 MOCs/UP Manila MOC.md",
+    "chloe-lyt/000 MOCs/Writing MOC.md",
+    "chloe-lyt/🧠 Chloe's Second brain.md",
+    "chloe-lyt/030 Private/Passwords.md"
   ]
 }

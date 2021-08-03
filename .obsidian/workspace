@@ -7,11 +7,8 @@
         "id": "d9efdba1127ed9a1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/private/unsorted dailies/2021-07-30.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/private/unsorted dailies/2021-07-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

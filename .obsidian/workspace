@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chloe-lyt/010 Notes/Documentation of stories.md",
-            "mode": "preview"
+            "file": "content/private/unsorted dailies/2021-07-30.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chloe-lyt/010 Notes/Documentation of stories.md",
+                "file": "content/private/unsorted dailies/2021-07-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d9efdba1127ed9a1",
   "lastOpenFiles": [
+    "content/private/daily/2021-07-30.md",
+    "content/private/daily/2021-07-31.md",
+    "content/private/daily/2021-08-01.md",
+    "content/private/private-note.md",
+    "content/notes/por/repository.md",
     "chloe-lyt/010 Notes/Documentation of stories.md",
     "chloe-lyt/010 Notes/Outline.md",
     "chloe-lyt/010 Notes/Write-up.md",
     "chloe-lyt/010 Notes/Interview transcription.md",
-    "chloe-lyt/010 Notes/PHILARTS 1 Projects.md",
-    "chloe-lyt/010 Notes/PHILARTS 1.md",
-    "chloe-lyt/000 MOCs/UP Manila MOC.md",
-    "chloe-lyt/000 MOCs/Writing MOC.md",
-    "chloe-lyt/🧠 Chloe's Second brain.md",
-    "chloe-lyt/030 Private/Passwords.md"
+    "chloe-lyt/010 Notes/PHILARTS 1 Projects.md"
   ]
 }

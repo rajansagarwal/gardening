@@ -1,5 +1,9 @@
 {
   "fileSortOrder": "byModifiedTime",
   "promptDelete": false,
-  "attachmentFolderPath": "chloe-lyt/020 Bins/021 Photos"
+  "attachmentFolderPath": "chloe-lyt/020 Bins/021 Photos",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true
 }

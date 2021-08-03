@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "lyt-home",
+      "path": "chloe-lyt/_lyt-home.md"
+    },
+    {
+      "type": "file",
+      "title": "_index",
+      "path": "content/_index.md"
+    }
+  ]
+}

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/projects/writing/embrace-mediocrity.md",
+            "file": "chloe-lyt/lyt-notes/docu-of-stories.md",
             "mode": "preview"
           }
         }
@@ -24,15 +24,8 @@
       {
         "id": "f2c9ea3cd0916066",
         "type": "tabs",
+        "dimension": 21.73913043478261,
         "children": [
-          {
-            "id": "e5a304447e9c0c5a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
           {
             "id": "7d8efdac1b1ad040",
             "type": "leaf",
@@ -46,6 +39,30 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "292dd5d5120dede3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fa7bd494a95cef88",
+        "type": "tabs",
+        "dimension": 78.26086956521739,
+        "children": [
+          {
+            "id": "e5a304447e9c0c5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
             }
           }
         ]
@@ -68,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/projects/writing/embrace-mediocrity.md",
+                "file": "chloe-lyt/lyt-notes/docu-of-stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +105,15 @@
   },
   "active": "d9efdba1127ed9a1",
   "lastOpenFiles": [
-    "content/notes/projects/writing/embrace-mediocrity.md",
+    "chloe-lyt/lyt-notes/docu-of-stories.md",
+    "chloe-lyt/lyt-notes/philarts-1.md",
+    "chloe-lyt/_lyt-home.md",
+    "chloe-lyt/lyt-notes/math-10.md",
+    "chloe-lyt/lyt-notes/math-10-capstone.md",
+    "chloe-lyt/lyt-notes/imc-pre-writing.md",
     "content/_index.md",
-    "content/moc/writing.md",
-    "chloe-lyt/030 Private/032 Zettelkasten/202108031836.md",
-    "content/notes/por/writing.md",
-    "chloe-lyt/010 Notes/DS Presentation of Story.md",
-    "chloe-lyt/🧠 Chloe's Second brain.md",
-    "chloe-lyt/010 Notes/Failure resume.md",
-    "Failure resume.md",
-    "chloe-lyt/🧠 Chloe's Second Brain.md"
+    "content/notes/projects/writing/embrace-mediocrity.md",
+    "README.md",
+    "content/moc/writing.md"
   ]
 }

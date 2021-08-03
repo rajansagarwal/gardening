@@ -39,10 +39,12 @@
 	- [Social Change MOC](moc/social-change.md)
 		- [Feminism MOC](moc/feminism.md)
 		- [Activism MOC](moc/activism.md)
+	- [Education MOC](moc/education.md)
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)
-- **Arts** 🎨
+- **Arts & Technology** 🎨
 	- [Design MOC](moc/design.md)
+	- [Human Centric Design MOC](moc/hcd.md)
 - **Career** 🎃
 	- [Human Resources MOC](moc/hr.md)
 	- [Career Advice MOC](moc/career-advice.md)

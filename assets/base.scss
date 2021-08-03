@@ -197,7 +197,7 @@ a[href^="/"] {
 // external link
 a[href^="https://"]::after {
   /* "\ao " is a non-breaking space */
-  content: "⇗";
+  content: "\8599\FE0E";
   position: relative;
   bottom: 0.3em;
   font-size: 1em;

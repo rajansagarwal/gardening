@@ -1,8 +1,7 @@
 ---
 title: "Productivity MOC"
+notoc: true
 ---
-
-> Mostly broken links still! (a/o July 29, 2021)
 
 [in-progress](notes/por/in-progress.md) [come_back](notes/por/come_back.md)
 

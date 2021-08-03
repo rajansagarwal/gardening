@@ -2,13 +2,13 @@
   "items": [
     {
       "type": "file",
-      "title": "lyt-home",
-      "path": "chloe-lyt/_lyt-home.md"
+      "title": "_index",
+      "path": "content/_index.md"
     },
     {
       "type": "file",
-      "title": "_index",
-      "path": "content/_index.md"
+      "title": "Chloe's Second brain 🧠",
+      "path": "chloe-lyt/Chloe's Second brain 🧠.md"
     }
   ]
 }

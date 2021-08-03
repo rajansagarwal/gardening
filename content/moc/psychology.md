@@ -1,5 +1,6 @@
 ---
 title: "Psychology MOC"
+notoc: true
 ---
 
 - [Therapy](notes/sciences/psycho/therapy.md)

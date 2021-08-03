@@ -1,5 +1,6 @@
 ---
 title: "Mental Health MOC"
+notoc: true
 ---
 
 - [Mental health is political](notes/soc-sci/politics/mh-political.md)

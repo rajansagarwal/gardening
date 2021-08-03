@@ -1,5 +1,6 @@
 ---
 title: "Points of Reference"
+notoc: true
 ---
 
 These are some keywords to link my notes as point of reference. The linked notes are in the related notes section. 🎒

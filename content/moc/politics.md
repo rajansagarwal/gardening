@@ -1,5 +1,6 @@
 ---
 title: "Politics"
+notoc: true
 ---
 
 - [Health is political](notes/politics/health-is-political)

@@ -5,3 +5,7 @@ resources
 content/.obsidian
 data/linkIndex.yaml
 chloe-lyt/
+*.json
+*.json
+*.json
+.obsidian/graph.json

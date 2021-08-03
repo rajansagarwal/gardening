@@ -1,8 +1,7 @@
 ---
 title: "Life Advice MOC"
+notoc: true
 ---
-
-> Always seek to become better each day.
 
 ## Content
 - [What to answer to mamamatay din tayong lahat](notes/perdev/life-advice/mamamatay.md)

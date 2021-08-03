@@ -1,5 +1,6 @@
 ---
 title: "Learning, Thinking, & Communicating MOC"
+notoc: true
 ---
 
 - [Mental Models](notes/perdev/ltc/mental-models.md)

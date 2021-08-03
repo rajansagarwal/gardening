@@ -1,5 +1,6 @@
 ---
 Title: "Kindness MOC"
+notoc: true
 ---
 
 - [On relating to others](notes/perdev/kindness/relating-to-others.md)

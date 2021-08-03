@@ -1,5 +1,6 @@
 ---
 title: "Design MOC"
+notoc: true
 ---
 [in-progress](notes/por/in-progress.md)
 

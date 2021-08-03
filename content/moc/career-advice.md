@@ -1,5 +1,6 @@
 ---
 Title: "Career Advice MOC"
+notoc: true
 ---
 
 - [Your career is not a life sentence](notes/career/advice/life-sentence.md)

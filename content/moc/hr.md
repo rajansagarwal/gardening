@@ -1,5 +1,6 @@
 ---
 title: "Human Resources MOC"
+notoc: true
 ---
 
 - [Interviews](notes/career/hr/interviews.md)

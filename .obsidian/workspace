@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chloe-lyt/lyt-notes/docu-research.md",
-            "mode": "source"
+            "file": "content/notes/changelog.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chloe-lyt/lyt-notes/docu-research.md",
+                "file": "content/notes/changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "d9efdba1127ed9a1",
   "lastOpenFiles": [
+    "content/notes/changelog.md",
+    "content/_index.md",
+    "chloe-lyt/lyt-notes/PHILARTS.md",
+    "chloe-lyt/Chloe's Second brain 🧠.md",
     "chloe-lyt/lyt-notes/docu-research.md",
     "chloe-lyt/lyt-notes/docu-of-stories.md",
     "chloe-lyt/lyt-notes/docu-interview-transcription.md",
     "chloe-lyt/lyt-notes/philarts-1.md",
     "chloe-lyt/_lyt-home.md",
-    "chloe-lyt/lyt-notes/math-10.md",
-    "chloe-lyt/lyt-notes/math-10-capstone.md",
-    "chloe-lyt/lyt-notes/imc-pre-writing.md",
-    "content/_index.md",
-    "content/notes/projects/writing/embrace-mediocrity.md"
+    "chloe-lyt/lyt-notes/math-10.md"
   ]
 }

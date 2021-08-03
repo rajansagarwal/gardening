@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chloe-lyt/010 Notes/Failure resume.md",
+            "file": "content/notes/projects/writing/embrace-mediocrity.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2bcab7fe4fc58b67",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chloe-lyt/010 Notes/DS Presentation of Story.md",
-            "mode": "preview"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chloe-lyt/010 Notes/Failure resume.md",
+                "file": "content/notes/projects/writing/embrace-mediocrity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +88,15 @@
   },
   "active": "d9efdba1127ed9a1",
   "lastOpenFiles": [
-    "Failure resume.md",
+    "content/notes/projects/writing/embrace-mediocrity.md",
+    "chloe-lyt/030 Private/032 Zettelkasten/202108031836.md",
+    "chloe-lyt/010 Notes/DS Presentation of Story.md",
     "chloe-lyt/🧠 Chloe's Second brain.md",
+    "chloe-lyt/010 Notes/Failure resume.md",
+    "Failure resume.md",
     "chloe-lyt/🧠 Chloe's Second Brain.md",
     "chloe-lyt/010 Notes/DS Interview Transcription.md",
-    "chloe-lyt/010 Notes/DS Presentation of Story.md",
     "chloe-lyt/010 Notes/Documentation of Stories.md",
-    "chloe-lyt/010 Notes/PHILARTS 1.md",
-    "chloe-lyt/010 Notes/PHILARTS Compilation of Reflections.md",
-    "content/notes/arts/decolonizing-design.md",
-    "content/_index.md"
+    "chloe-lyt/010 Notes/PHILARTS 1.md"
   ]
 }

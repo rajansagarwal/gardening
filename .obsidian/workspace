@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "d326e17e38732a9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9efdba1127ed9a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chloe-lyt copy/010 Notes/PHILARTS 1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81ad1ac57e82b08e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2c9ea3cd0916066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a304447e9c0c5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d8efdac1b1ad040",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ae2f684478512b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d195269fa1bc73ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c19639a934e96a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chloe-lyt copy/010 Notes/PHILARTS 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9efdba1127ed9a1",
+  "lastOpenFiles": [
+    "chloe-lyt copy/010 Notes/PHILARTS 1.md",
+    "chloe-lyt copy/🧠 Chloe's Second brain.md"
+  ]
+}

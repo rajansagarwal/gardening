@@ -49,7 +49,6 @@
 
 
 ## Projects 🌟
-Nothing here yet!
 -  [Writing](moc/writing.md)
 
 ## Desk Clutter 🧩

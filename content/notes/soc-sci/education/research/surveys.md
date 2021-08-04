@@ -5,7 +5,7 @@ title: "Surveys"
 - **Tags:**
 - **Relevant Notes**
 	- [Focus on the user and all else will follow](notes/tech/hcd/focus-on-user.md)
-	- [Human-centric design](moc/hcd.md)
+	- [Human-centric design](moc/human-centered-design.md)
 	- [UX design](moc/ux-design.md)
 
 ## Notes

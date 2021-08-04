@@ -4,7 +4,7 @@ title: "Focus on your user and everything else will follow"
 
 - **Tags:**
 - **Relevant Notes**
-	- [human-centric design](moc/hcd.md)
+	- [human-centric design](moc/human-centered-design.md)
 
 
 ## Notes

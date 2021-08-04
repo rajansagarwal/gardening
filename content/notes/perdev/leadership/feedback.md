@@ -2,7 +2,7 @@
 title: "Feedback"
 ---
 
-**Tags:** [might-publish](notes/por/might-publish.md), [writing](notes/por/writing.md)
+**Tags:** [might-publish](notes/por/might-publish.md), [personal-learnings](notes/por/personal-learnings.md)
 
 **Related to:**
 - [No to micromanaging](notes/perdev/leadership/micromanaging.md)

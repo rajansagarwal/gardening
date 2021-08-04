@@ -7,78 +7,97 @@
         "id": "d9efdba1127ed9a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "chloe-lyt/Chloe's Second brain 🧠.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "865c946dd7b67197",
-    "type": "mobile-drawer",
+    "id": "dabc5cef64eda30b",
+    "type": "split",
     "children": [
       {
-        "id": "55dbd91c58a65c09",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "ef41d2c7dd1f8dab",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "8c3bfd08b6fe3831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d942212712683ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b322b9f6a5ba599",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83e613b425b55b70",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "bc83c20aae20d0a1",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "d0ee4d8eb6e97a00",
-    "type": "mobile-drawer",
+    "id": "1c7e1d23ddf0cf23",
+    "type": "split",
     "children": [
       {
-        "id": "55eaed6afa1be175",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "140d3b71456948d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d3189168f42df79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chloe-lyt/Chloe's Second brain 🧠.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "d9efdba1127ed9a1",
   "lastOpenFiles": [
-    "chloe-lyt/lyt-notes/MATH 10.md",
     "chloe-lyt/Chloe's Second brain 🧠.md",
+    "chloe-lyt/lyt-notes/MATH 10.md",
     "chloe-lyt/lyt-private/Zettelkasten/202108031836.md",
     "chloe-lyt/lyt-private/Daily journal/2021-08-03.md",
     "content/notes/projects/writing/embrace-mediocrity.md",

@@ -2,7 +2,7 @@
 title: "What to answer to 'mamamatay rin tayong lahat'"
 ---
 
-- **Tags:** [writing](notes/por/writing.md)
+- **Tags:** [personal-learnings](notes/por/personal-learnings.md)
 - **Relevant Notes**
 
 ---

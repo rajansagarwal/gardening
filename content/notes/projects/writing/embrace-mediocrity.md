@@ -2,7 +2,7 @@
 title: "We should learn to embrace mediocrity"
 ---
 
-- **Tags:** [writing](content/notes/por/writing.md)
+- **Tags:** [personal-learnings](notes/por/personal-learnings.md)
 - **Relevant Notes**
 	- [202108031836](chloe-lyt/030%20Private/032%20Zettelkasten/202108031836.md)
 

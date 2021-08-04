@@ -2,7 +2,7 @@
 title: "Interviews for Leaderships in Organizations"
 ---
 
-**Tags:** [writing](notes/por/writing.md)
+**Tags:** [personal-learnings](notes/por/personal-learnings.md)
 **Relevant Notes**
 
 ## Common Questions

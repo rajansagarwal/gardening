@@ -3,21 +3,15 @@ title: "Stoicism MOC"
 notoc: true
 ---
 
-Early 2021, I journeyed on to integrating stoicism to my life. I think it's a wonderful philosophy that all in all makes life easier. Here are some of my ~~unstoic~~ notes as I was learning about stoicism and continue to build it on today.
+I regularly update my [Are.na on Stoicism.](https://www.are.na/chloe-abrasada/stoicism-oohd2d9o1wg)
 
-Note also that I forgot to list down my resources on everything compiled here (since I had them on early this year)! 😞 I'm trying to look for them now!
+- [The good life is anywhere–you don't have to wait for a certain destination](notes/philosophy/stoicism/good-life-is-anywhere.md)
+- [Avoid being reactive](notes/philosophy/stoicism/avoid-being-reactive.md)
+- [Let go of things that are outside of your control](notes/philosophy/stoicism/let-go.md)
 
-I regularly updated my [Are.na on Stoicism](https://www.are.na/chloe-abrasada/stoicism-oohd2d9o1wg).
-
-## On Stoicism
-- [Stoic Values](moc/philosophy/stoicism/values.md)
+### Unsorted
+- [Stoic Values](notes/philosophy/stoicism/values.md)
 - [How to be Stoic](notes/philosophy/stoicism/how-to.md)
 - [Quotes on Stoicism](notes/philosophy/stoicism/stoic-quotes.md)
 - [Sources](notes/philosophy/stoicism/sources-stoicism.md)
-
-
-
-
-
-
 

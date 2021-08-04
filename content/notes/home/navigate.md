@@ -29,7 +29,7 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 	- From the entry points, I have different types of notes. I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Essentially, here are the types of notes:
 		- **Actual Notes** 🫀
 			- In these notes, I write in the highlights I read and the thought processes I generated along with them.
-		- [Writing](notes/por/writing.md) ✍️
+		- [Writing](notes/por/personal-learnings.md) ✍️
 			- These notes contain solely my writings from personal learnings.
 		- [Repository](notes/por/repository.md) 💳
 			- These notes contain links and sources for the theme associated with them.

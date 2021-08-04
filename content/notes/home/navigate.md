@@ -12,7 +12,7 @@ I structured my garden in this manner from when you navigate from the [homepage.
 I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Here's a basic outline of what navigating looks like:
 
 ![garden-structure](/notes/photos/garden-structure.png)
-> **To update:** Remove points of reference
+> **To update:** Remove points of reference & desk clutter
 
 ### Basically... 🎧
 - [Home](_index.md) 🏡
@@ -20,8 +20,6 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 - **From the Home** 🗺
 	- **Main Maps of Content** 🌞
 		- I store these at the home page. I sorted these according to overarching ideas or themes between some notes. They contain general topics that branch to specific topics as you enter.
-	- **Desk Clutter** 🧩
-		- The [to-read](moc/to-read.md) contains a dump of the things soon.
 	- **Projects** 🥰
 		- The projects sections contain the projects I publish (more of the thinking processes instead of the final product!).
 - **Types of Notes** 🤩
@@ -47,8 +45,7 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 - I'm still trying to figure out a way to create a distinction between links that point to an outside page and links that are within the website.
 
 ### Using the Related Notes/ Backlinks 🛀
-- At the bottom of the page is the **Related Notes** section. These contain all the notes in which the **current note is mentioned**. They're all clickable too! 🖱
-- This is especially useful for my [points of reference.](moc/por.md)
+- At the bottom of the page is the **Related Notes** section. These contain all the notes in which the **current note is mentioned**. They're all clickable too! 🐭
 
 ### Using the Interactive Graph 📈
 - The **teal circle** represents where you are within the garden of notes. Hovering to a certain point reveals the connections between the notes, and you can jump from one note to another from here.

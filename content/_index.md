@@ -53,6 +53,3 @@
 
 ## Projects 🌟
 -  [Writing](moc/writing-projects.md)
-
-## Desk Clutter 🧩
-- [To Read](moc/to-read.md)

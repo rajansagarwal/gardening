@@ -12,7 +12,7 @@ h1, h2, h3, h4, ol, ul, thead {
 }
 
 p, ul, text {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: Inter;
   color: var(--gray);
   fill: var(--gray);
 }
@@ -54,7 +54,7 @@ a {
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: Source Sans Pro;
+    font-family: Inter;
     font-weight: 700;
   }
 }
@@ -85,7 +85,7 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Source Sans Pro;
+  font-family: Inter;
   color: var(--gray);
   line-height: 1.5em;
 }
@@ -122,7 +122,7 @@ td, th {
 }
 
 article a {
-  font-family: Source Sans Pro;
+  font-family: Inter;
   font-weight: 600;
   text-decoration: underline;
   text-decoration-color: var(--tertiary);

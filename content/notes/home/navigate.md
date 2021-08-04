@@ -12,6 +12,7 @@ I structured my garden in this manner from when you navigate from the [homepage.
 I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Here's a basic outline of what navigating looks like:
 
 ![garden-structure](/notes/photos/garden-structure.png)
+> **To update:** Remove points of reference
 
 ### Basically... 🎧
 - [Home](_index.md) 🏡
@@ -21,8 +22,6 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 		- I store these at the home page. I sorted these according to overarching ideas or themes between some notes. They contain general topics that branch to specific topics as you enter.
 	- **Desk Clutter** 🧩
 		- The [to-read](moc/to-read.md) contains a dump of the things soon.
-	- [Points of Reference](moc/por.md) 👈
-		- I use the points of reference as keywords to connect the content between different notes. The notes in which each point of reference can be found in the Related Notes section at the bottom.
 	- **Projects** 🥰
 		- The projects sections contain the projects I publish (more of the thinking processes instead of the final product!).
 - **Types of Notes** 🤩

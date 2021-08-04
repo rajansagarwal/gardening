@@ -37,8 +37,6 @@
 - **Social Sciences** 💎
 	- [Politics MOC](moc/politics.md)
 	- [Social Change MOC](moc/social-change.md)
-		- [Feminism MOC](moc/feminism.md)
-		- [Activism MOC](moc/activism.md)
 	- [Education MOC](moc/education.md)
 - **Philosophy** 🤲
 	- [Stoicism MOC](moc/stoicism.md)

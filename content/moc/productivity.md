@@ -3,7 +3,7 @@ title: "Productivity MOC"
 notoc: true
 ---
 
-[in-progress](notes/por/in-progress.md) [come_back](notes/por/come_back.md)
+[in-progress](notes/por/in-progress.md) [come-back](notes/por/come-back.md)
 
 ## Concepts
 - [Choosing priorities](notes/producitivity/priorities.md)

@@ -1,7 +1,7 @@
 How To Improve Public Speaking Skills - Google Digital Garage Speaking"
 ---
 
-- **Tags:** [come_back](notes/por/come_back.md) [in-progress](notes/por/in-progress.md)
+- **Tags:** [come-back](notes/por/come-back.md) [in-progress](notes/por/in-progress.md)
 - **Relevant Notes**
 	- [leadership](moc/leadership.md)
 

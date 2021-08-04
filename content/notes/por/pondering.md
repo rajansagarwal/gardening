@@ -1,7 +1,11 @@
 ---
-title: "Pondering"
+title: "#pondering"
 notoc: true
 ---
+
+```query
+content:"pondering"
+```
 
 > 🙇‍♀️ [pondering](notes/por/pondering.md) for the notes I'm still trying to take a stand on and want to mind bump
 

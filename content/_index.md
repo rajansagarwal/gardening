@@ -13,6 +13,7 @@
 
 ## Home 🏡
 - [About Me](notes/home/about.md) 🧘‍♀️
+- [Chloe's Corner](notes/home/corner.md) 🥰
 - [On Digital Gardens](notes/home/garden.md) 🪴
 - [Gardening System](notes/home/gardening-system) 🐵
 - [Navigating the Garden](notes/home/navigate.md) 🍁
@@ -25,7 +26,6 @@
 	- [Leadership MOC](moc/leadership.md)
 	- [Facilitation MOC](moc/facilitation.md)
 	- [Learning, Thinking, & Communicating MOC](moc/ltc.md)
-		- [PKM MOC](moc/pkm.md)
 	- [Life Advice MOC](moc/life-advice.md)
 	- [Mental Health MOC](moc/mental-health.md) 
 	- [Productivity MOC](moc/productivity.md)
@@ -48,6 +48,9 @@
 - **Career** 🎃
 	- [Human Resources MOC](moc/hr.md)
 	- [Career Advice MOC](moc/career-advice.md)
+- **Others** 🤙
+	- [Tooling](moc/tooling.md)
+	- [Sources](moc/sources.md)
 
 
 ## Projects 🌟
@@ -61,7 +64,7 @@ These are some keywords to link my notes as point of reference. The linked notes
 - 🤩 [writing](notes/por/writing.md) for the notes I personally learned along the way
 - 🐶 [repository](notes/por/repository.md) for the notes where I dump out sources and materials
 - 👷‍ [in-progress](notes/por/in-progress.md) for the notes I'm still writing/ transferring
-- ⏪ [come-back](notes/por/come_back.md) for the notes I need to come back to sort
+- ⏪ [come-back](notes/por/come-back.md) for the notes I need to come back to sort
 - ✍️ [wri-prompt](notes/por/wri-prompt.md) for the notes I want to write about
 - 💡 [ideas](notes/por/ideas.md) for the ideas I want to develop
 - 💻 [published](notes/por/published.md) for the notes I published on my blog 

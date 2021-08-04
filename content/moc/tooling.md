@@ -7,3 +7,6 @@ date: Aug 4, 2021
 
 ## Personal Knowledege Management
 - [Obsidian](notes/tooling/obsidian.md)
+
+## Design
+- [InDesign](notes/tooling/indesign.md)

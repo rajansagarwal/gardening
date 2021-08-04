@@ -3,7 +3,7 @@ title: "Roadmap"
 notoc: true
 ---
 
-> I have super scrappy baseline knowledge in code. I only reached up to midway of my FreeCodeCamp journey so I'm.. lost.... and reliant on Google search lol. I'm documenting my journey here at [Building this website](notes/home/building-this-website.md).
+> I have super scrappy baseline knowledge in code. I only reached up to midway of my FreeCodeCamp journey so I'm.. lost.... and reliant on Google search lol. I'm documenting my journey here at [Building this website.](notes/home/building-this-website.md)
 
 ## Currently...
 - Fixing the broken links

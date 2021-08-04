@@ -5,7 +5,7 @@ notoc: true
 ---
 
 - 2021-08-04 at 17h39 · [[psychology]]
-- 2021-08-04 at 17h38 · [[adding-than-taking]]
+- 2021-08-04 at 17h38 · [[notes/sciences/psycho/adding-than-taking]]
 - 2021-08-04 at 17h35 · [[human-centered-design]]
 - 2021-08-04 at 17h35 · [[focus-on-user]]
 - 2021-08-04 at 17h35 · [[surveys]]

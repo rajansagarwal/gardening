@@ -1,25 +1,28 @@
 {
   "main": {
-    "id": "d326e17e38732a9d",
+    "id": "3ae6523aece01069",
     "type": "split",
     "children": [
       {
-        "id": "d9efdba1127ed9a1",
+        "id": "3668a2b28bbd48dc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "865c946dd7b67197",
+    "id": "1123f9e538027146",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "55dbd91c58a65c09",
+        "id": "08a86546c9a62ba5",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -27,7 +30,7 @@
         }
       },
       {
-        "id": "ef41d2c7dd1f8dab",
+        "id": "5bd846a88dfd15d4",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -40,28 +43,21 @@
             "sortOrder": "alphabetical"
           }
         }
-      },
-      {
-        "id": "bc83c20aae20d0a1",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "d0ee4d8eb6e97a00",
+    "id": "d9bf9a8d6f072536",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "55eaed6afa1be175",
+        "id": "5c94d93932ea8fbb",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -75,17 +71,9 @@
     ],
     "currentTab": 0
   },
-  "active": "d9efdba1127ed9a1",
+  "active": "3668a2b28bbd48dc",
   "lastOpenFiles": [
-    "chloe-lyt/lyt-notes/MATH 10.md",
-    "chloe-lyt/Chloe's Second brain 🧠.md",
-    "chloe-lyt/lyt-private/Zettelkasten/202108031836.md",
-    "chloe-lyt/lyt-private/Daily journal/2021-08-03.md",
-    "content/notes/projects/writing/embrace-mediocrity.md",
-    "chloe-lyt/lyt-notes/Daily Journal.md",
-    "chloe-lyt/lyt-moc/LifeOS MOC.md",
-    "chloe-lyt/lyt-notes/Documentation of stories.md",
-    "chloe-lyt/lyt-notes/docu-research.md",
-    "chloe-lyt/lyt-notes/Docu presentation of stories.md"
+    "content/_index.md",
+    "README.md"
   ]
 }

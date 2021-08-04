@@ -7,7 +7,7 @@ notoc: true
 
 ### Oldest to latest
 - `07/26/2021` **Quartz** Set-up
--  `07/28/2021` Site actually FINALLY up lol struggled through that
+-  `07/27/2021` Site actually FINALLY up lol struggled through that
 	-  **What I didn't know before this lol**
 		-  Wikilinks don't work on Github Pages
 		-  Doesn't support spaces

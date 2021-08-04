@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/home/building-this-website.md",
             "mode": "preview"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/home/building-this-website.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,6 +73,8 @@
   },
   "active": "3668a2b28bbd48dc",
   "lastOpenFiles": [
+    "content/notes/home/building-this-website.md",
+    "content/notes/home/roadmap.md",
     "content/_index.md",
     "content/notes/tooling/obsidian.md",
     "content/moc/tooling.md",

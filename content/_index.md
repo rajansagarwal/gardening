@@ -39,6 +39,7 @@
 	- [Social Change MOC](moc/social-change.md)
 	- [Education MOC](moc/education.md)
 - **Philosophy** 🤲
+	- [Ethics MOC](moc/ethics.md)
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts & Technology** 🎨
 	- [Design MOC](moc/design.md)

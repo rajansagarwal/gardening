@@ -42,7 +42,7 @@
 	- [Stoicism MOC](moc/stoicism.md)
 - **Arts & Technology** 🎨
 	- [Design MOC](moc/design.md)
-	- [Human Centric Design MOC](moc/human-centered-design.md)
+	- [Human Centric Design MOC](moc/ux-design.md)
 - **Career** 🎃
 	- [Human Resources MOC](moc/hr.md)
 	- [Career Advice MOC](moc/career-advice.md)

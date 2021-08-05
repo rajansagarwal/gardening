@@ -16,7 +16,7 @@ Title: "To Read"
 - [ ] [Stories are Necessary for Our Survival | Zeus Jones](https://zeusjones.com/athena/articles/stories-are-necessary-for-our-survival)
 - [ ] [Laziness does not exist](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01)
 - [ ] [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
-- [ ] [Graphic Designers Have Always Loved Minimalism. But At What Cost?](https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/) [decolonizing-design](notes/arts/decolonizing-design.md)
+- [ ] [Graphic Designers Have Always Loved Minimalism. But At What Cost?](https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/) [decolonizing-design](notes/arts-tech/design/decolonizing-design.md)
 - [ ] [Why Successful Leaders Acknowledge Cultural Differences](https://hbr.org/2015/08/how-to-stop-micromanaging-your-team) [leadership](moc/leadership.md) [micromanaging](notes/perdev/leadership/micromanaging)
 - [ ] [The Coming Software Apocalypse - The Atlantic](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 - [ ] [Y Studios — INSIGHTS | People | Y Studios — What Factors Really Influence Identity?](https://ystudios.com/insights-people/influence-on-identity)

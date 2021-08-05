@@ -11,8 +11,7 @@ I structured my garden in this manner from when you navigate from the [homepage.
 
 I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Here's a basic outline of what navigating looks like:
 
-![garden-structure](/notes/photos/garden-structure.png)
-> **To update:** Remove points of reference & desk clutter
+![garden-new-structure](/notes/photos/garden-new-structure.png)
 
 ### Basically... 🎧
 - [Home](_index.md) 🏡
@@ -42,7 +41,6 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 
 ### Using the Page Links 🔗
 - The basic way to navigate is to go through the links as connected between the pages.
-- I'm still trying to figure out a way to create a distinction between links that point to an outside page and links that are within the website.
 
 ### Using the Related Notes/ Backlinks 🛀
 - At the bottom of the page is the **Related Notes** section. These contain all the notes in which the **current note is mentioned**. They're all clickable too! 🐭

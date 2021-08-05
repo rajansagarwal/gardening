@@ -2,7 +2,7 @@
 title: "How to Change Your Life"
 ---
 
-- **Tags:** #extra-push #to-imprint 
+- **Tags:** #extra-push #to-digest 
 - **Relevant Notes**
 
 ---

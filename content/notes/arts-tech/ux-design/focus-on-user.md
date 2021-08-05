@@ -2,9 +2,9 @@
 title: "Focus on your user and everything else will follow"
 ---
 
-- **Tags:** #to-imprint 
+- **Tags:** #to-digest 
 - **Relevant Notes**
-	- [human-centric design](moc/human-centered-design.md)
+	- [human-centric design](moc/ux-design.md)
 
 
 ## Notes

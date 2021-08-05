@@ -2,7 +2,7 @@
 title: "Confirmation Bias"
 ---
 
-- **Tags:** #in-progress/garden #to-imprint 
+- **Tags:** #in-progress/garden #to-digest 
 - **Relevant Notes**
 
 

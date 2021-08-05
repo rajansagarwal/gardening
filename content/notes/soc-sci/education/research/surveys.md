@@ -4,12 +4,12 @@ title: "Surveys"
 
 - **Tags:** #permanent-notes 
 - **Relevant Notes**
-	- [Focus on the user and all else will follow](notes/tech/hcd/focus-on-user.md)
-	- [Human-centric design](moc/human-centered-design.md)
+	- [Focus on the user and all else will follow](notes/arts-tech/ux-design/focus-on-user.md)
+	- [Human-centric design](moc/ux-design.md)
 	- [UX design](moc/ux-design.md)
 
 ## Notes
-- Start with a [Research plan](notes/tech/hcd/research-plan.md)
+- Start with a [Research plan](notes/arts-tech/ux-design/research-plan.md)
 - Survey design
 	- Be inclusive (pronouns!)
 	- Make it short & concise
@@ -29,7 +29,7 @@ title: "Surveys"
 		- Follow-up
 		- Standalone initiative to gather feedback
 	- Creating
-		1. Create [Research plan](notes/tech/hcd/research-plan.md)
+		1. Create [Research plan](notes/arts-tech/ux-design/research-plan.md)
 		2. Align with your team
 		3. Create the survey
 		4. Test the survey

@@ -1,5 +1,6 @@
 ---
 title: "Biases"
+notoc: true
 ---
 
 - [Confirmation bias](notes/sciences/psycho/confirmation-bias.md)

@@ -2,7 +2,7 @@
 title: "Psychological Safety"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [leadership](moc/leadership.md)
 

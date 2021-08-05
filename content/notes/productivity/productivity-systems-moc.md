@@ -1,8 +1,9 @@
 ---
 Title: "Productivity Systems MOC"
+notoc: true
 ---
 
-- **Tags:** [in-progress](notes/por/in-progress.md)
+- **Tags:** #in-progress
 - **Relevant Notes**
 
 ## Systems

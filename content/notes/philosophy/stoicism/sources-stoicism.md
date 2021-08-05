@@ -2,7 +2,7 @@
 title: "Sources on Stoicism"
 ---
 
-- **Tags:** [repository](notes/por/repository.md)
+- **Tags:** #repository #in-progress #come-back 
 - **Relevant Notes**
 
 ---

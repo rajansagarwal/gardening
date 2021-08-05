@@ -2,7 +2,7 @@
 title: "Circular Economy"
 ---
 
-- **Tags:** [in-progress](notes/por/in-progress.md) 
+- **Tags:** #in-progress #to-imprint 
 - **Relevant Notes**
 
 ## Notes

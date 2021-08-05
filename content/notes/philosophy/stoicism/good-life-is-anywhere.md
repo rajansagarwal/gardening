@@ -4,6 +4,9 @@ date: Aug 4, 2021
 notoc: true
 ---
 
+- **Tags:** #permanent-notes 
+- **Relevant Notes**
+
 - We often think that happiness should come when we receive `xyz` or finally get `abc`, but we shouldn't think of happiness/ a good life as something conditional that happens when we reach a certain point. Instead, we can claim it now.
 
 ### For reflection

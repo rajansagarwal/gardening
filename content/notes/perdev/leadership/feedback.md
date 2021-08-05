@@ -2,11 +2,10 @@
 title: "Feedback"
 ---
 
-**Tags:** [might-publish](notes/por/might-publish.md), [personal-learnings](notes/por/personal-learnings.md)
-
-**Related to:**
-- [No to micromanaging](notes/perdev/leadership/micromanaging.md)
-- [life-advice](moc/life-advice.md)
+- **Tags:** #might-publish #personal-learnings 
+- **Related to:**
+	- [No to micromanaging](notes/perdev/leadership/micromanaging.md)
+	- [life-advice](moc/life-advice.md)
 
 I really value the importance of giving feedback. Our words are too powerful to impart things callously. I've seen people give feedback differently, and I think there's no super perfect formula into giving it because people are so unpredictable and subjective. I adjust my approach, but what I always seek to maintain is to relay feedback in a **constructive manner that helps a person move forward concretely**.
 

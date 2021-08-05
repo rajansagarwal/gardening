@@ -2,7 +2,7 @@
 title: "Availability bias"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 
 

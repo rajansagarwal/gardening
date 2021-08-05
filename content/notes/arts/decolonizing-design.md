@@ -2,6 +2,9 @@
 title: "Design is political x Decolonizing design"
 ---
 
+- **Tags:** #permanent-notes 
+- **Relevant Notes**
+
 ## Notes
 - Western ideologies have shaped our concepts of "preferable design"
 	- Anything outside these Western preferences are seen as different

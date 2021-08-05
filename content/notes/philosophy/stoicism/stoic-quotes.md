@@ -3,7 +3,7 @@ title: "Quotes on Stoicism"
 ---
 
 - **Source:**
-- **Tags:** #stoicism 
+- **Tags:** #philosophy 
 - **Relevant Notes**
 - **Thoughts:**
 

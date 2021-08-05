@@ -6,5 +6,5 @@ notoc: true
 > 💡 For the ideas I want to develop
 
 ```query
-content:"ideas"
+tag: ideas
 ```

@@ -2,7 +2,7 @@
 title: "Research Plan"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [User research](notes/tech/hcd/user-research)
 

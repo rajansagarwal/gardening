@@ -2,9 +2,9 @@
 Title: "Active Listening"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
-	- [mh](moc/mental-health.md)
+	- [mental-health](moc/mental-health.md)
 
 
 ## Notes

@@ -25,7 +25,7 @@ notoc: true
 - Productivity! I'm a tool & tip hoarder. Most of my notes are still scattered everywhere since I jump through tools and scavenge a lot of things.
 - ✨ Design ✨
 - Philosophy! I try to practice [stoicism](moc/stoicism.md) and am trying to transition into practicing it more. Since I started in 2021, I also journal daily, reflect monthly, and have an annual year-round up!
-- Psychology! One of my goals is to read this huge repository of psychology books.. but I haven't found the luxury to do so yet. 💭 I like [personality tests](notes/perdev/mh/self-awareness/tests.md) and [self-awareness.](notes/perdev/mh/self-awareness.md)
+- Psychology! One of my goals is to read this huge repository of psychology books.. but I haven't found the luxury to do so yet. 💭 I like [personality tests](notes/perdev/mh/personality-tests.md) and [self-awareness.](notes/perdev/mh/self-awareness.md)
 - Anything related to personal development! I'm trying to get into reading more non-fiction books this year. I recently read [Atomic Habits](notes/sources/books.md) by James Clear. I'm also subscribed to a loooot of [newsletters](notes/sources/newsletters.md) and make time to read them.
 - Leadership and facilitation 👥
 - Music 🎧 I have over a hundred playlists (okay 99 that are published online) on [Spotify](https://open.spotify.com/user/chloeabrasada) and am constantly on the lookout for good finds. I'm also a bathroom singer and frustrated guitarist/ pianist. I sometimes post in [SoundCloud](https://soundcloud.com/chloeabrasada) lol.

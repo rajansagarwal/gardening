@@ -1,5 +1,6 @@
 ---
 title: "Positive Leadership"
+notoc: true
 ---
 
-[in-progress](notes/por/in-progress.md)
+- **Tags:** #in-progress 

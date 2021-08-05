@@ -2,7 +2,7 @@
 title: "Confirmation Bias"
 ---
 
-- **Tags:**
+- **Tags:** #in-progress #to-imprint 
 - **Relevant Notes**
 
 

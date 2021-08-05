@@ -4,6 +4,9 @@ date: Aug 4, 2021
 notoc: true
 ---
 
+- **Tags:** #permanent-notes 
+- **Relevant Notes**
+
 - [Let go of things that are outside of your control](notes/philosophy/stoicism/let-go.md)
 
 ### For reflection

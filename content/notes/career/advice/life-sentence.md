@@ -2,7 +2,7 @@
 Title: "Your career is not a life sentence"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [stoicism](moc/stoicism.md)
 

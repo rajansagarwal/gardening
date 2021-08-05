@@ -25,7 +25,7 @@
 - **Personal Development** 💪
 	- [Leadership MOC](moc/leadership.md)
 	- [Facilitation MOC](moc/facilitation.md)
-	- [Learning, Thinking, & Communicating MOC](moc/ltc.md)
+	- [Learning, Thinking, & Communicating MOC](moc/learning-thinking-communicating.md)
 	- [Life Advice MOC](moc/life-advice.md)
 	- [Mental Health MOC](moc/mental-health.md) 
 	- [Productivity MOC](moc/productivity.md)

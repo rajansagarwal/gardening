@@ -2,7 +2,7 @@
 Title: "Design Teams"
 ---
 
-- **Tags:** [personal-learnings](notes/por/personal-learnings.md)
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [leadership in design](notes/arts/leadership-design)
 	- [work-culture](notes/career/hr/work-culture.md)

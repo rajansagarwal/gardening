@@ -2,7 +2,7 @@
 title: "On choosing your commitments"
 ---
 
-- **Tags:** 
+- **Tags:** #personal-learnings 
 - **Relevant Notes**
 
 ## Notes

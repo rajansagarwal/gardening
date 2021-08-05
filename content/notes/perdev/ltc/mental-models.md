@@ -1,8 +1,9 @@
 ---
 title: "Mental Models MOC"
+notoc: true
 ---
 
-[in-progress](notes/por/in-progress.md)
+#in-progress 
 
 - [Occam's razor](notes/perdev/ltc/occam.md)
 - [OODA loop](notes/perdev/ltc/ooda-loop.md)

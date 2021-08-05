@@ -1,7 +1,8 @@
-How To Improve Public Speaking Skills - Google Digital Garage Speaking"
+---
+title: "Public speaking"
 ---
 
-- **Tags:** [come-back](notes/por/come-back.md) [in-progress](notes/por/in-progress.md)
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [leadership](moc/leadership.md)
 

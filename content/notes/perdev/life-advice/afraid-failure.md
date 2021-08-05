@@ -2,7 +2,7 @@
 title: "Don't be afraid of failure"
 ---
 
-- **Tags:** [extra-push](notes/por/extra-push.md)
+- **Tags:** #extra-push #permanent-notes 
 - **Relevant Notes**
 	- [career-advice](moc/career-advice.md)
 	- [feedback](notes/perdev/leadership/feedback.md)

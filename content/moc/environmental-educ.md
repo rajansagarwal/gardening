@@ -3,8 +3,6 @@ title: "Environmental Education MOC"
 notoc: true
 ---
 
-**Tags:** [in-progress](notes/por/in-progress.md)
-
 - [Environmental justice](notes/environmental-educ/envi-justice.md)
 
 - **Eco-theories**

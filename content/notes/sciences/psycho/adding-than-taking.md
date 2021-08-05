@@ -3,7 +3,7 @@ title: "When we have a problem, we tend to go with solutions that involve adding
 date: Aug 4, 2021
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [hanlon](notes/perdev/kindness/hanlon.md)
 

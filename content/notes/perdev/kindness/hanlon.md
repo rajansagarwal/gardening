@@ -2,7 +2,7 @@
 title: "Hanlon's Razor"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [design-teams](notes/arts/design-teams.md)
 	- [leadership](moc/leadership.md)

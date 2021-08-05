@@ -7,5 +7,5 @@ notoc: true
 
 
 ```query
-content:"repository"
+tag: repository
 ```

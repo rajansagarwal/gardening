@@ -3,7 +3,7 @@ title: "critiquing-design"
 date: Aug 4, 2021
 ---
 
-- **Tags:**
+- **Tags:** #to-imprint 
 - **Relevant Notes**
 
 

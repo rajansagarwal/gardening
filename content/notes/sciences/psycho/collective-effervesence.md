@@ -2,7 +2,7 @@
 title: "Collective Effervesence"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [notes/sciences/psycho/emotions-contagious](notes/sciences/psycho/emotions-contagious)
 

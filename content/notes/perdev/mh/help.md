@@ -2,7 +2,7 @@
 title: "Never be afraid to ask for help"
 ---
 
-- **Tags:** 
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [life-advice](moc/life-advice.md)
 	- [vulnerability](notes/perdev/life-advice/vulnerability.md)

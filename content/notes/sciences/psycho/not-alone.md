@@ -2,7 +2,7 @@
 title: "We weren't build to be alone"
 ---
 
-- **Tags:**
+- **Tags:** #to-imprint 
 - **Relevant Notes**
 	- [collective-effervesence](notes/sciences/psycho/collective-effervesence.md)
 

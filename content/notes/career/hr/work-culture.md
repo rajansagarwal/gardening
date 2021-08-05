@@ -2,7 +2,7 @@
 title: "Work Culture"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [leadership](moc/leadership.md)
 	- [positive-leadership](notes/perdev/leadership/positive-leadership.md)

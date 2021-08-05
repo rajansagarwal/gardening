@@ -2,7 +2,7 @@
 title: "Emotions are contagious"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [collective-effervesence](notes/sciences/psycho/collective-effervesence.md)
 

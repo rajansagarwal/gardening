@@ -2,8 +2,8 @@
 title: "Interviews for Leaderships in Organizations"
 ---
 
-**Tags:** [personal-learnings](notes/por/personal-learnings.md)
-**Relevant Notes**
+- **Tags:** #personal-learnings #permanent-notes 
+- **Relevant Notes**
 
 ## Common Questions
 1. Tell me about yourself.

@@ -2,7 +2,7 @@
 Title: "Workplace equity"
 ---
 
-- **Tags:**
+- **Tags:** #permanent-notes #pondering 
 - **Relevant Notes**
 	- [leadership](moc/leadership.md)
 

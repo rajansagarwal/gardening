@@ -2,7 +2,7 @@
 title: "Should you send a thank you note?"
 ---
 
-- **Tags:** [pondering](notes/por/pondering.md)
+- **Tags:** #pondering #permanent-notes 
 - **Relevant Notes**
 	- [career-advice](moc/career-advice.md)
 

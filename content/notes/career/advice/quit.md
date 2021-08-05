@@ -2,7 +2,7 @@
 title: "When to quit a job?"
 ---
 
-- **Tags:**
+- **Tags:** #to-imprint
 - **Relevant Notes**
 	- [work-culture](notes/career/hr/work-culture.md)
 	- [life-sentence](notes/career/advice/life-sentence.md)

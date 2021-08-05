@@ -2,6 +2,10 @@
 Title: "On Relating to Others"
 ---
 
+- **Tags:** #permanent-notes 
+- **Relevant Notes**
+	- [learning-thinking-communicating](moc/learning-thinking-communicating.md)
+
 ## Notes
 - Relating others requires conscious effort and conscious choices. You do not get better at it immediately.
 

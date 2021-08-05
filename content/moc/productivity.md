@@ -5,14 +5,16 @@ notoc: true
 
 **Tags:** #in-progress #come-back 
 
+## MOCs
+- [Productivity systems MOC](notes/productivity/productivity-systems-moc.md)
+- [PKM MOC](notes/productivity/pkm.md)
+
 ## Concepts
 - [Choosing priorities](notes/producitivity/priorities.md)
 - [Flow state](notes/productivity/flow-state.md)
 - [Deep focus](notes/productivity/deep-focus.md)
 - [Attentional spaces](notes/productivity/attentional-spaces.md)
 
-## Productivity systems
-- [Productivity systems MOC](notes/productivity/productivity-systems-moc.md)
 
 ## Techniques
 - [Time blocking](notes/productivity/time-blocking.md)

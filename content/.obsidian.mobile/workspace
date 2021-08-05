@@ -1,0 +1,85 @@
+{
+  "main": {
+    "id": "7483b147ab1b4bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "39f6f5404b95d1d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/productivity/collector-fallacy.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21475e9bb1bd36be",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "013e21129533d0b3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1ef8006da1fcc889",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8ffb39720d12a09c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "108bd21608f80f86",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "notes/productivity/collector-fallacy.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "39f6f5404b95d1d3",
+  "lastOpenFiles": [
+    "notes/productivity/collector-fallacy.md",
+    "notes/productivity/zettelkasten.md",
+    "notes/productivity/pkm.md",
+    "moc/productivity.md",
+    "_index.md",
+    "moc/learning-thinking-communicating.md",
+    "moc/politics.md",
+    "notes/home/about.md"
+  ]
+}

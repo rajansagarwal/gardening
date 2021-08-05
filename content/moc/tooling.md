@@ -3,7 +3,7 @@ title: "Tooling"
 date: Aug 4, 2021
 ---
 
-> Note: [in-progress](notes/tag-view/in-progress.md) lol empty
+> Note: [in-progress](private/tag-view/in-progress.md) lol empty
 
 ## Personal Knowledege Management
 - [Obsidian](notes/tooling/obsidian.md)

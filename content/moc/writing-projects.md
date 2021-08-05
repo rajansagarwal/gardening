@@ -5,4 +5,4 @@ notoc: true
 
 #personal-learnings 
 
-- [We should learn to embrace mediocrity](notes/projects/writing/embrace-mediocrity.md)
+- #in-progress 08052021 [We should learn to embrace mediocrity](notes/projects/writing/embrace-mediocrity.md)

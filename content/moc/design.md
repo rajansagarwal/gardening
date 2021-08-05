@@ -10,3 +10,5 @@ notoc: true
 - [Leadership in design](notes/arts/leadership-design.md)
 - [Cool Tools](notes/arts-tech/design/design-tools.md)
 - [Where to learn](notes/perdev/ltc/where-to-learn.md)
+- [Designing for accesibility](notes/arts-tech/design/design-accessibility)
+- [Designing for inclusivity](notes/arts-tech/design/design-inclusivity)

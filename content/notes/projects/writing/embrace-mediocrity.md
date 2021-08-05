@@ -2,13 +2,15 @@
 title: "We should learn to embrace mediocrity"
 ---
 
+> **Date:** 08052021
+
 - **Tags:** #in-progress/garden #projects
 - **Relevant Notes**
 	- [202108031836](chloe-lyt/030%20Private/032%20Zettelkasten/202108031836.md)
 
 ## Grounding
 - **Why?**
-	- To break the construct that we should work our ass of in order to achieve societal acceptance
+	- To break the construct that we should work our ass off in order to achieve societal acceptance
 	- To break the social construct that settling is incorrect
 	- To impart the concept the it's okay to be mediocre
 	- To advocate for prioritizing health over outward sense-seeking

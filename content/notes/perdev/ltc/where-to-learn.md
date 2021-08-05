@@ -2,7 +2,7 @@
 title: "Where to Learn"
 ---
 
-- **Tags:** #in-progress #repository 
+- **Tags:** #in-progress/garden #repository 
 - **Relevant Notes**
 	- [Learning](moc/learning-thinking-communicating.md)
 	- [What to Learn](notes/perdev/ltc/what-to-learn.md)

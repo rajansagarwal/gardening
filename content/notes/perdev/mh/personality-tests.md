@@ -2,7 +2,7 @@
 title: "Personality Tests"
 ---
 
-- **Tags:** #repository #in-progress 
+- **Tags:** #repository #in-progress/garden 
 - **Relevant Notes**
 	- [Self-awareness](notes/perdev/mh/self-awareness.md)
 

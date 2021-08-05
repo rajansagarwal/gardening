@@ -3,7 +3,7 @@ Title: "Productivity Systems MOC"
 notoc: true
 ---
 
-- **Tags:** #in-progress
+- **Tags:** #in-progress/garden
 - **Relevant Notes**
 
 ## Systems

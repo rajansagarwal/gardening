@@ -2,7 +2,7 @@
 title: "Visual Design"
 ---
 
-- **Tags:** #in-progress 
+- **Tags:** #in-progress/garden 
 - **Relevant Notes**
 
 ## Sources

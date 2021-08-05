@@ -3,4 +3,4 @@ title: "Self-awareness"
 notoc: true
 ---
 
-#in-progress 
+#in-progress/garden 

@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "chloe-lyt/Chloe's Second brain 🧠.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,6 +70,7 @@
       {
         "id": "140d3b71456948d7",
         "type": "tabs",
+        "dimension": 32.18514531754575,
         "children": [
           {
             "id": "6d3189168f42df79",
@@ -88,23 +90,40 @@
             }
           }
         ]
+      },
+      {
+        "id": "e058b1647292cab2",
+        "type": "tabs",
+        "dimension": 67.81485468245425,
+        "children": [
+          {
+            "id": "d64929e2facd5c0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d9efdba1127ed9a1",
   "lastOpenFiles": [
     "chloe-lyt/Chloe's Second brain 🧠.md",
+    "chloe-lyt/lyt-notes/Bakunawa.md",
+    "chloe-lyt/lyt-notes/MATH 10 Capstone.md",
+    "chloe-lyt/lyt-notes/Failure Resume.md",
+    "chloe-lyt/lyt-notes/20210801 How to avoid burnout.md",
+    "chloe-lyt/lyt-notes/08022021 Developh application.md",
+    "content/notes/environmental-educ/circular-economy.md",
     "chloe-lyt/lyt-notes/MATH 10.md",
     "chloe-lyt/lyt-private/Zettelkasten/202108031836.md",
-    "chloe-lyt/lyt-private/Daily journal/2021-08-03.md",
-    "content/notes/projects/writing/embrace-mediocrity.md",
-    "chloe-lyt/lyt-notes/Daily Journal.md",
-    "chloe-lyt/lyt-moc/LifeOS MOC.md",
-    "chloe-lyt/lyt-notes/Documentation of stories.md",
-    "chloe-lyt/lyt-notes/docu-research.md",
-    "chloe-lyt/lyt-notes/Docu presentation of stories.md"
+    "chloe-lyt/lyt-private/Daily journal/2021-08-03.md"
   ]
 }

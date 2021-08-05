@@ -9,3 +9,7 @@ notoc: true
 - [Active listening](notes/perdev/kindness/active-listening.md)
 - [Unspoken rules of kindness](notes/perdev/kindness/unspoken-rules.md)
 - [Hanlon's razor](notes/perdev/kindness/hanlon.md)
+
+
+### Quotes
+- Always be a little kinder than necessary

@@ -174,7 +174,6 @@ footer {
     font-size: 1em;
     color: var(--secondary);
     padding: 0 0.5em 3em 0.5em;
-    
   }
 }
 
@@ -199,10 +198,10 @@ a[href^="/"] {
 // external link
 a[href^="https://"]::after {
   /* "\ao " is a non-breaking space */
-  content: "↗";
+  content: "⇗";
   position: relative;
-  bottom: 0.4em;
-  font-size: 0.8em;
+  bottom: 0.3em;
+  font-size: 1em;
   display: inline-block;
 }
 

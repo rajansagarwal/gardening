@@ -1,7 +1,7 @@
 {{$trimmed := strings.TrimSuffix ".md" (.Destination | safeURL)}}
 {{$external := strings.HasPrefix $trimmed "http" }}
 {{ if $external }}
-<a href="{{ $trimmed }}" rel="noopener">{{ .Text | safeHTML }}</a>
+<a href="{{ $trimmed }}" rel="noopener" target="_blank">{{ .Text | safeHTML }}</a>
 {{else}}
 <a href="{{ if (hasPrefix $trimmed "/") }}{{ $trimmed }}{{ else }}{{ print "/" $trimmed }}{{ end }}" rel="noopener">{{ .Text | safeHTML }}</a>
 {{end}}

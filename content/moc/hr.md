@@ -9,3 +9,4 @@ notoc: true
 - [Work culture](notes/career/hr/work-culture.md)
 - [Work structures](notes/career/hr/work-structures.md)
 - [Getting hired](notes/career/hr/getting-hired.md)
+- [Workplace communication](notes/career/hr/workplace-comm.md)

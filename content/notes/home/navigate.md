@@ -23,7 +23,7 @@ I talk more about the notes system more in [gardening-system.](notes/home/garden
 		- The projects sections contain the projects I publish (more of the thinking processes instead of the final product!).
 - **Types of Notes** 🤩
 	- From the entry points, I have different types of notes. I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Essentially, here are the types of notes:
-		- #permanent-notes * 🫀
+		- #permanent-notes 🫀
 			- In these notes, I write in the highlights I read and the thought processes I generated along with them.
 		- #personal-learnings  ✍️
 			- These notes contain solely my writings from personal learnings.

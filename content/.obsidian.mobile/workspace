@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/productivity/collector-fallacy.md",
+            "file": "moc/stoicism.md",
             "mode": "preview"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/productivity/collector-fallacy.md",
+            "file": "moc/stoicism.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,13 +73,15 @@
   },
   "active": "39f6f5404b95d1d3",
   "lastOpenFiles": [
+    "moc/stoicism.md",
+    "_index.md",
+    "notes/arts-tech/ux-design/art-of-questioning.md",
+    "moc/ux-design.md",
     "notes/productivity/collector-fallacy.md",
     "notes/productivity/zettelkasten.md",
     "notes/productivity/pkm.md",
     "moc/productivity.md",
-    "_index.md",
     "moc/learning-thinking-communicating.md",
-    "moc/politics.md",
-    "notes/home/about.md"
+    "moc/politics.md"
   ]
 }

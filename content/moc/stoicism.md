@@ -8,6 +8,7 @@ I regularly update my [Are.na on Stoicism.](https://www.are.na/chloe-abrasada/st
 - [The good life is anywhere–you don't have to wait for a certain destination](notes/philosophy/stoicism/good-life-is-anywhere.md)
 - [Avoid being reactive](notes/philosophy/stoicism/avoid-being-reactive.md)
 - [Let go of things that are outside of your control](notes/philosophy/stoicism/let-go.md)
+- [Do not let other people take up your mental space](notes/philosophy/stoicism/mental-space.md)
 
 ### Unsorted
 - [Stoic Values](notes/philosophy/stoicism/values.md)

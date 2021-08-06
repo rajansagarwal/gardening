@@ -2,9 +2,9 @@
 :root {
   --light: #faf8f8;
   --dark: #141021;
-  --secondary: #6c60c8;
-  --tertiary: #a69deb;
-  --visited: #b9b4e4;
+  --secondary: #6271c7;
+  --tertiary: rgb(102, 91, 181);
+  --visited: rgb(102, 91, 181);
   --primary: #79d3b8;
   --gray: #4e4e4e;
   --lightgray: #f0f0f0;
@@ -12,11 +12,11 @@
 }
 
 [saved-theme="dark"] {
-  --light: #1e1e21 !important;
+  --light: #262833 !important;
   --dark: #fbfffe !important;
-  --secondary: #7a71ea !important;
-  --visited: #b9b4e4 !important;
-  --tertiary: #a59df0 !important;
+  --secondary: #7e8ce0 !important;
+  --visited: #b5bce4 !important;
+  --tertiary: #b5bce4 !important;
   --primary: #79d3b8 !important;
   --gray: #d4d4d4 !important;
   --lightgray: #332626 !important;

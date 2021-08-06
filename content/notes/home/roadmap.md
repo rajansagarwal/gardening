@@ -10,6 +10,7 @@ notoc: true
 - Fixing the notes tagged #in-progress/garden *(also will I ever lol)*
 - Concretizing my system 🍃
 - Revisiting my old notes in Notion, Notes, Mem, Telegram, Messenger, Discord, etc. I really wish I learned about Obsidian earlier grr.
+- Thinking of how to integrate company departments? Lol
 
 **One of many note repositories lol**
 ![notion-notes](/notes/photos/notion-notes.png)

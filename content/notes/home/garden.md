@@ -42,9 +42,12 @@ So yeah, what motivated me into building my own garden is how much it offered au
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 - [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
 
-### Other Helpful Links
+### Other Helpful Links on Getting Started
 - [PKM Primer: An Introduction to Personal Knowledge Management for Creatives](https://thesweetsetup.com/pkm-intro-for-creatives/)
 - [A Beginner’s Guide to the Zettelkasten Method](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/) Still trying to learn how to integrate this to my system 😶‍🌫️
 - [How To Take Evergreen Notes (Part 4 In Series)](https://mikegiannulis.com/how-to-take-evergreen-notes/)
 - [The Second Brain - A Life-Changing Productivity System](https://www.youtube.com/watch?v=OP3dA2GcAh8)
 - [Building a Second Brain: An Overview](https://fortelabs.co/blog/basboverview/)
+
+### Related Reads
+- [Learn In Public: The fastest way to learn](https://www.swyx.io/learn-in-public/)

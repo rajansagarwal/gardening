@@ -5,3 +5,4 @@ notoc: true
 ---
 
 - [Zettelkasten](notes/productivity/zettelkasten.md)
+- [Learning in public](notes/productivity/learning-in-public.md)

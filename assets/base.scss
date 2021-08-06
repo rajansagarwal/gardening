@@ -169,11 +169,12 @@ body {
 
 footer {
   margin-top: 4em;
+  padding-bottom: 4em;
 
   & > a {
     font-size: 1em;
     color: var(--secondary);
-    padding: 0 0.5em 3em 0.5em;
+    padding: 0 0.5em 0em 0.5em;
   }
 }
 

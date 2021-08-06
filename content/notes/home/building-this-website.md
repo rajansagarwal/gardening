@@ -26,6 +26,7 @@ notoc: true
 - `08/02/2021` Add option to remove TOC
 - `08/03/2021` Add arrow to external links
 	- [Superscript in CSS only? - Stack Overflow](https://stackoverflow.com/questions/501671/superscript-in-css-only/501696)
+* `08/07/2021` Change fonts & add text-background on hover
 
 ***Lol look at that struggle...*** 🐒
 ![github-struggle](/notes/photos/github-struggle.png)

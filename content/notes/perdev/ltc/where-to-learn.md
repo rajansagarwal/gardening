@@ -16,6 +16,7 @@ title: "Where to Learn"
 - LinkedIn Learning
 - Udemy
 - FutureLearn
+- Self-school
 
 ## Design x Tech
 ### Events

@@ -2,7 +2,7 @@
 title: "Circular Economy"
 ---
 
-- **Tags:** #in-progress/garden #to-digest 
+- **Tags:**  #to-digest 
 - **Relevant Notes**
 
 ## Notes

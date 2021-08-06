@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d9efdba1127ed9a1",
+        "id": "b2dfd5b1282bd516",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chloe-lyt/lyt-private/Daily journal/2021-08-05.md",
+            "file": "chloe-lyt/Chloe's Second brain 🧠.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in-progress",
+                "query": "tag:#permanent-notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,6 +53,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "12712f3df32b478b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chloe-lyt/lyt-private/Daily journal/2021-08-05.md",
+                "file": "chloe-lyt/Chloe's Second brain 🧠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +94,30 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "3f496175dfc1a326",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7762c22e5e6fa73",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfe0a9882830ffde",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ]
@@ -112,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d9efdba1127ed9a1",
+  "active": "b2dfd5b1282bd516",
   "lastOpenFiles": [
-    "chloe-lyt/lyt-private/Daily journal/2021-08-05.md",
     "chloe-lyt/Chloe's Second brain 🧠.md",
-    "chloe-lyt/lyt-notes/Bakunawa.md",
-    "chloe-lyt/lyt-notes/MATH 10 Capstone.md",
-    "chloe-lyt/lyt-notes/Failure Resume.md",
-    "chloe-lyt/lyt-notes/20210801 How to avoid burnout.md",
-    "chloe-lyt/lyt-notes/08022021 Developh application.md",
-    "content/notes/environmental-educ/circular-economy.md",
-    "chloe-lyt/lyt-notes/MATH 10.md",
-    "chloe-lyt/lyt-private/Zettelkasten/202108031836.md"
+    "content/notes/career/hr/work-culture.md",
+    "content/notes/soc-sci/education/research/surveys.md",
+    "content/notes/career/hr/interviews-org.md",
+    "content/notes/sciences/psycho/emotions-contagious.md",
+    "content/notes/philosophy/stoicism/avoid-being-reactive.md",
+    "content/notes/sciences/psycho/availability-bias.md",
+    "content/notes/perdev/life-advice/afraid-failure.md",
+    "content/notes/sciences/psycho/adding-than-taking.md",
+    "content/notes/perdev/kindness/active-listening.md"
   ]
 }

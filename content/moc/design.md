@@ -2,7 +2,6 @@
 title: "Design MOC"
 notoc: true
 ---
-#in-progress/garden 
 
 - [Visual design](notes/arts-tech/design/visual.md)
 - [Design is political x Decolonizing design](notes/arts-tech/design/decolonizing-design.md)

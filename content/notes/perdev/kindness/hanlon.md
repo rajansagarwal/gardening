@@ -4,7 +4,7 @@ title: "Hanlon's Razor"
 
 - **Tags:** #permanent-notes 
 - **Relevant Notes**
-	- [design-teams](notes/arts-tech/design/design-teams.md)
+	- [design-teams](notes/skills/design/design-teams.md)
 	- [leadership](moc/leadership.md)
 	- [positive-leadership](notes/perdev/leadership/positive-leadership.md)
 	- [kindness](moc/kindness.md)

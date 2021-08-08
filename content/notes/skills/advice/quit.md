@@ -4,8 +4,8 @@ title: "When to quit a job?"
 
 - **Tags:** #to-digest
 - **Relevant Notes**
-	- [work-culture](notes/career/hr/work-culture.md)
-	- [life-sentence](notes/career/advice/life-sentence.md)
+	- [work-culture](notes/skills/hr/work-culture.md)
+	- [life-sentence](notes/skills/advice/life-sentence.md)
 
 
 ## Notes
@@ -24,7 +24,7 @@ title: "When to quit a job?"
 	- Can't be yourself
 	- You don't know how your position impacts company
 	- You took the job based on wants, not needs
-	- You're uncomfortable speaking up (related to: [work-culture](notes/career/hr/work-culture.md), [psychological-safety](notes/perdev/mh/psychological-safety.md))
+	- You're uncomfortable speaking up (related to: [work-culture](notes/skills/hr/work-culture.md), [psychological-safety](notes/perdev/mh/psychological-safety.md))
 	- Your day to day doesn't match job description
 	- Your [gut-feeling](notes/sciences/psychology/gut-feeling.md) says it's the wrong fit 
 

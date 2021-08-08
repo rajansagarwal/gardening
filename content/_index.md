@@ -1,3 +1,7 @@
+---
+alias: "000"
+---
+
 # Chloe's Digital Garden 🪴
 👋 Hey, I'm Chloe Abrasada! As a chronic learner, I like my life with organized chaos.. hence the ~~scattered folder under folder~~ garden. 📁
 
@@ -41,12 +45,10 @@
 - **Philosophy** 🤲
 	- [Ethics MOC](moc/ethics.md)
 	- [Stoicism MOC](moc/stoicism.md)
-- **Arts & Technology** 🎨
-	- [Design MOC](moc/design.md)
-	- [UX Design MOC](moc/ux-design.md)
-- **Career** 🎃
+- **Skills** 🛫
 	- [Human Resources MOC](moc/hr.md)
-	- [Career Advice MOC](moc/career-advice.md)
+	- [Project Management MOC](moc/proj-man.md)
+	- [Creatives MOC](moc/creatives.md)
 - **Others** 🤙
 	- [Tooling](moc/tooling.md)
 	- [Sources](moc/sources.md)

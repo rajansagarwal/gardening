@@ -7,8 +7,11 @@
         "id": "b2dfd5b1282bd516",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/notes/skills/proj-man/project-roadmapping.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/notes/skills/proj-man/project-roadmapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +146,15 @@
   },
   "active": "b2dfd5b1282bd516",
   "lastOpenFiles": [
+    "content/notes/skills/proj-man/project-roadmapping.md",
+    "content/notes/home/corner.md",
+    "content/_index.md",
     "chloe-lyt/Chloe's Second brain 🧠.md",
     "chloe-lyt/lyt-notes/Failure Resume.md",
     "content/notes/career/hr/work-culture.md",
     "content/notes/soc-sci/education/research/surveys.md",
     "content/notes/career/hr/interviews-org.md",
     "content/notes/sciences/psycho/emotions-contagious.md",
-    "content/notes/philosophy/stoicism/avoid-being-reactive.md",
-    "content/notes/sciences/psycho/availability-bias.md",
-    "content/notes/perdev/life-advice/afraid-failure.md",
-    "content/notes/sciences/psycho/adding-than-taking.md"
+    "content/notes/philosophy/stoicism/avoid-being-reactive.md"
   ]
 }

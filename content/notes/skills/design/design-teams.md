@@ -5,7 +5,7 @@ Title: "Design Teams"
 - **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [leadership in design](notes/arts/leadership-design)
-	- [work-culture](notes/career/hr/work-culture.md)
+	- [work-culture](notes/skills/hr/work-culture.md)
 
 
 ## Notes
@@ -16,7 +16,7 @@ Title: "Design Teams"
 			- What are our values?
 			- How will we be able to grow with `person xyz`?
 		- What skills do we want to see?
-	- It is better to work on this collaboratively, [work-culture](notes/career/hr/work-culture.md) is created by the people in the workplace, not just defined by the HR dept.
+	- It is better to work on this collaboratively, [work-culture](notes/skills/hr/work-culture.md) is created by the people in the workplace, not just defined by the HR dept.
 - **Good tooling**
 	- [Figma Hiring Exercise](https://www.figma.com/community/file/766883810351845384)
 

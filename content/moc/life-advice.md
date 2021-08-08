@@ -4,6 +4,7 @@ notoc: true
 ---
 
 ## Content
+- [Career Advice MOC](moc/career-advice.md)
 - [What to answer to mamamatay din tayong lahat](notes/perdev/life-advice/mamamatay.md)
 - [How to change your life](notes/perdev/life-advice/change-life.md)
 - [Choose your perspective](notes/perdev/life-advice/choose-perspective.md)

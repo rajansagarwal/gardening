@@ -15,7 +15,6 @@ notoc: true
 - [Deep focus](notes/productivity/deep-focus.md)
 - [Attentional spaces](notes/productivity/attentional-spaces.md)
 
-
 ## Techniques
 - [Time blocking](notes/productivity/time-blocking.md)
 
@@ -26,3 +25,6 @@ notoc: true
 ## Deconstructing constructs
 - ["Screw motivation, what you need is discipline"](notes/productivity/screw.md)
 - [Laziness does not exist](notes/productivity/laziness-not-exist.md)
+
+## Keep in mind
+- [Perfection is the enemy of progress](notes/productivity/perfection-progress.md)

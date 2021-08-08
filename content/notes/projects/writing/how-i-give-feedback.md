@@ -4,17 +4,17 @@ date: Aug 7, 2021
 ---
 
 > **Date:** 08072021
+> Iteration of [feedback](notes/perdev/leadership/feedback.md)
 
-- **Tags:** #in-progress/garden #projects 
+- **Tags:** #in-progress/garden #projects #personal-learnings 
 - Related to:
-	- [feedback](notes/perdev/leadership/feedback.md)
+	- [positive-leadership](notes/perdev/leadership/positive-leadership.md)
 
 ## Pop-up ideas
 - Specific, digestible, action-oriented
 
 ## Outline
 ## Paper
-In 
 
 I've worked with multiple diverse teams over the past years–from group of friends, classmates, bunch of strangers, to workplace teams. Along with the diversity of the teams also comes different work and communicatino dynamics, so you never know what to expect with each team.
 

@@ -3,10 +3,11 @@ title: "Human Resources MOC"
 notoc: true
 ---
 
-- [Interviews](notes/career/hr/interviews.md)
-	- [Interviews for Leadership in Organizations](notes/career/hr/interviews-org.md)
-	- [Should you send a thank you note?](notes/career/hr/ty-note.md)
-- [Work culture](notes/career/hr/work-culture.md)
-- [Work structures](notes/career/hr/work-structures.md)
+- [Career Advice MOC](moc/career-advice.md)
+- [Interviews](notes/skills/hr/interviews.md)
+	- [Interviews for Leadership in Organizations](notes/skills/hr/interviews-org.md)
+	- [Should you send a thank you note?](notes/skills/hr/ty-note.md)
+- [Work culture](notes/skills/hr/work-culture.md)
+- [Work structures](notes/skills/hr/work-structures.md)
 - [Getting hired](notes/career/hr/getting-hired.md)
-- [Workplace communication](notes/career/hr/workplace-comm.md)
+- [Workplace communication](notes/skills/hr/workplace-comm.md)

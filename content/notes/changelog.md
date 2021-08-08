@@ -1,9 +1,15 @@
 ---
 title: "Changelog"
-date: Aug 7, 2021
+date: Aug 8, 2021
 notoc: true
 ---
 
+- 2021-08-08 at 13h22 · [[to-read]]
+- 2021-08-08 at 11h53 · [[ethics]]
+- 2021-08-08 at 11h52 · [[expressing-emotions]]
+- 2021-08-08 at 11h51 · [[psychology]]
+- 2021-08-07 at 22h38 · [[how-i-give-feedback]]
+- 2021-08-07 at 22h30 · [[writing-projects]]
 - 2021-08-07 at 15h05 · [[art-political]]
 - 2021-08-07 at 15h04 · [[design]]
 - 2021-08-07 at 15h04 · [[politics]]
@@ -18,9 +24,3 @@ notoc: true
 - 2021-08-07 at 01h51 · [[corner]]
 - 2021-08-06 at 21h24 · [[stoicism]]
 - 2021-08-06 at 19h59 · [[how-to-apologize]]
-- 2021-08-06 at 19h57 · [[workplace-comm]]
-- 2021-08-06 at 19h56 · [[hr]]
-- 2021-08-06 at 11h53 · [[shape-up]]
-- 2021-08-06 at 11h41 · [[where-to-learn]]
-- 2021-08-06 at 11h41 · [[faux-activism]]
-- 2021-08-06 at 11h40 · [[circular-economy]]

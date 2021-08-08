@@ -11,4 +11,5 @@ notoc: true
 - [Emotions are contagious](notes/sciences/psycho/emotions-contagious.md)
 - [We weren't build to be alone](notes/sciences/psycho/not-alone.md)
 - [When we have a problem, we tend to go with solutions that involve adding something than taking something existing away](notes/sciences/psycho/adding-than-taking.md)
+- [On expressing emotions](notes/sciences/psycho/expressing-emotions.md)
 - [Languishing](notes/sciences/psycho/languishing.md)

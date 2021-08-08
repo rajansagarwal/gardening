@@ -11,3 +11,4 @@ notoc: true
 - [Where to learn](notes/perdev/ltc/where-to-learn.md)
 - [Designing for accesibility](notes/arts-tech/design/design-accessibility)
 - [Designing for inclusivity](notes/arts-tech/design/design-inclusivity)
+- [Art is political](notes/sco-sci/politics/art-political.md)

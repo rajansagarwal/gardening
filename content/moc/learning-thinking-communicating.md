@@ -3,6 +3,10 @@ title: "Learning, Thinking, & Communicating MOC"
 notoc: true
 ---
 
+## MOCs
+- [Learning MOC](moc/learning.md)
+## Concepts
+- [Systems thinking](notes/perdev/ltc/systems-thinking.md)
 - [Mental Models](notes/perdev/ltc/mental-models.md)
 - [Second Brain](notes/perdev/ltc/second-brain.md)
 - [Visual Thinking](notes/perdev/ltc/visual-thinking.md)

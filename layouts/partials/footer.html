@@ -24,7 +24,7 @@ document.getElementById("demo").innerHTML = document.lastModified;
         <a href="/">Home</a>
         {{end}}
         {{- range $.Site.Data.config.links -}}
-        <a href="{{.link}}">{{.link_name}}</a>
+        <a href="{{.link}}" target="_blank">{{.link_name}}</a>
         {{- end -}}
     </footer>
 </div>

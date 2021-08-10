@@ -4,6 +4,15 @@ date: Aug 10, 2021
 notoc: true
 ---
 
+- 2021-08-10 at 22h25 · [[design-tools]]
+- 2021-08-10 at 22h25 · [[ux-tools]]
+- 2021-08-10 at 22h25 · [[tooling]]
+- 2021-08-10 at 22h22 · [[pkm-tools]]
+- 2021-08-10 at 22h18 · [[ux-design]]
+- 2021-08-10 at 22h16 · [[cybersecurity]]
+- 2021-08-10 at 22h12 · [[technology]]
+- 2021-08-10 at 22h11 · [[advocacy]]
+- 2021-08-10 at 22h11 · [[_index]]
 - 2021-08-10 at 14h40 · [[work-culture]]
 - 2021-08-10 at 14h39 · [[workplace-equity]]
 - 2021-08-10 at 14h39 · [[help]]
@@ -15,12 +24,3 @@ notoc: true
 - 2021-08-10 at 14h37 · [[active-listening]]
 - 2021-08-09 at 17h18 · [[systems-thinking]]
 - 2021-08-09 at 17h17 · [[learning-thinking-communicating]]
-- 2021-08-09 at 17h17 · [[lessen-distractions]]
-- 2021-08-09 at 17h16 · [[learning]]
-- 2021-08-09 at 17h13 · [[sources]]
-- 2021-08-08 at 17h29 · [[how-i-give-feedback]]
-- 2021-08-08 at 17h28 · [[writing-projects]]
-- 2021-08-08 at 17h27 · [[_index]]
-- 2021-08-08 at 16h51 · [[proj-man]]
-- 2021-08-08 at 16h36 · [[productivity]]
-- 2021-08-08 at 16h35 · [[project-roadmapping]]

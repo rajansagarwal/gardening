@@ -5,8 +5,6 @@ date: Aug 4, 2021
 
 > Note: [in-progress](private/tag-view/in-progress.md) lol empty
 
-## Personal Knowledege Management
-- [Obsidian](notes/tooling/obsidian.md)
-
-## Design
-- [InDesign](notes/tooling/indesign.md)
+- [UX Tools](notes/skills/ux-design/ux-tools.md)
+- [Personal Knowledge Management Tools](notes/tooling/pkm-tools.md)
+- [Design Tools](notes/tooling/design-tools.md)

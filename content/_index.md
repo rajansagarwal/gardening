@@ -34,13 +34,13 @@ alias: "000"
 	- [Mental Health MOC](moc/mental-health.md) 
 	- [Productivity MOC](moc/productivity.md)
 	- [Kindness MOC](moc/kindness.md)
-- **Sciences** 👩‍⚕️
+- **Sciences** 👩‍⚕️🖨
 	- [Health MOC](moc/health.md)
-	- [Psychology MOC](moc/psychology.md)
-	- [Environmental Education MOC](moc/environmental-educ.md)
+	- [Technology MOC](moc/technology.md)
 - **Social Sciences** 💎
 	- [Politics MOC](moc/politics.md)
 	- [Social Change MOC](moc/social-change.md)
+	- [Psychology MOC](moc/psychology.md)
 	- [Education MOC](moc/education.md)
 - **Philosophy** 🤲
 	- [Ethics MOC](moc/ethics.md)
@@ -50,6 +50,7 @@ alias: "000"
 	- [Project Management MOC](moc/proj-man.md)
 	- [Creatives MOC](moc/creatives.md)
 - **Others** 🤙
+	- [Advocacy MOC](moc/advocacy.md)
 	- [Tooling](moc/tooling.md)
 	- [Sources](moc/sources.md)
 

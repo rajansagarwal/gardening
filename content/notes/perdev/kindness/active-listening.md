@@ -9,18 +9,15 @@ Title: "Active Listening"
 
 ## Notes
 - Active listening involves consciously paying attention to who you're listening to.
-- **Skills**
+- The following are the**skills** involved in active listening:
 	- Reflection
 	- Labelling emotions
 	- Asking questions
 	- Empathy
 	- Lived experienced
 	- Identify strengths
-- It involves [mindfulness.](notes/perdev/mh.md)
-- [Self-awareness](notes/perdev/mh/self-awareness.md) is important. Be aware of
-	- [Listening filters](notes/perdev/mh/listening-filters.md)
-	- Personal thoughts
-- Show you're listening through body language/ PEA approach
+- It involves [mindfulness.](notes/perdev/mh.md) and [Self-awareness](notes/perdev/mh/self-awareness.md) is important. You should be aware of your [listening filters](notes/perdev/mh/listening-filters.md) and personal thoughts.
+- It is also important that you show that you're listening. You can show you're listening through body language/ PEA approach.
 
 ## Highlights
 - Active listening is a great technique to help people feel better when they are going through hard times, dealing with loss, struggling with health issues, or just need to vent. Because active listening directs all focus towards the speaker, it removes potential sources of stress, conflict and discomfort that can happen in a regular conversation.[^1]

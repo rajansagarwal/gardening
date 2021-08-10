@@ -11,11 +11,11 @@ Title: "Design Teams"
 ## Notes
 - **How to build a design team**
 	- Work cultures & environments are different–we hire people that would complement the team. The filtering process is important as every member contributes to the overall flow of the team
-	- Baseline process:
-		- How well will this person work with the team culture?
+	- The baseline process involves asking two questions:
+		- **How well will this person work with the team culture?**
 			- What are our values?
 			- How will we be able to grow with `person xyz`?
-		- What skills do we want to see?
+		- **What skills do we want to see?**
 	- It is better to work on this collaboratively, [work-culture](notes/skills/hr/work-culture.md) is created by the people in the workplace, not just defined by the HR dept.
 - **Good tooling**
 	- [Figma Hiring Exercise](https://www.figma.com/community/file/766883810351845384)

@@ -11,8 +11,7 @@ title: "Work Culture"
 ## Notes
 
 - Good vs bad work culture
-	- **Good work culture**
-		- [psychological-safety](notes/perdev/mh/psychological-safety.md)
+	- **Good work culture** involves [psychological-safety](notes/perdev/mh/psychological-safety.md)
 - Tools for enhancing connection between team
 	- [Figma Design Team Trading Cards](https://www.figma.com/community/file/814575098768004426)
 

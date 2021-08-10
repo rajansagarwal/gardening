@@ -9,9 +9,7 @@ Title: "Workplace equity"
 
 ## Notes
 - **Distribute tasks between men and women**
-	- There is a societal expectation for women to volunteer more in non-promotable tasks.
-		- This culture holds back women.
-			- "Not only is their advancement stymied, but also corporations miss out on capturing valuable talent."[^1]
+	- There is a societal expectation for women to volunteer more in non-promotable tasks. This culture holds back women. "Not only is their advancement stymied, but also corporations miss out on capturing valuable talent."[^1]
 	- Managers should take conscious effort into distributing work with equity.
 
 ## Highlights

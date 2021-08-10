@@ -6,10 +6,8 @@ title: "Design is political x Decolonizing design"
 - **Relevant Notes**
 
 ## Notes
-- Western ideologies have shaped our concepts of "preferable design"
-	- Anything outside these Western preferences are seen as different
-- We should remove the distinction of art and craft[^2]
-	- The concept of a difference between art and craft reflect classist distinctions from the West
+- Western ideologies have shaped our concepts of "preferable design". Anything outside these Western preferences are seen as different or inferior.
+- We should remove the distinction of art and craft.[^2] The concept of a difference between art and craft reflect classist distinctions from the West.
 
 ---
 

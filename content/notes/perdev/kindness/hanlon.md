@@ -13,7 +13,7 @@ title: "Hanlon's Razor"
 
 ## Notes
 - ***“Never attribute to malice or stupidity that which can be explained by moderately rational individuals following incentives in a complex system of interactions.”*** 
-- Assume the best
+- You should assume the best in people.
 
 ## Highlights
 - [How Teams Can Be More Supportive With Help From Hanlon’s Razor](https://blog.trello.com/trello-hanlons-razor)[^1]

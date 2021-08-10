@@ -8,8 +8,7 @@ title: "Emotions are contagious"
 
 
 ## Notes
-- You feel the emotions around the people around you.
-	- Collective anxiety, Zoom fatigue, etc.
+- You feel the emotions around the people around you. Some examples of these are collective anxiety, Zoom fatigue, etc.
 
 ## Highlights
 - When the pandemic began in 2020, the first negative emotion to spread was fear. Waves of panic crashed through communities, compelling people to purify packages and hoard hand sanitizer. As too many people lost loved ones, too many others lost jobs and everyone lost some semblance of normal life. The number of adults with symptoms of depression or anxiety spiked from one in 10 Americans to about four in 10.[^1]

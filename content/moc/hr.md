@@ -11,3 +11,4 @@ notoc: true
 - [Work structures](notes/skills/hr/work-structures.md)
 - [Getting hired](notes/career/hr/getting-hired.md)
 - [Workplace communication](notes/skills/hr/workplace-comm.md)
+- [Work ethics](notes/skills/hr/work-ethics.md)

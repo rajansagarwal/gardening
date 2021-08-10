@@ -8,3 +8,4 @@ notoc: true
 - [When to quit a job?](notes/skills/advice/quit.md)
 - [Career growth tracking](notes/skills/advice/growth-tracking.md)
 - [Your job is not worth your mental health](notes/career/advice/job-mh.md)
+- [Work ethics](notes/skills/hr/work-ethics.md)

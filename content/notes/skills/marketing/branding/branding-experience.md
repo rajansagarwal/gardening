@@ -1,7 +1,6 @@
 ---
 title: "Branding experience"
 date: Aug 11, 2021
-notoc: true
 ---
 
 - **Tags:** #permanent-notes 

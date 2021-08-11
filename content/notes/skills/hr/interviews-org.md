@@ -1,9 +1,11 @@
 ---
-title: "Interviews for Leaderships in Organizations"
+title: "Curated - Interviews Questions for Leadership in Organizations"
 ---
 
 - **Tags:** #personal-learnings #permanent-notes 
 - **Relevant Notes**
+	- [interview-questions-and-how-to-answer-them](notes/skills/hr/interview-questions-and-how-to-answer-them.md)
+	- [notes/career/hr/getting-hired](notes/career/hr/getting-hired)
 
 ## Common Questions
 1. Tell me about yourself.

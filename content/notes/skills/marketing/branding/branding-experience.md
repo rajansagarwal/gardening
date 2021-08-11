@@ -87,4 +87,4 @@ notoc: true
 
 
 [^1]: [How to create an awesome brand experience - 99designs](https://99designs.com/blog/logo-branding/brand-experience/)
-[^2]: [Brand Experience:What Is It? How Is It Measured? Does It Affect Loyalty?] (https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/4243/Brand%20Experience%20and%20Loyalty_Journal_of%20_Marketing_May_2009.pdf)
+[^2]: [Brand Experience:What Is It? How Is It Measured? Does It Affect Loyalty?](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/4243/Brand%20Experience%20and%20Loyalty_Journal_of%20_Marketing_May_2009.pdf)

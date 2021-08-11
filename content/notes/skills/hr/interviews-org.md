@@ -4,7 +4,7 @@ title: "Curated - Interviews Questions for Leadership in Organizations"
 
 - **Tags:** #personal-learnings #permanent-notes 
 - **Relevant Notes**
-	- [interview-questions-and-how-to-answer-them](notes/skills/hr/interview-questions-and-how-to-answer-them.md)
+	- [general-interview-questions](notes/skills/hr/general-interview-questions.md)
 	- [notes/career/hr/getting-hired](notes/career/hr/getting-hired)
 
 ## Common Questions

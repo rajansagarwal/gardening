@@ -5,7 +5,7 @@ notoc: true
 
 - [Career Advice MOC](moc/career-advice.md)
 - [Interviews](notes/skills/hr/interviews.md)
-	- [Interview questions and how to answer them](notes/skills/hr/interview-questions-and-how-to-answer-them.md)
+	- [General - Interview questions and how to answer them](notes/skills/hr/general-interview-questions.md)
 	- [Curated - Interviews Questions for Leadership in Organizations](notes/skills/hr/interviews-org.md)
 	- [Curated - Interviews Questions for Companies (Internships/Jobs)](notes/skills/hr/interviews-companies.md)
 - [Work culture](notes/skills/hr/work-culture.md)

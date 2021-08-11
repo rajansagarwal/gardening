@@ -11,9 +11,37 @@ notoc: true
 
 ## Notes
 ### What is branding experience
+- Brand experience encompasses subjective consumer responses in the form of sensations, feelings, thoughts, and reactions responses in response to brand-related stimuli. They are part of a brand's design by identity, packaging, communications, and environments.
+### Importance
+- Good brand experience connects more with the audience in a way that it sticks with them more and facilitates deeper connections. This highlights a brand's selling point and ultimately attracts a customer and makes them stay.
 ### Brand-related stimuli
-### Elements
+#### Dimensions
+1. Sensory
+2. Affective
+3. Intellectual
+4. Behavioral
+#### Elements
+1. Colors
+2. Shapes
+3. Typefaces
+4. Designs
+5. Slogans
+6. Mascots
+7. Brand characters
 ### How-to
+#### Elements that create a successful brand experience
+- Brand design
+- Brand voice
+- User experience
+- Brand image, and
+- Customer support
+#### Steps
+1. Align with the company's purpose as these will set the USP and tone of the brand.
+2. Use storytelling. Tell your brand's story, who you are, your mission, etc. How will these relate to the people?
+3. Practice consistency. Make sure the "brand image" is aligned across platforms.
+4. Engage the senses.
+5. Participate in events and popular culture.
+6. Be personal and unique.
 
 ## Highlights
 - [How to create an awesome brand experience - 99designs](https://99designs.com/blog/logo-branding/brand-experience/)[^1]
@@ -40,12 +68,23 @@ notoc: true
 	- Thus, we conceptualize brand experience as ==subjective, internal consumer responses (sensations, feelings, and cognitions) and behavioral responses== evoked by brand-related stimuli that are part of a brand’s design and identity, packaging, communications, and environments.
 	- In line with our conceptualization, the experience dimensions are evoked by brand-related stimuli (e.g., ==colors, shapes, typefaces, designs, slogans, mascots, brand characters==). Note that there is no one-to-one correspondence, such that a certain stimulus type would trigger a certain experience dimension and only that dimension. 
 	- As Table 1 shows, participants provided descriptions of sensations (e.g., “touch and feel,” “appeal to different senses,” “smells nice and is visually warm”), a wide range of feelings (e.g., “fun,” “refreshed,” “inspired,” “nostalgia”), analytical and imaginative thoughts (e.g., “the brand intrigues me,” “I think of topics like animal testing, purity and wellness,” “reminds me to use my imagination”), and behaviors (e.g., “I change the way I organize and interact with information,” “I want to work out,” “It’s a place I want to go”).
+	- Accordingly, we conceptualized brand experience as ==subjective consumer responses that are evoked by specific brand-related experiential attributes in such settings.== We demonstrated that brand experience can be broken down into four dimensions (==sensory, affective, intellectual, and behavioral==), which are differentially evoked by various brands.
 
 ![brand-xp-1](/notes/photos/brand-xp-1.png)
-
 ![brand-xp-2](/notes/photos/brand-xp-2.png)
 
--  Accordingly, we conceptualized brand experience as ==subjective consumer responses that are evoked by specific brand-related experiential attributes in such settings.== We demonstrated that brand experience can be broken down into four dimensions (==sensory, affective, intellectual, and behavioral==), which are differentially evoked by various brands.
+- [Brand Experience: What is it and How Do You Maximize It? | Widen](https://www.widen.com/blog/brand-experience)
+	- Brand experience is the ==sum of all the sensations, thoughts, feelings, and reactions== that individuals have in response to a brand. Brand experience is not specific to a channel or media type. Rather, it’s the result — or the lasting impression — that ==remains after someone encounters or engages with a brand in any environment==.
+	- UX vs brand xp
+		- Unlike brand experience, ==user experience speaks specifically to a person’s takeaway from their interaction with a brand’s products, services, people, software, or other offerings==. For example, customers will have a positive user experience if they receive fast and effective customer service, a frictionless checkout process, or an easy-to-use product. 
+	- Importance
+		- Brand experience is important because ==positive experiences facilitate deeper connections, inspire audiences, and ultimately deliver results.== A positive brand experience can often mean the ==difference between being chosen over another brand or losing the sale.== Because of this, it’s easy to see why companies go out of their way to craft impressive and attention-grabbing brand experiences.
+	- How-to
+		- Engage the senses
+		- Participate in events
+		- Participate in popular culture
+		- Personalize the message
+
 
 [^1]: [How to create an awesome brand experience - 99designs](https://99designs.com/blog/logo-branding/brand-experience/)
 [^2]: [Brand Experience:What Is It? How Is It Measured? Does It Affect Loyalty?] (https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/4243/Brand%20Experience%20and%20Loyalty_Journal_of%20_Marketing_May_2009.pdf)

@@ -12,3 +12,6 @@ notoc: true
 	- [Organization structures](notes/career/hr/org-structures.md)
 	- [Authenticity](notes/perdev/life-advice/authenticity.md)
 	- [Project roadmapping](notes/skills/proj-man/project-roadmapping.md)
+
+**2~ weeks with Obsidian!** The pink ones are my private notes while the blue ones are the ones in this garden! ✌️
+![obsidian-graph](/notes/photos/obsidian-graph.png)

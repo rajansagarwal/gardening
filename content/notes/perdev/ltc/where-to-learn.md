@@ -16,7 +16,7 @@ title: "Where to Learn"
 - LinkedIn Learning
 - Udemy
 - FutureLearn
-- Self-school
+- [Self-school](https://www.selfschool.me/)
 
 ## Design x Tech
 ### Events
@@ -25,6 +25,7 @@ title: "Where to Learn"
 ### Courses
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 - [Hyperlink](https://hyperlink.academy/)
+- [Gymnasium](https://www.thegymnasium.com/)
 
 ## Business
 - [GoTo Stage](https://www.gotostage.com/)

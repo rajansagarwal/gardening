@@ -4,7 +4,6 @@ date: Aug 4, 2021
 ---
 
 > Note: [in-progress](private/tag-view/in-progress.md) lol empty
-)
 - [Personal Knowledge Management Tools](notes/tooling/pkm-tools.md)
 - [Design Tools & Sources](notes/tooling/design-tools-sources.md)
 

@@ -5,5 +5,4 @@ notoc: true
 ---
 
 - [Design MOC](moc/design.md)
-- [UX Design MOC](moc/ux-design.md)
 - [Branding MOC](notes/skills/marketing/branding.md)

@@ -6,9 +6,55 @@
       {
         "id": "b2dfd5b1282bd516",
         "type": "leaf",
+        "dimension": 34.531835205992515,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "chloe-lyt/lyt-notes/IMC Pre-writing.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "7380fc9fa931f874",
+        "type": "split",
+        "dimension": 44.119850187265925,
+        "children": [
+          {
+            "id": "34ea3d1b927adf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chloe-lyt/lyt-notes/IMC Research Document.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "ee7657e3c05ceaf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chloe-lyt/lyt-notes/IMC Rough writing.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "03a4ff8b757394c2",
+        "type": "leaf",
+        "dimension": 21.34831460674157,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chloe-lyt/lyt-notes/IMC Actual paper.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#permanent-notes",
+                "query": "capstone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +107,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1c7e1d23ddf0cf23",
@@ -82,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "chloe-lyt/lyt-notes/IMC Research Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2dfd5b1282bd516",
+  "active": "34ea3d1b927adf4e",
   "lastOpenFiles": [
+    "chloe-lyt/lyt-notes/IMC Research Document.md",
+    "chloe-lyt/lyt-notes/IMC Rough writing.md",
+    "chloe-lyt/lyt-notes/IMC Actual paper.md",
+    "chloe-lyt/lyt-notes/IMC Pre-writing.md",
+    "chloe-lyt/lyt-notes/MATH 10 Capstone.md",
+    "chloe-lyt/lyt-private/zettelkasten/202108051617.md",
     "content/notes/skills/proj-man/project-roadmapping.md",
     "content/notes/home/corner.md",
     "content/_index.md",
-    "chloe-lyt/Chloe's Second brain 🧠.md",
-    "chloe-lyt/lyt-notes/Failure Resume.md",
-    "content/notes/career/hr/work-culture.md",
-    "content/notes/soc-sci/education/research/surveys.md",
-    "content/notes/career/hr/interviews-org.md",
-    "content/notes/sciences/psycho/emotions-contagious.md",
-    "content/notes/philosophy/stoicism/avoid-being-reactive.md"
+    "chloe-lyt/Chloe's Second brain 🧠.md"
   ]
 }

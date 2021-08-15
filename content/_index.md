@@ -48,6 +48,7 @@ alias: "000"
 - **Skills** 🛫
 	- [Human Resources MOC](moc/hr.md)
 	- [Project Management MOC](moc/proj-man.md)
+	- [UX Design MOC](moc/ux-design.md)
 	- [Creatives MOC](moc/creatives.md)
 	- [Marketing MOC](moc/marketing.md)
 	- [Writing MOC](moc/writing.md)

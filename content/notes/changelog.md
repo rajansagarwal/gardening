@@ -1,11 +1,16 @@
 ---
 title: "Changelog"
-date: Aug 18, 2021
+date: Aug 19, 2021
 notoc: true
 ---
 
-- 2021-08-18 at 12h12 · [[marketing]]
-- 2021-08-18 at 12h12 · [[marketing-crash-course]]
+- 2021-08-19 at 01h53 · [[marketing-crash-course]]
+- 2021-08-19 at 01h53 · [[research-accessible-to-the-public]]
+- 2021-08-19 at 01h43 · [[research]]
+- 2021-08-18 at 12h39 · [[facebook-v-organic]]
+- 2021-08-18 at 12h38 · [[marketing]]
+- 2021-08-18 at 12h38 · [[marketing-analytics]]
+- 2021-08-18 at 12h34 · [[marketing-tooling]]
 - 2021-08-18 at 12h11 · [[marketing-podcast-notes]]
 - 2021-08-18 at 11h57 · [[how-to-be-a-better-writer]]
 - 2021-08-18 at 11h56 · [[writing]]
@@ -19,8 +24,3 @@ notoc: true
 - 2021-08-18 at 11h56 · [[ikigai]]
 - 2021-08-18 at 11h56 · [[books]]
 - 2021-08-18 at 11h56 · [[politics]]
-- 2021-08-18 at 11h56 · [[design]]
-- 2021-08-18 at 11h56 · [[feminism]]
-- 2021-08-18 at 11h56 · [[education]]
-- 2021-08-18 at 11h56 · [[research]]
-- 2021-08-18 at 11h55 · [[to-read]]

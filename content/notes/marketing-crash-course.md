@@ -1,5 +1,5 @@
 ---
-title: "crash-course"
+title: "Marketing crash course"
 date: Aug 18, 2021
 ---
 

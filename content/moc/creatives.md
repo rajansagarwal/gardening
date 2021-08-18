@@ -5,4 +5,4 @@ notoc: true
 ---
 
 - [Design MOC](moc/design.md)
-- [Branding MOC](notes/skills/marketing/branding.md)
+- [Branding MOC](notes/branding.md)

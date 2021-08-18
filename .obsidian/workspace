@@ -6,7 +6,7 @@
       {
         "id": "b2dfd5b1282bd516",
         "type": "leaf",
-        "dimension": 34.531835205992515,
+        "dimension": 25.681818181818183,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "7380fc9fa931f874",
         "type": "split",
-        "dimension": 44.119850187265925,
+        "dimension": 26.89393939393939,
         "children": [
           {
             "id": "34ea3d1b927adf4e",
@@ -48,7 +48,7 @@
       {
         "id": "03a4ff8b757394c2",
         "type": "leaf",
-        "dimension": 21.34831460674157,
+        "dimension": 47.42424242424242,
         "state": {
           "type": "markdown",
           "state": {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capstone",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c7e1d23ddf0cf23",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chloe-lyt/lyt-notes/IMC Research Document.md",
+                "file": "chloe-lyt/lyt-notes/IMC Pre-writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,17 +189,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34ea3d1b927adf4e",
+  "active": "b2dfd5b1282bd516",
   "lastOpenFiles": [
-    "chloe-lyt/lyt-notes/IMC Research Document.md",
-    "chloe-lyt/lyt-notes/IMC Rough writing.md",
-    "chloe-lyt/lyt-notes/IMC Actual paper.md",
     "chloe-lyt/lyt-notes/IMC Pre-writing.md",
+    "chloe-lyt/lyt-notes/IMC Research Document.md",
+    "chloe-lyt/lyt-private/passwords.md",
+    "chloe-lyt/lyt-notes/IMC Actual paper.md",
+    "chloe-lyt/lyt-notes/IMC Rough writing.md",
     "chloe-lyt/lyt-notes/MATH 10 Capstone.md",
     "chloe-lyt/lyt-private/zettelkasten/202108051617.md",
     "content/notes/skills/proj-man/project-roadmapping.md",
     "content/notes/home/corner.md",
-    "content/_index.md",
-    "chloe-lyt/Chloe's Second brain 🧠.md"
+    "content/_index.md"
   ]
 }

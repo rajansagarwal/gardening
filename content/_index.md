@@ -7,7 +7,7 @@ alias: "000"
 
 💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🌸
 
-🧠 In this garden/ [second brain](https://fortelabs.co/blog/basboverview/), I publish my learning notes, journeys, and projects as [evergreen notes](https://mikegiannulis.com/how-to-take-evergreen-notes/) that I continue to cultivate and grow–there is no perfect *end state*, and it will always be a work in progress! My notes range from fleeting notes to completely fleshed out permanent notes. I write more about digital gardens [here.](notes/home/garden.md)
+🧠 In this garden/ [second brain](https://fortelabs.co/blog/basboverview/), I publish my learning notes, journeys, and projects as [evergreen notes](https://mikegiannulis.com/how-to-take-evergreen-notes/) that I continue to cultivate and grow–there is no perfect *end state*, and it will always be a work in progress! My notes range from fleeting notes to completely fleshed out permanent notes. I write more about digital gardens [here.](home/garden.md)
 
 💪  Building since July 26, 2021 and deployed on July 27, 2021.
 
@@ -16,12 +16,12 @@ alias: "000"
 ---
 
 ## Home 🏡
-- [About Me](notes/home/about.md) 🧘‍♀️
-- [Chloe's Corner](notes/home/corner.md) 🥰
-- [On Digital Gardens](notes/home/garden.md) 🪴
+- [About Me](home/about.md) 🧘‍♀️
+- [Chloe's Corner](home/corner.md) 🥰
+- [On Digital Gardens](home/garden.md) 🪴
 - [Gardening System](notes/home/gardening-system) 🐵
-- [Navigating the Garden](notes/home/navigate.md) 🍁
-- [Roadmap-ish](notes/home/roadmap.md) 🫀
+- [Navigating the Garden](home/navigate.md) 🍁
+- [Roadmap-ish](home/roadmap.md) 🫀
 
 
 ## Main Maps of Content 🗺

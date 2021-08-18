@@ -6,8 +6,8 @@ notoc: true
 **Tags:** #in-progress/garden #come-back 
 
 ## MOCs
-- [Productivity systems MOC](notes/productivity/productivity-systems-moc.md)
-- [PKM MOC](notes/productivity/pkm.md)
+- [Productivity systems MOC](notes/productivity-systems-moc.md)
+- [PKM MOC](notes/pkm.md)
 
 ## Concepts
 - [Choosing priorities](notes/producitivity/priorities.md)

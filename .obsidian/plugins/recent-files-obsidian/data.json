@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "IMC Pre-writing",
+      "path": "chloe-lyt/lyt-notes/IMC Pre-writing.md"
+    },
+    {
       "basename": "IMC Research Document",
       "path": "chloe-lyt/lyt-notes/IMC Research Document.md"
     },
     {
-      "basename": "IMC Rough writing",
-      "path": "chloe-lyt/lyt-notes/IMC Rough writing.md"
+      "basename": "passwords",
+      "path": "chloe-lyt/lyt-private/passwords.md"
     },
     {
       "basename": "IMC Actual paper",
       "path": "chloe-lyt/lyt-notes/IMC Actual paper.md"
     },
     {
-      "basename": "IMC Pre-writing",
-      "path": "chloe-lyt/lyt-notes/IMC Pre-writing.md"
+      "basename": "IMC Rough writing",
+      "path": "chloe-lyt/lyt-notes/IMC Rough writing.md"
     },
     {
       "basename": "MATH 10 Capstone",
@@ -23,14 +27,6 @@
     {
       "basename": "202108051617",
       "path": "chloe-lyt/lyt-private/zettelkasten/202108051617.md"
-    },
-    {
-      "basename": "project-roadmapping",
-      "path": "content/notes/skills/proj-man/project-roadmapping.md"
-    },
-    {
-      "basename": "corner",
-      "path": "content/notes/home/corner.md"
     },
     {
       "basename": "_index",
@@ -49,36 +45,8 @@
       "path": "content/notes/career/hr/work-culture.md"
     },
     {
-      "basename": "surveys",
-      "path": "content/notes/soc-sci/education/research/surveys.md"
-    },
-    {
       "basename": "interviews-org",
       "path": "content/notes/career/hr/interviews-org.md"
-    },
-    {
-      "basename": "emotions-contagious",
-      "path": "content/notes/sciences/psycho/emotions-contagious.md"
-    },
-    {
-      "basename": "avoid-being-reactive",
-      "path": "content/notes/philosophy/stoicism/avoid-being-reactive.md"
-    },
-    {
-      "basename": "availability-bias",
-      "path": "content/notes/sciences/psycho/availability-bias.md"
-    },
-    {
-      "basename": "afraid-failure",
-      "path": "content/notes/perdev/life-advice/afraid-failure.md"
-    },
-    {
-      "basename": "adding-than-taking",
-      "path": "content/notes/sciences/psycho/adding-than-taking.md"
-    },
-    {
-      "basename": "active-listening",
-      "path": "content/notes/perdev/kindness/active-listening.md"
     }
   ],
   "omittedPaths": [],

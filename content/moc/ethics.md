@@ -5,4 +5,4 @@ notoc: true
 ---
 
 - **Related to:** [Ethics in tech](moc/ethics-in-tech)
-- [Ethics activities](notes/philosophy/ethics/ethics-activities.md)
+- [Ethics activities](notes/ethics-activities.md)

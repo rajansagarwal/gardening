@@ -6,14 +6,14 @@ notoc: true
 ## MOCs
 - [Learning MOC](moc/learning.md)
 ## Concepts
-- [Systems thinking](notes/perdev/ltc/systems-thinking.md)
-- [Mental Models](notes/perdev/ltc/mental-models.md)
+- [Systems thinking](notes/systems-thinking.md)
+- [Mental Models](notes/mental-models.md)
 - [Second Brain](notes/perdev/ltc/second-brain.md)
 - [Visual Thinking](notes/perdev/ltc/visual-thinking.md)
 - [5 Whys](notes/perdev/ltc/whys.md)
-- [Public speaking](notes/perdev/ltc/public-speaking.md)
+- [Public speaking](notes/public-speaking.md)
 - [Socratic method](notes/perdev/ltc/socratic.md)
-- [Hanlon's razor](notes/perdev/kindness/hanlon.md)
+- [Hanlon's razor](notes/hanlon.md)
 
 ## Sources
 - [Kinopio](https://kinopio.club/types-of-thinking-iMpOnWd83whg3niGIdbRK) [to-read](moc/to-read.md)

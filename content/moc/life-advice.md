@@ -5,14 +5,14 @@ notoc: true
 
 ## Content
 - [Career Advice MOC](moc/career-advice.md)
-	- [Work ethics](notes/skills/hr/work-ethics.md)
-- [What to answer to mamamatay din tayong lahat](notes/perdev/life-advice/mamamatay.md)
-- [How to change your life](notes/perdev/life-advice/change-life.md)
-- [Choose your perspective](notes/perdev/life-advice/choose-perspective.md)
-- [Check your privilege](notes/perdev/life-advice/privilege.md)
-- [Vulnerability](notes/perdev/life-advice/vulnerability.md)
+	- [Work ethics](notes/work-ethics.md)
+- [What to answer to mamamatay din tayong lahat](notes/mamamatay.md)
+- [How to change your life](notes/change-life.md)
+- [Choose your perspective](notes/choose-perspective.md)
+- [Check your privilege](notes/privilege.md)
+- [Vulnerability](notes/vulnerability.md)
 - [Start with why–Golden Circle](notes/perdev/life-advice/start-with-why.md)
-- [Don't be afraid of failure](notes/perdev/life-advice/afraid-failure.md)
+- [Don't be afraid of failure](notes/afraid-failure.md)
 
 ---
 ## Words & Quotes

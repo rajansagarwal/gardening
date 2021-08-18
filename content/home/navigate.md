@@ -11,7 +11,7 @@ I structured my garden in this manner from when you navigate from the homepage. 
 
 I talk more about the notes system more in [gardening-system.](notes/home/gardening-system.md) Here's a basic outline of what navigating looks like:
 
-![garden-new-structure](photos/garden-new-structure.png)
+![garden-new-structure](/photos/garden-new-structure.png)
 
 ### Basically... 🎧
 - Home 🏡

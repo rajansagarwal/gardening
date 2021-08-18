@@ -36,9 +36,9 @@ Title: "Design Teams"
 			* Divided into
 				* Craft & culture
 					* Craft–What skills do we want to see?
-						* ![figma-design-map](photos/figma-design.png)
+						![figma-design-map](/photos/figma-design.png)
 					* Culture–How good of a culture fit is this person?
-						* ![figma-culture-map](photos/figma-culture-map.png)
+						![figma-culture-map](/photos/figma-culture-map.png)
 
 
 [^1]: [How we built the Figma Design team](https://www.figma.com/blog/how-we-built-the-figma-design-team/)

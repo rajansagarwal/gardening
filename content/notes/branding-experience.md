@@ -69,8 +69,8 @@ date: Aug 11, 2021
 	- As Table 1 shows, participants provided descriptions of sensations (e.g., “touch and feel,” “appeal to different senses,” “smells nice and is visually warm”), a wide range of feelings (e.g., “fun,” “refreshed,” “inspired,” “nostalgia”), analytical and imaginative thoughts (e.g., “the brand intrigues me,” “I think of topics like animal testing, purity and wellness,” “reminds me to use my imagination”), and behaviors (e.g., “I change the way I organize and interact with information,” “I want to work out,” “It’s a place I want to go”).
 	- Accordingly, we conceptualized brand experience as ==subjective consumer responses that are evoked by specific brand-related experiential attributes in such settings.== We demonstrated that brand experience can be broken down into four dimensions (==sensory, affective, intellectual, and behavioral==), which are differentially evoked by various brands.
 
-![brand-xp-1](photos/brand-xp-1.png)
-![brand-xp-2](photos/brand-xp-2.png)
+![brand-xp-1](/photos/brand-xp-1.png)
+![brand-xp-2](/photos/brand-xp-2.png)
 
 - [Brand Experience: What is it and How Do You Maximize It? | Widen](https://www.widen.com/blog/brand-experience)
 	- Brand experience is the ==sum of all the sensations, thoughts, feelings, and reactions== that individuals have in response to a brand. Brand experience is not specific to a channel or media type. Rather, it’s the result — or the lasting impression — that ==remains after someone encounters or engages with a brand in any environment==.

@@ -13,7 +13,7 @@ notoc: true
 - Thinking of how to integrate company departments? Lol
 
 **One of many note repositories lol**
-![notion-notes](photos/notion-notes.png)
+![notion-notes](/photos/notion-notes.png)
 
 ## What to do..
 - [ ] Upload resources on psychology

@@ -31,4 +31,4 @@ notoc: true
 	* [How to Make Links Open in a New Window or Tab (thesitewizard.com)](https://www.thesitewizard.com/html-tutorial/open-links-in-new-window-or-tab.shtml#:~:text=How%20to%20Open%20Hyperlinks%20in,your%20links%20(anchor%20tags).&text=Now%20when%20your%20visitors%20click,how%20they%20configured%20that%20browser)
 
 ***Lol look at that struggle...*** 🐒
-![github-struggle](photos/github-struggle.png)
+![github-struggle](/photos/github-struggle.png)

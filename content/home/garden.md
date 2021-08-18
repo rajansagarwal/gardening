@@ -17,7 +17,7 @@ This digital garden serves as my **personal knowledge management** system. I'm a
 
 ## Why build a digital garden?
 I love how this garden puts it:
-![photo](photos/amar-garden.png)
+![photo](/photos/amar-garden.png)
 *Screenshot from: [Anthomy Amar](https://garden.anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)*
 
 So yeah, what motivated me into building my own garden is how much it offered authenticity and how it opens up to new conversations and ideas with different people. I think it's a really good way to share ideas–from the most fleshed out and developed ones to the premature atomic ones! I also hope to inspire someone to start their digital garden too! 🪴🍃

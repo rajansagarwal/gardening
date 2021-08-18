@@ -18,6 +18,7 @@ date: Aug 11, 2021
 - [Marketing analytics](notes/marketing-analytics.md)
 - [Launch marketing](notes/launch-marketing.md)
 - [Marketing campaigns](notes/marketing-campaigns.md)
+- [Writing for marketers](notes/writing-for-marketers.md)
 ### People
 - [Behavioral segmentation](notes/behavioral-segmentation.md)
 - [Marketing research](notes/marketing-research.md)

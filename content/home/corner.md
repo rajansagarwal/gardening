@@ -14,4 +14,4 @@ notoc: true
 	- [Project roadmapping](notes/project-roadmapping.md)
 
 `08112021` **2~ weeks with Obsidian!** The pink ones are my private notes while the blue ones are the ones in this garden! ✌️
-![obsidian-graph](photos/obsidian-graph.png)
+![obsidian-graph](/photos/obsidian-graph.png)

@@ -5,7 +5,7 @@ notoc: true
 ---
 
 - 2021-08-19 at 01h53 · [[marketing-crash-course]]
-- 2021-08-19 at 01h53 · [[research-accessible-to-the-public]]
+- 2021-08-19 at 01h53 · [[notes/distilled-research-ecosystem]]
 - 2021-08-19 at 01h43 · [[research]]
 - 2021-08-18 at 12h39 · [[facebook-v-organic]]
 - 2021-08-18 at 12h38 · [[marketing]]

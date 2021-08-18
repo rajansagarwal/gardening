@@ -5,7 +5,6 @@ date: Aug 19, 2021
 
 - **Tags:** #permanent-notes 
 - **Relevant Notes**
-	- [We must move forward into research distillation](notes/research-distillation.md)
 
 
 ## Notes

@@ -10,6 +10,10 @@ notoc: true
 ## Content & concepts
 - [Marketing crash course](notes/marketing-crash-course.md)
 - [Behavioral segmentation](notes/behavioral-segmentation.md)
+- [Marketing tooling](notes/marketing-tooling.md)
+- [Marketing analytics](notes/marketing-analytics.md)
+### Further
+- [What works for social does not work for organic](notes/facebook-v-organic.md)
 
 ## Random
 - [Podcast notes dump](notes/marketing-podcast-notes.md)

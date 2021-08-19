@@ -6,55 +6,9 @@
       {
         "id": "b2dfd5b1282bd516",
         "type": "leaf",
-        "dimension": 25.681818181818183,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chloe-lyt/lyt-notes/IMC Pre-writing.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "7380fc9fa931f874",
-        "type": "split",
-        "dimension": 26.89393939393939,
-        "children": [
-          {
-            "id": "34ea3d1b927adf4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chloe-lyt/lyt-notes/IMC Research Document.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "ee7657e3c05ceaf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chloe-lyt/lyt-notes/IMC Rough writing.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "03a4ff8b757394c2",
-        "type": "leaf",
-        "dimension": 47.42424242424242,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chloe-lyt/lyt-notes/IMC Actual paper.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -129,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chloe-lyt/lyt-notes/IMC Pre-writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

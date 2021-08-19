@@ -3,7 +3,8 @@ title: "Writing projects"
 notoc: true
 ---
 
-#personal-learnings 
+### Fin
+- [Interplays of Mathematics and Classism – Math 10 2021 Capstone](projects/interplays.md)
 
 ### #in-progress 
 - 08052021 [We should learn to embrace mediocrity](projects/embrace-mediocrity.md)

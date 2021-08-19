@@ -1,11 +1,12 @@
 ---
 title: "Changelog"
-date: Aug 19, 2021
+date: Aug 20, 2021
 notoc: true
 ---
 
+- 2021-08-20 at 03h48 · [[interplays]]
+- 2021-08-20 at 03h43 · [[writing-projects]]
 - 2021-08-19 at 19h41 · [[strategic-marketing-plan]]
-- 2021-08-19 at 18h33 · [[writing-projects]]
 - 2021-08-19 at 18h31 · [[marketing-case-study-notes]]
 - 2021-08-19 at 18h31 · [[marketing]]
 - 2021-08-19 at 03h15 · [[writing-for-marketers]]
@@ -23,4 +24,3 @@ notoc: true
 - 2021-08-19 at 02h03 · [[building-this-website]]
 - 2021-08-19 at 02h03 · [[navigate]]
 - 2021-08-19 at 02h02 · [[design-teams]]
-- 2021-08-19 at 02h02 · [[branding-experience]]

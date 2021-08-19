@@ -1,5 +1,5 @@
 ---
-title: "Interplays of Mathematics and Classism – Math 10 2021 Capston"
+title: "Interplays of Mathematics and Classism – Math 10 2021 Capstone"
 date: Aug 20, 2021
 ---
 
@@ -42,13 +42,6 @@ Others
 - [Arlie Bosque - Nakaka-sanaol talaga yung mga Summa Cum... | Facebook](https://www.facebook.com/kayle.bosque/posts/2803773729886006)
 
 
-## Rough Writing
-# Rough Writing
-
-**Links:** [[IMC Pre-writing]], [[IMC Research Document]], [[IMC Rough writing]], [[IMC Actual paper]]
-
----
-
 ## Rough Outline
 
 1. - [x] **Foreword**
@@ -81,7 +74,7 @@ Others
 	1. - [x] Brief summary
 	2. - [x] Call to action
 
-## Rough Writing
+### Idea Dump
 
 - **Mathematical Equation**
   - How most of these can correlate with education
@@ -128,10 +121,8 @@ content:"imc-question"
 content:"imc-important"
 ```
 
-# References
-**Links:** [[IMC Pre-writing]], [[IMC Research Document]], [[IMC Rough writing]], [[IMC Actual paper]]
 
-# Cover Text
+**Cover Text**
 
 - Is math political?
 - Am I programmed to fail?
@@ -140,7 +131,7 @@ content:"imc-important"
 - How many five-year-olds can count?
 - Is math economic?
 
-# Foreword
+**Foreword**
 
 _**Circa 2006**_–When I was 5 years old, while I was on the way home from a _sari-sari store_ one-minute away from my house, I have a replaying memory of how I was counting the change I received the store. I can't recall exactly, but I think I bought the piso per piece candy.
 
@@ -160,9 +151,7 @@ The question then is–why? Is it by choice? By laziness (as a detached privileg
 
 In this paper, I argue that the underlying reasons behind the classism is a lack of support in education–specifically, mathematics. Through this manuscript, I hope to unveil the interplays of mathematics and classism–that issues in both exist in a cause-effect spectrum ultimately predefining a person's faith.
 
----
-
-# Current Status Quo
+**Current Status Quo**
 
 > 16.6% people live below the poverty line.[^2]
 > 6% of Filipino students can apply basic mathematical knowledge in simple situations. [^4]
@@ -178,9 +167,7 @@ That being said, with this problem perpetuating consistently unknowingly with on
 
 In order to answer the question, as an avid believer in approaching problems at the root cause, I first seek to unveil the reasons behind this building on the premise that education and socioeconomic status have a relationship predetermining each other.
 
----
-
-# Predetermination of success
+**Predetermination of success**
 
 What if I told you I can **statistically determine** how likely you are to fail?
 
@@ -230,21 +217,28 @@ $success = (sex)(socioeconomic status)(luck)(character)$
 
 In addition, one interesting fact I'd like to point out is that studies show that Filipinos are determined to achieve the bare minimum to be renumerated.[^3] I have yet to find the reason as to why, but I believe it can be attributed
 
-# Math
+**Math**
 - ==Poverty, rurality, ethnicity, gender, language, culture, race, among others, have been defined as the variables that constitute socioeconomic influences on mathematical achievement.==[^7]
 -  ==There was a low performance of the students in the public schools than the students of private schools in mathematics and other subjects== (MOE, 2015).[^8]
 
-# Unsorted
-## Social justice
-## We give little credit.
+**Unsorted**
+**Social justice**
+We give little credit.
 - In East Asia there is little research in mathematics education investigating those who do not perform highly and why. In Taiwan research discards the focus on socio-economic variables and privileges variables such as student’s learning goal orientation (Lin et al. 2009).[^6]
 
-## We unconsiously let a subject gatekeep success for a huge part of our population.
+We unconsiously let a subject gatekeep success for a huge part of our population.
 - ==There have been recent reports that consider race, class, gender, ethnicity, and language proficiency in relation to mathematics education (e.g., Strutchens and Silver 2000; Tate 1997). They support the intuitive finding that higher socioeconomic status is associated with increased course-taking and higher achievement on various measures of mathematics achievement.==
 - ==The learner’s consciousness toward their personal and social identity can help them position themselves within a learning environment with informed choice to be a part of multicultural milieu. In this context, “the objective of critical mathematics ought to be to engage marginalized students in cognitively demanding mathematics in ways that help them succeed in learning."==
-### Math is needed.
+
+Math is needed.
 - ==Thus, from the turn of the 19th century to present day, the mathematics curriculum is an important technology that inserts subjects into the forms of thinking and acting needed for people to become the ideal cosmopolitan citizen.==[^6]
 - ==Mathematics for all. That high achievement in mathematics is a desired and growing demand for all citizens is a recent invention of mathematics education research. Between the years of reconstruction after the Second World War and the Cold War, school curricula were modernized with focus on the subject areas for the purpose of securing a qualified elite of college students.==[^6]:
 
 ## ==We live in a system where we statistically let other people fail.==
-## This is not just a crisis of quality of education. It is a crisis of access first and foremost.
+
+This is not just a crisis of quality of education. It is a crisis of access first and foremost.
+
+
+
+---
+Worked on Word after

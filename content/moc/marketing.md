@@ -10,7 +10,7 @@ date: Aug 11, 2021
 ## Overarching
 - [Marketing crash course](notes/marketing-crash-course.md)
 - [Pillars of marketing](notes/pillars-of-marketing.md)
-- [Branches of marketing](notes/
+- [Branches of marketing](notes/branches-of-marketing.md)
 
 ### Strategies & campaigns
 - [Marketing tooling](notes/marketing-tooling.md)
@@ -28,8 +28,9 @@ date: Aug 11, 2021
 ### Tips/ rules/ insights
 - [What works for social does not work for organic](notes/facebook-v-organic.md)
 
-## Random
+## Dump
 - [Podcast notes dump](notes/marketing-podcast-notes.md)
+- [Case study notes](notes/marketing-case-study-notes.md)
 
 ## Learn at the top of my head
 - [Referal programs](notes/referral-program.md)

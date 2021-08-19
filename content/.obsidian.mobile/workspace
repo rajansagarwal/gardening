@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "moc/stoicism.md",
+            "file": "notes/marketing-case-study-notes.md",
             "mode": "preview"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "moc/stoicism.md",
+            "file": "notes/marketing-case-study-notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,15 +73,15 @@
   },
   "active": "39f6f5404b95d1d3",
   "lastOpenFiles": [
-    "moc/stoicism.md",
+    "notes/marketing-case-study-notes.md",
+    "moc/marketing.md",
     "_index.md",
+    "moc/creatives.md",
+    "Screen Shot 2021-08-19 at 2.37.12 AM.png",
+    "moc/stoicism.md",
     "notes/arts-tech/ux-design/art-of-questioning.md",
     "moc/ux-design.md",
     "notes/productivity/collector-fallacy.md",
-    "notes/productivity/zettelkasten.md",
-    "notes/productivity/pkm.md",
-    "moc/productivity.md",
-    "moc/learning-thinking-communicating.md",
-    "moc/politics.md"
+    "notes/productivity/zettelkasten.md"
   ]
 }

@@ -234,7 +234,7 @@ Math is needed.
 - ==Thus, from the turn of the 19th century to present day, the mathematics curriculum is an important technology that inserts subjects into the forms of thinking and acting needed for people to become the ideal cosmopolitan citizen.==[^6]
 - ==Mathematics for all. That high achievement in mathematics is a desired and growing demand for all citizens is a recent invention of mathematics education research. Between the years of reconstruction after the Second World War and the Cold War, school curricula were modernized with focus on the subject areas for the purpose of securing a qualified elite of college students.==[^6]:
 
-## ==We live in a system where we statistically let other people fail.==
+We live in a system where we statistically let other people fail.
 
 This is not just a crisis of quality of education. It is a crisis of access first and foremost.
 

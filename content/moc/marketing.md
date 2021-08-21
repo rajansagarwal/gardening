@@ -28,6 +28,9 @@ date: Aug 11, 2021
 ### Tips/ rules/ insights
 - [What works for social does not work for organic](notes/facebook-v-organic.md)
 
+## Getting hired
+- [marketing-getting-hired](notes/marketing-getting-hired.md)
+
 ## Dump
 - [Podcast notes dump](notes/marketing-podcast-notes.md)
 - [Case study notes](notes/marketing-case-study-notes.md)

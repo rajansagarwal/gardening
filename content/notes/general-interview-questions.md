@@ -1,5 +1,4 @@
----
-title: "General - Interview questions and how to answer them"
+#4: How To Get A Job In Marketing - Marketing School - Digital Marketing and Online Marketing Tips | Podcast on Spotifyl - Interview questions and how to answer them"
 date: Aug 11, 2021
 ---
 
@@ -81,19 +80,21 @@ General Sources[^2] [^3] [^1] [^4]
         - *“I feel my skills are particularly well-suited to this position because … ”*
         - *“I believe I have the type of knowledge to succeed in this role and at the company because … ”*
         - *“I’m excited about this job opportunity, as it would allow me to … ”*
-3. Why should we hire you?
+3. What's your most impressive win in your career this far?
+	- Tells of what does this person think is successful. Is it really impressive?[^12]
+4. Why should we hire you?
 	- **EXPERIENCE** Show that you have <u>skills and experience</u> to do the job and deliver great results.
 	- **WORK CULTURE** Highlight that <u>you’ll fit in and be a great addition</u> to the team.
 	- **IMPACT** Describe how hiring you will make their life easier and help them achieve more.
 	- **CAPABILITY** Show enthusiasm for performing required duties, not just capability.
 	- *Sample:* Oh wow, where do I begin! I have been an avid traveler since as young as I can remember. When I reached adulthood and started booking flights for myself, your airline would be my top choice. Alpha Airlines has always made long-distance travel a pleasure, and I would be honored to say that I work for you. On top of this, I believe that my patience and multitasking skills are second to none, and these would go a long way in helping me the best flight attendant possible.
 	- *What not to answer:* Money, perks, skills, desperation, general interest
-4. What can you bring to the company?
-5. Can you explain why your background and experience would be a good fit for this job?
+5. What can you bring to the company?
+6. Can you explain why your background and experience would be a good fit for this job?
 	- *Sample:* I certainly can! Well, from what I’ve read on your company’s roadmap plans posted online, it sounds like you need a project manager who is capable of handling other departmental roles, as well. I couldn’t find a way to succinctly describe it on my resume, but during my internship at BioGenCo, I spent a month each on five different teams to get a handle on how the company functions as a whole. Now, with my supervisory experience where I’ve raised output by 32%, I believe I am well equipped to be the best project manager, while also being knowledgeable of the roles of other departments.
-6. Why are you the best person for this job?
+7. Why are you the best person for this job?
 	- Read: [what-do-recruiters-want](notes/what-do-recruiters-want.md)
-7. Why did you leave your past job?
+8. Why did you leave your past job?
 	- What to answer & what not to answer[^7]
 		- Examples of what to answer
 			- Want to experience new work environment
@@ -112,31 +113,31 @@ General Sources[^2] [^3] [^1] [^4]
 			- Money money
 			- Sound impulsive and lost in career
 			- Be vague
-8. What are your greatest strengths?
+9. What are your greatest strengths?
 	- Examples 
 		- Action-oriented/entrepreneurial, Attentive/detail-oriented, Collaborative, Committed/dedicated, Creative, Determined, Disciplined/focused, Empathetic, Enthusiastic/passionate/driven, Flexible/versatile, Honest, Innovative, Patient, Respectful[^8]
 		- Adaptable, Culture add, Collaborator, Leader, Growth mindset, Time management, Communication, Problem solver, Creative thinker, Results driven
-9. What are your greatest weaknesses?
+10. What are your greatest weaknesses?
 	- Examples[^8]
 		- Disorganized, Self-critical/sensitive, Perfectionism, Shy/Not adept at public speaking, Competitive, Limited experience in a nonessential skill (especially if obvious on your resume), Not skilled at delegating tasks, Take on too much responsibility, Not detail-oriented/too detail-oriented, Not comfortable taking risks, Too focused/lack of focus
-10. What is your greatest achievement?
-11. What is your greatest professional achievement?
-12. What should I know that's not in your resume?
-13. What is your personal mission statement?
-14. How did you find the the past work cultures you worked with?
-15. What makes you unique?
-16. What type of work environment do you prefer?
-17. What's your work style?
-18. What's your management style?
-19. How would your boss and coworkers describe you?
-20. What projects do you have in mind?
-21. How do you manage your tasks?
-22. What motivates you?
-23. Do you consider yourself successful?
-24. Where do you see yourself in 5 years?
-25. How do you give feedback?
-26. How do you problem solve
-27. What are the most important to you in a job?
+11. What is your greatest achievement?
+12. What is your greatest professional achievement?
+13. What should I know that's not in your resume?
+14. What is your personal mission statement?
+15. How did you find the the past work cultures you worked with?
+16. What makes you unique?
+17. What type of work environment do you prefer?
+18. What's your work style?
+19. What's your management style?
+20. How would your boss and coworkers describe you?
+21. What projects do you have in mind?
+22. How do you manage your tasks?
+23. What motivates you?
+24. Do you consider yourself successful?
+25. Where do you see yourself in 5 years?
+26. How do you give feedback?
+27. How do you problem solve
+28. What are the most important to you in a job?
 
 ### Behavioral
 #### Time management
@@ -246,3 +247,4 @@ General Sources[^2] [^3] [^1] [^4]
 [^9]: [Do You Have Any Questions? | Monster.com](https://www.monster.com/career-advice/article/interview-do-you-have-any-questions#:~:text=Always%20say%20'Yes%2C'%20when,out%20information%20about%20the%20company.)
 [^10]: [Common Job Interview Questions & Answers (Top of 2021)](https://zety.com/blog/job-interview-questions-and-answers)
 [^11]: [4 Ways to Handle Interview Questions You Don’t Know How to… | The Muse](https://www.themuse.com/advice/4-ways-to-handle-interview-questions-you-dont-know-how-to-answer)
+[^12]: [#4: How To Get A Job In Marketing - Marketing School - Digital Marketing and Online Marketing Tips | Podcast on Spotify](https://open.spotify.com/episode/6BmsFJW4GdYToyfPacnm3o?si=wrAogGfkQkKX1L8NFxG7-g&dl_branch=1)

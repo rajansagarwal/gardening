@@ -8,6 +8,9 @@ title: "Work Culture"
 	- [positive-leadership](notes/positive-leadership.md)
 	- [psychological-safety](notes/psychological-safety.md)
 
+## Concepts
+- [Burnout is an organizational issue](notes/burnout-organizational-issue.md)
+
 ## Notes
 
 - Good vs bad work culture

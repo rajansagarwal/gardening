@@ -1,4 +1,5 @@
-#4: How To Get A Job In Marketing - Marketing School - Digital Marketing and Online Marketing Tips | Podcast on Spotifyl - Interview questions and how to answer them"
+---
+title: "General interview questions and how to answer"
 date: Aug 11, 2021
 ---
 

@@ -6,7 +6,7 @@ date: Aug 20, 2021
 > Note: **Not final paper uploaded here.** This is a collection of <u>some</u> random thought processes, brainstorm, and pre-readings.
 
 *What my space looks like when writing*
-![interplays-workspace](/interplays-workspace.png)
+![interplays-workspace](/photos/interplays-workspace.png)
 
 ## Research Document
 

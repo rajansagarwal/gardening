@@ -7,3 +7,5 @@ notoc: true
 - [Never be afraid to ask for help](notes/help.md)
 - [Self-awareness](notes/self-awareness.md)
 	- [Personality tests](notes/personality-tests.md)
+- [Burnout](notes/burnout.md)
+- [Mindfulness](notes/mindfulness.md)

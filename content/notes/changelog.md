@@ -1,9 +1,11 @@
 ---
 title: "Changelog"
-date: Aug 23, 2021
+date: Aug 24, 2021
 notoc: true
 ---
 
+- 2021-08-24 at 17h40 · [[press-release]]
+- 2021-08-24 at 17h18 · [[digital-marketing]]
 - 2021-08-23 at 02h52 · [[yerkes-dodson-law]]
 - 2021-08-23 at 02h49 · [[burnout]]
 - 2021-08-23 at 02h40 · [[mental-health]]
@@ -22,5 +24,3 @@ notoc: true
 - 2021-08-19 at 19h41 · [[strategic-marketing-plan]]
 - 2021-08-19 at 18h31 · [[marketing-case-study-notes]]
 - 2021-08-19 at 03h15 · [[writing-for-marketers]]
-- 2021-08-19 at 03h09 · [[digital-marketing]]
-- 2021-08-19 at 02h59 · [[pillars-of-marketing]]

@@ -15,3 +15,4 @@ notoc: true
 - [Pragmatic marketing](notes/pragmatic-marketing.md)
 - [Mobile marketing](notes/mobile-marketing.md)
 - [PPC](notes/ppc.md)
+- [Press release](notes/press-release.md)

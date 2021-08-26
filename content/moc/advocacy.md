@@ -5,3 +5,6 @@ notoc: true
 ---
 
 - [Environmental Education MOC](moc/environmental-educ.md)
+
+### Concepts
+- [Advocacy burnout](notes/advocacy-burnout.md)

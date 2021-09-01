@@ -252,10 +252,4 @@
       </footer>
   </div>
 </div>
-
-{{- with resources.Get "darkmode.js" | minify -}}
-<script>
-  {{.Content | safeJS }}
-</script>
-{{- end -}}
 {{end}}

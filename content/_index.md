@@ -1,62 +1,23 @@
----
-alias: "000"
----
+# 🌱 Quartz
+## v2.0
 
-# Chloe's Digital Garden 🪴
-👋 Hey, I'm Chloe Abrasada! As a chronic learner, I like my life with organized chaos.. hence the ~~scattered folder under folder~~ garden. 📁
+Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
-💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🌸
+## Why Quartz?
+Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
 
-🧠 In this garden/ [second brain](https://fortelabs.co/blog/basboverview/), I publish my learning notes, journeys, and projects as [evergreen notes](https://mikegiannulis.com/how-to-take-evergreen-notes/) that I continue to cultivate and grow–there is no perfect *end state*, and it will always be a work in progress! My notes range from fleeting notes to completely fleshed out permanent notes. I write more about digital gardens [here.](home/garden.md)
+I've personally found that 
+1. It's nice to access notes from anywhere
+2. Having a public digital garden invites open conversations
+3. It makes keeping personal notes and knowledge *playful and fun*
 
-💪  Building since July 26, 2021 and deployed on July 27, 2021.
+> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-> ***“When learning is purposeful, creativity blossoms. When creativity blossoms, thinking emanates. When thinking emanates, knowledge is fully lit.”*** A.P.J. Abdul Kalam
+I was really inspired by [Bianca](https://garden.bianca.digital/) and [Joel](https://joelhooks.com/digital-garden)'s digital gardens and wanted to try making my own.
 
----
+**The goal of Quartz is to make hosting your own public digital garden free and simple.** You don't even need your own website. Quartz does all of that for you and gives your own little corner of the internet.
 
-## Home 🏡
-- [About Me](home/about.md) 🧘‍♀️
-- [Chloe's Corner](home/corner.md) 🥰
-- [On Digital Gardens](home/garden.md) 🪴
-- [Gardening System](notes/home/gardening-system) 🐵
-- [Navigating the Garden](home/navigate.md) 🍁
-- [Roadmap-ish](home/roadmap.md) 🫀
+## Get Started
+The entire Quartz documentation is fully hosted using Quartz! To get started, let's visit the main directory.
 
-
-## Main Maps of Content 🗺
-
-- **Personal Development** 💪
-	- [Leadership MOC](moc/leadership.md)
-	- [Facilitation MOC](moc/facilitation.md)
-	- [Learning, Thinking, & Communicating MOC](moc/learning-thinking-communicating.md)
-	- [Life Advice MOC](moc/life-advice.md)
-	- [Mental Health MOC](moc/mental-health.md) 
-	- [Productivity MOC](moc/productivity.md)
-	- [Kindness MOC](moc/kindness.md)
-- **Sciences** 👩‍⚕️🖨
-	- [Health MOC](moc/health.md)
-	- [Technology MOC](moc/technology.md)
-- **Social Sciences** 💎
-	- [Politics MOC](moc/politics.md)
-	- [Social Change MOC](moc/social-change.md)
-	- [Psychology MOC](moc/psychology.md)
-	- [Education MOC](moc/education.md)
-- **Philosophy** 🤲
-	- [Ethics MOC](moc/ethics.md)
-	- [Stoicism MOC](moc/stoicism.md)
-- **Skills** 🛫
-	- [Human Resources MOC](moc/hr.md)
-	- [Project Management MOC](moc/proj-man.md)
-	- [UX Design MOC](moc/ux-design.md)
-	- [Creatives MOC](moc/creatives.md)
-	- [Marketing MOC](moc/marketing.md)
-	- [Writing MOC](moc/writing.md)
-- **Others** 🤙
-	- [Advocacy MOC](moc/advocacy.md)
-	- [Tooling](moc/tooling.md)
-	- [Sources](moc/sources.md)
-
-
-## Projects 🌟
--  [Writing](moc/writing-projects.md)
+👉  [Directory](moc/directory.md)

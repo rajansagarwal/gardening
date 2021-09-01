@@ -11,12 +11,6 @@
         <a href="javascript:history.back()">Let's go back.</a>
     </div>
 </div>
-
-{{- with resources.Get "darkmode.js" | minify -}}
-<script>
-  {{.Content | safeJS }}
-</script>
-{{- end -}}
 </body>
 
 </html>

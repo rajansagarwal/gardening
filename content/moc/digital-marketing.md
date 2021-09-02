@@ -21,3 +21,4 @@ notoc: true
 ---
 ## Courses
 - [Google digital garage](notes/google-digital-garage.md)
+- [Building an integrated online marketing plan](notes/integrated-online-marketing-plan.md)

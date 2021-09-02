@@ -33,3 +33,12 @@ notoc: true
 - Inviting friends
 ### Facebook social plug-ins
 - Share from other websites
+	- Facebook for developers
+	- HTML snippet
+### Others
+- Facebook event
+	- RSVP
+- Facebook offers
+	- Recommended to add photo without text
+- Facebook insights
+	- Customiize columns on report

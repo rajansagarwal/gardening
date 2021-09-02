@@ -1,5 +1,5 @@
 ---
-title: "Go digital garage"
+title: "Google digital garage"
 date: Sep 2, 2021
 ---
 

@@ -3,7 +3,7 @@ title: "About Me"
 notoc: true
 ---
 
-![chloe-photo](/photos/chloe-about.png)
+![chloe-photo-2](/photos/chloe-2.jpg)
 
 > 👋 Hello! I'm Chloe Abrasada. I actually have a second name that I don't use for branding purposes *(jkjk)*. I'm a productivity nerd 👩‍🏫, web lurker 💻, and design enthusiast 🎨.
 

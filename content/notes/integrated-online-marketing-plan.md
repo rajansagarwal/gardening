@@ -176,7 +176,7 @@ Check: [customer-relationship-management](notes/customer-relationship-management
 - How to quantify (check: [notes/referral-program](notes/referral-program) / [notes/referral-programs](notes/referral-programs)
 	- Ask: ==How likely are you to recommend?==
 
-![net-promoter-score](/Screen%20Shot%202021-09-02%20at%2012.29.07%20PM.png)
+![net-promoter-score](/photos/net-promoter.png)
 
 - **Customers**
 	- Promoter customer
@@ -244,13 +244,13 @@ Check: [micromoments](notes/micromoments.md)
 	- Increase upsell/ cross-sell/ cart/ avg. purchase by _%
 	- Increase inquiries to sale close rate by _%_
 
-![sc](/Screen%20Shot%202021-09-02%20at%201.23.49%20PM.png)
+![sc](Screen%20Shot%202021-09-02%20at%201.23.49%20PM.png)
 
 ### Acquisition vs engagement
 - The medium is the message
-![woah](/Screen%20Shot%202021-09-02%20at%201.43.33%20PM.png)
+![woah](Screen%20Shot%202021-09-02%20at%201.43.33%20PM.png)
 
-![hi](/Screen%20Shot%202021-09-02%20at%201.43.58%20PM.png)
+![hi](Screen%20Shot%202021-09-02%20at%201.43.58%20PM.png)
 - Think
 	- **Evaluate your media**: Which channels tend to produce more sales, response, or engagement?
 	- **Evaluate your investment:** How much time do you dedicate to different channels? What is the return on that time?

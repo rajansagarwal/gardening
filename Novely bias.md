@@ -1,0 +1,3 @@
+- https://www.christinecarter.com/2017/01/the-novelty-bias/
+- https://catalogofbias.org/biases/novelty-bias/#:~:text=Novelty%20bias%20refers%20to%20the,to%20lower%20rates%20of%20resistance).
+	- The mechanisms by which interventions appears better when new, or new for a certain purpose, is not known and may involve other forms of bias having a greater effect when an intervention is new.

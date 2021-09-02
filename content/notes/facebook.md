@@ -7,7 +7,7 @@ notoc: true
 - **Tags:**
 - **Relevant Notes**
 - **References**
-	- LinkedIn Learning
+	- [LinkedIn Learning](https://www.linkedin.com/learning/marketing-on-facebook/how-to-create-a-facebook-page)
 
 
 ## Notes
@@ -18,3 +18,6 @@ notoc: true
 	- You can use ==facebook targeting tools== & ==facebook insights==
 	- Boost SEO without expense
 	- Get found
+- Setting a username
+	- Make it unique
+- Set brand experience

@@ -11,3 +11,7 @@ data/contentIndex.yaml
 chloe-lyt/
 >>>>>>> Stashed changes
 chloe-brain/
+.DS_Store
+.obsidian/.DS_Store
+content/.DS_Store
+layouts/.DS_Store

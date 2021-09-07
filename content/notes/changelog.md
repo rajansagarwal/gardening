@@ -1,10 +1,10 @@
----
-title: "Changelog"
-date: Sep 8, 2021
-notoc: true
----
-
-- 2021-09-08 at 00h59 · [[marketing]]
+- 2021-09-08 at 01h33 · [[li-b2b-marketing]]
+- 2021-09-08 at 01h32 · [[marketing-plan]]
+- 2021-09-08 at 01h28 · [[SWOT]]
+- 2021-09-08 at 01h23 · [[marketing]]
+- 2021-09-08 at 01h21 · [[writing-marketing-copy]]
+- 2021-09-08 at 01h19 · [[content-marketing]]
+- 2021-09-08 at 01h07 · [[for-courses]]
 - 2021-09-08 at 00h59 · [[digital-marketing]]
 - 2021-09-08 at 00h49 · [[writing-temp]]
 - 2021-09-08 at 00h49 · [[toc]]
@@ -28,9 +28,3 @@ notoc: true
 - 2021-09-08 at 00h49 · [[in-progress]]
 - 2021-09-08 at 00h49 · [[extra-push]]
 - 2021-09-08 at 00h49 · [[come-back]]
-- 2021-09-08 at 00h49 · [[zettelkasten]]
-- 2021-09-08 at 00h49 · [[yerkes-dodson-law]]
-- 2021-09-08 at 00h49 · [[writing-for-marketers]]
-- 2021-09-08 at 00h49 · [[write-better-sentences]]
-- 2021-09-08 at 00h49 · [[workplace-comm]]
-- 2021-09-08 at 00h49 · [[workplace-equity]]

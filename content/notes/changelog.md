@@ -1,3 +1,9 @@
+---
+title: "Changelog"
+date: Sep 8, 2021
+notoc: true
+---
+
 - 2021-09-08 at 01h33 · [[li-b2b-marketing]]
 - 2021-09-08 at 01h32 · [[marketing-plan]]
 - 2021-09-08 at 01h28 · [[SWOT]]

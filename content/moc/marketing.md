@@ -38,6 +38,10 @@ date: Aug 11, 2021
 ## Learn at the top of my head
 - [Referal programs](notes/referral-program.md)
 
+## Courses
+- [Google digital garage](notes/google-digital-garage.md)
+- [Building an integrated online marketing plan](notes/integrated-online-marketing-plan.md)
+
 ## Sources/ Stacks
 - [Free templates for marketing](https://nira.com/templates/marketing-templates/)
 

@@ -7,9 +7,10 @@
         "id": "b2dfd5b1282bd516",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Screen Shot 2021-09-04 at 2.08.19 AM.png"
+            "file": "content/_index.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screen Shot 2021-09-04 at 2.08.19 AM.png",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Screen Shot 2021-09-04 at 2.08.19 AM.png",
+                "file": "content/_index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,6 +183,8 @@
   },
   "active": "b2dfd5b1282bd516",
   "lastOpenFiles": [
+    "content/_index.md",
+    "README.md",
     "Screen Shot 2021-09-04 at 2.08.19 AM.png",
     "chloe-lyt/lyt-notes/09042021 PKM & Idea Emergence.md",
     "content/notes/systems-thinking.md",
@@ -189,8 +192,6 @@
     "content/notes/collector-fallacy.md",
     "conflict-files-obsidian-git.md",
     "Novely bias.md",
-    "chloe-lyt/lyt-notes/09012021 Sense-making 1.md",
-    "chloe-lyt/lyt-notes/LYT MOC.md",
-    "chloe-lyt/lyt-moc/Self-learning MOC.md"
+    "chloe-lyt/lyt-notes/09012021 Sense-making 1.md"
   ]
 }

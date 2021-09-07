@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Screen Shot 2021-09-04 at 2.08.19 AM",
       "path": "Screen Shot 2021-09-04 at 2.08.19 AM.png"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "202108051617",
       "path": "chloe-lyt/lyt-private/zettelkasten/202108051617.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Failure Resume",

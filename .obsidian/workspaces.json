@@ -1,0 +1,667 @@
+{
+  "workspaces": {
+    "math-10-capstone": {
+      "main": {
+        "id": "585ea2b41f856af0",
+        "type": "split",
+        "children": [
+          {
+            "id": "4ca9b2f16c520bf6",
+            "type": "split",
+            "children": [
+              {
+                "id": "0beda9b4d0f9da70",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "b125b5e609be7b84",
+                    "type": "leaf",
+                    "dimension": 56.896551724137936,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "lyt-notes/IMC Research Document.md",
+                        "mode": "source"
+                      }
+                    }
+                  },
+                  {
+                    "id": "e180e16ad4ae4284",
+                    "type": "leaf",
+                    "dimension": 21.551724137931032,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "lyt-notes/IMC Pre-writing.md",
+                        "mode": "source"
+                      }
+                    }
+                  },
+                  {
+                    "id": "cd600810fad98e40",
+                    "type": "leaf",
+                    "dimension": 21.551724137931032,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "lyt-notes/IMC Rough writing.md",
+                        "mode": "preview"
+                      }
+                    }
+                  }
+                ],
+                "direction": "horizontal"
+              },
+              {
+                "id": "610cd4ba3b12782d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "lyt-notes/IMC Actual paper.md",
+                    "mode": "preview"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6b9b6ccbc188761d",
+        "type": "split",
+        "children": [
+          {
+            "id": "fed8f1db6a280948",
+            "type": "tabs",
+            "dimension": 30.387931034482758,
+            "children": [
+              {
+                "id": "8bd4395521efe519",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e9066aa3c330f124",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "24f99c82ac65fc2e",
+            "type": "tabs",
+            "dimension": 37.39224137931034,
+            "children": [
+              {
+                "id": "9d90ebde72cf0452",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "82f731eaf01f4e8b",
+            "type": "tabs",
+            "dimension": 32.2198275862069,
+            "children": [
+              {
+                "id": "cd0b4c3836100651",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 255
+      },
+      "right": {
+        "id": "2ead7ce9439b5f4d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f70c1d48fd60740",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee063f6e824a1bd2",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "lyt-notes/IMC Actual paper.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.9094330064247947,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "2e9d8341bb354b0b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c5c635c3926f2565",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "lyt-notes/IMC Actual paper.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3bde46bb8018bae6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7417088703014eec",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "lyt-notes/IMC Actual paper.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d814391425b44544",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c953f3e6d0bfbe5b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "lyt-notes/IMC Actual paper.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 331.5
+      },
+      "active": "610cd4ba3b12782d"
+    },
+    "default": {
+      "main": {
+        "id": "585ea2b41f856af0",
+        "type": "split",
+        "children": [
+          {
+            "id": "7f3e8c6c9e4ea960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chloe's Second brain 🧠.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6b9b6ccbc188761d",
+        "type": "split",
+        "children": [
+          {
+            "id": "fed8f1db6a280948",
+            "type": "tabs",
+            "dimension": 30.387931034482758,
+            "children": [
+              {
+                "id": "8bd4395521efe519",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e9066aa3c330f124",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "24f99c82ac65fc2e",
+            "type": "tabs",
+            "dimension": 37.39224137931034,
+            "children": [
+              {
+                "id": "9d90ebde72cf0452",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "82f731eaf01f4e8b",
+            "type": "tabs",
+            "dimension": 32.2198275862069,
+            "children": [
+              {
+                "id": "cd0b4c3836100651",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 255
+      },
+      "right": {
+        "id": "2ead7ce9439b5f4d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f70c1d48fd60740",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee063f6e824a1bd2",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Chloe's Second brain 🧠.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.9094330064247947,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "2e9d8341bb354b0b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c5c635c3926f2565",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Chloe's Second brain 🧠.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3bde46bb8018bae6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7417088703014eec",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Chloe's Second brain 🧠.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d814391425b44544",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c953f3e6d0bfbe5b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Chloe's Second brain 🧠.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 331.5
+      },
+      "active": "7f3e8c6c9e4ea960"
+    },
+    "applications": {
+      "main": {
+        "id": "585ea2b41f856af0",
+        "type": "split",
+        "children": [
+          {
+            "id": "7f3e8c6c9e4ea960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lyt-notes/ESME application.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0c045447ae8c1140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lyt-notes/Amplify application.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6b9b6ccbc188761d",
+        "type": "split",
+        "children": [
+          {
+            "id": "fed8f1db6a280948",
+            "type": "tabs",
+            "dimension": 30.387931034482758,
+            "children": [
+              {
+                "id": "8bd4395521efe519",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "applications",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e9066aa3c330f124",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "24f99c82ac65fc2e",
+            "type": "tabs",
+            "dimension": 37.39224137931034,
+            "children": [
+              {
+                "id": "9d90ebde72cf0452",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "82f731eaf01f4e8b",
+            "type": "tabs",
+            "dimension": 32.2198275862069,
+            "children": [
+              {
+                "id": "cd0b4c3836100651",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 255
+      },
+      "right": {
+        "id": "2ead7ce9439b5f4d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f70c1d48fd60740",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee063f6e824a1bd2",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "lyt-notes/Amplify application.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.9094330064247947,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "2e9d8341bb354b0b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c5c635c3926f2565",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "lyt-notes/Amplify application.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3bde46bb8018bae6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7417088703014eec",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "lyt-notes/Amplify application.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d814391425b44544",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c953f3e6d0bfbe5b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "lyt-notes/Amplify application.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 331.5,
+        "collapsed": true
+      },
+      "active": "0c045447ae8c1140"
+    }
+  },
+  "active": "default"
+}

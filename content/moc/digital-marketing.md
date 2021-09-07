@@ -17,8 +17,3 @@ notoc: true
 - [Mobile marketing](notes/mobile-marketing.md)
 - [PPC](notes/ppc.md)
 - [Press release](notes/press-release.md)
-
----
-## Courses
-- [Google digital garage](notes/google-digital-garage.md)
-- [Building an integrated online marketing plan](notes/integrated-online-marketing-plan.md)

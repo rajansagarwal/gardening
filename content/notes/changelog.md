@@ -1,3 +1,9 @@
+---
+title: "Changelog"
+date: Sep 9, 2021
+notoc: true
+---
+
 - 2021-09-09 at 01h57 · [[choose-platform]]
 - 2021-09-09 at 01h56 · [[social-media-influencer-marketing]]
 - 2021-09-08 at 02h14 · [[intercom-startup]]

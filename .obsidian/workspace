@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
-            "mode": "preview"
+            "file": "09092021 Sense-making 2 - Getting opinionated.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pkm & idea",
+                "query": "self-learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,11 +64,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1c7e1d23ddf0cf23",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "09092021 Sense-making 2 - Getting opinionated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/_index.md",
+                "file": "09092021 Sense-making 2 - Getting opinionated.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,20 +180,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439,
+    "width": 388,
     "collapsed": true
   },
   "active": "b2dfd5b1282bd516",
   "lastOpenFiles": [
+    "09092021 Sense-making 2 - Getting opinionated.md",
+    "chloe-brain/lyt-notes/09012021 Sense-making 1 - Leaning forward.md",
+    "content/moc/productivity.md",
+    "09092021 Sense-making 2.md",
+    "chloe-brain/lyt-notes/09012021 Sense-making 1.md",
+    "chloe-brain/lyt-notes/LYT MOC.md",
+    "chloe-brain/lyt-moc/Self-learning MOC.md",
     "content/_index.md",
     "README.md",
-    "Screen Shot 2021-09-04 at 2.08.19 AM.png",
-    "chloe-lyt/lyt-notes/09042021 PKM & Idea Emergence.md",
-    "content/notes/systems-thinking.md",
-    "content/notes/zettelkasten.md",
-    "content/notes/collector-fallacy.md",
-    "conflict-files-obsidian-git.md",
-    "Novely bias.md",
-    "chloe-lyt/lyt-notes/09012021 Sense-making 1.md"
+    "Screen Shot 2021-09-04 at 2.08.19 AM.png"
   ]
 }

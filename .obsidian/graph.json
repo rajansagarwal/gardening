@@ -5,8 +5,23 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:chloe-brain",
+      "color": {
+        "a": 1,
+        "rgb": 15105262
+      }
+    },
+    {
+      "query": "path:content",
+      "color": {
+        "a": 1,
+        "rgb": 5161674
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18194680256556447,
-  "close": true
+  "scale": 0.2825054195252783,
+  "close": false
 }

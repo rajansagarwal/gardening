@@ -1,13 +1,11 @@
----
-title: "Changelog"
-date: Sep 8, 2021
-notoc: true
----
-
+- 2021-09-09 at 01h57 · [[choose-platform]]
+- 2021-09-09 at 01h56 · [[social-media-influencer-marketing]]
+- 2021-09-08 at 02h14 · [[intercom-startup]]
+- 2021-09-08 at 01h48 · [[private]]
+- 2021-09-08 at 01h47 · [[marketing]]
 - 2021-09-08 at 01h33 · [[li-b2b-marketing]]
 - 2021-09-08 at 01h32 · [[marketing-plan]]
 - 2021-09-08 at 01h28 · [[SWOT]]
-- 2021-09-08 at 01h23 · [[marketing]]
 - 2021-09-08 at 01h21 · [[writing-marketing-copy]]
 - 2021-09-08 at 01h19 · [[content-marketing]]
 - 2021-09-08 at 01h07 · [[for-courses]]
@@ -30,7 +28,3 @@ notoc: true
 - 2021-09-08 at 00h49 · [[philo]]
 - 2021-09-08 at 00h49 · [[might-publish]]
 - 2021-09-08 at 00h49 · [[personal-learnings]]
-- 2021-09-08 at 00h49 · [[ideas]]
-- 2021-09-08 at 00h49 · [[in-progress]]
-- 2021-09-08 at 00h49 · [[extra-push]]
-- 2021-09-08 at 00h49 · [[come-back]]

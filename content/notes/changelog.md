@@ -1,3 +1,9 @@
+---
+title: "Changelog"
+date: Sep 11, 2021
+notoc: true
+---
+
 - 2021-09-11 at 00h03 · [[rejection-emails]]
 - 2021-09-11 at 00h03 · [[handling-applicants]]
 - 2021-09-11 at 00h02 · [[hr]]

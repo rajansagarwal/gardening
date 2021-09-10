@@ -13,3 +13,4 @@ notoc: true
 - [Getting hired](notes/getting-hired.md)
 - [Workplace communication](notes/workplace-comm.md)
 - [Work ethics](notes/work-ethics.md)
+- [Handling applicants](notes/handling-applicants.md)

@@ -1,9 +1,6 @@
----
-title: "Changelog"
-date: Sep 9, 2021
-notoc: true
----
-
+- 2021-09-11 at 00h03 · [[rejection-emails]]
+- 2021-09-11 at 00h03 · [[handling-applicants]]
+- 2021-09-11 at 00h02 · [[hr]]
 - 2021-09-09 at 01h57 · [[choose-platform]]
 - 2021-09-09 at 01h56 · [[social-media-influencer-marketing]]
 - 2021-09-08 at 02h14 · [[intercom-startup]]
@@ -31,6 +28,3 @@ notoc: true
 - 2021-09-08 at 00h49 · [[repository]]
 - 2021-09-08 at 00h49 · [[published]]
 - 2021-09-08 at 00h49 · [[pondering]]
-- 2021-09-08 at 00h49 · [[philo]]
-- 2021-09-08 at 00h49 · [[might-publish]]
-- 2021-09-08 at 00h49 · [[personal-learnings]]

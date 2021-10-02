@@ -6,7 +6,7 @@ date: Aug 12, 2021
 - **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [getting-hired](notes/getting-hired.md)
-	- [interviews](notes/interviews.md)
+	- [interviews](quartz/content/notes/interviews.md)
 
 
 ## Notes [^1]

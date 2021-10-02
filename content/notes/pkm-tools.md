@@ -7,6 +7,6 @@ date: Aug 10, 2021
 - **Relevant Notes**
 
 ## Tools
-- [Obsidian](notes/obsidian.md)
+- [Obsidian](quartz/content/notes/obsidian.md)
 - [Notion](notes/tooling/notion.md)
 - [Mem.ai](notes/tooling/mem.md)

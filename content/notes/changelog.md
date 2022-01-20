@@ -1,9 +1,17 @@
----
-title: "Changelog"
-date: Oct 5, 2021
-notoc: true
----
-
+- 2022-01-20 at 19h50 · [[web-type-access]]
+- 2022-01-20 at 19h43 · [[design-accessibility]]
+- 2022-01-20 at 19h42 · [[ux-design]]
+- 2022-01-20 at 19h41 · [[ux-units]]
+- 2021-12-17 at 11h12 · [[boundaries-invitation]]
+- 2021-12-17 at 11h09 · [[humanity-moc]]
+- 2021-12-17 at 11h08 · [[_index]]
+- 2021-11-04 at 12h11 · [[four-hour]]
+- 2021-11-04 at 12h10 · [[books]]
+- 2021-11-04 at 11h38 · [[writing-temp]]
+- 2021-11-04 at 11h38 · [[actual-notes-with-toc]]
+- 2021-11-04 at 11h38 · [[actual-notes-no-toc]]
+- 2021-11-04 at 11h37 · [[design-not-neutral]]
+- 2021-11-04 at 11h37 · [[design]]
 - 2021-10-05 at 14h45 · [[5-steps-framework]]
 - 2021-10-05 at 14h44 · [[mental-health]]
 - 2021-09-12 at 17h10 · [[pkm-tools]]
@@ -20,17 +28,3 @@ notoc: true
 - 2021-09-08 at 01h33 · [[li-b2b-marketing]]
 - 2021-09-08 at 01h32 · [[marketing-plan]]
 - 2021-09-08 at 01h28 · [[SWOT]]
-- 2021-09-08 at 01h21 · [[writing-marketing-copy]]
-- 2021-09-08 at 01h19 · [[content-marketing]]
-- 2021-09-08 at 01h07 · [[for-courses]]
-- 2021-09-08 at 00h59 · [[digital-marketing]]
-- 2021-09-08 at 00h49 · [[writing-temp]]
-- 2021-09-08 at 00h49 · [[toc]]
-- 2021-09-08 at 00h49 · [[no-toc]]
-- 2021-09-08 at 00h49 · [[actual-notes-with-toc]]
-- 2021-09-08 at 00h49 · [[changelog-temp]]
-- 2021-09-08 at 00h49 · [[actual-notes-no-toc]]
-- 2021-09-08 at 00h49 · [[interplays]]
-- 2021-09-08 at 00h49 · [[how-i-give-feedback]]
-- 2021-09-08 at 00h49 · [[embrace-mediocrity]]
-- 2021-09-08 at 00h49 · [[to-imprint]]

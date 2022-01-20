@@ -5,4 +5,5 @@ notoc: true
 ---
 
 - [Ikigai by Francesc Miralles and Hector Garcia](notes/ikigai.md)
-- [Atomic Habits by James Clear](notes/sources/books/atomic-habits.md)
+- [The Four Hour Work Week by Timothy Ferries](notes/four-hour.md)
+- [Atomic Habits by James Clear](notes/atomic-habits.md)

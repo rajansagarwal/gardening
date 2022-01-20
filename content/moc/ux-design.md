@@ -8,4 +8,6 @@ notoc: true
 - [Focus on the user and all else will follow](notes/focus-on-user.md)
 - [Critiquing a design](notes/critiquing-design.md)
 - [Case studies in UX design](notes/case-study.md)
-- [UX Tools](notes/skills/ux-design/ux-tools.md)
+- [Units](notes/ux-units.md)
+- [Designing for accesibility](notes/design-accessibility)
+	- [Web typography accessibility](notes/web-type-access.md)

@@ -33,6 +33,7 @@ alias: "000"
 	- [Mental Health MOC](moc/mental-health.md) 
 	- [Productivity MOC](moc/productivity.md)
 	- [Kindness MOC](moc/kindness.md)
+	- [Humanity MOC](moc/humanity-moc.md)
 - **Sciences** 👩‍⚕️🖨
 	- [Health MOC](moc/health.md)
 	- [Technology MOC](moc/technology.md)

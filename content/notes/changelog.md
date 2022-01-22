@@ -1,4 +1,10 @@
-- 2022-01-22 at 13h25 · [[talk-project-mngmt]]
+---
+title: "Changelog"
+date: Jan 22, 2022
+notoc: true
+---
+
+- 2022-01-22 at 13h26 · [[talk-project-mngmt]]
 - 2022-01-22 at 13h09 · [[dump]]
 - 2022-01-22 at 13h07 · [[_index]]
 - 2022-01-20 at 19h50 · [[web-type-access]]

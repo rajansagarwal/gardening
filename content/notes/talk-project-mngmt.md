@@ -26,19 +26,19 @@ date: Jan 22, 2022
 > Prioritization matters. Prioritize properly to ship faster & get feedback faster.
 
 [Impact Effort Framework](notes/impact-effort.md)
-![](Screen%20Shot%202022-01-22%20at%201.15.41%20PM.png)
-![](Screen%20Shot%202022-01-22%20at%201.17.07%20PM.png)
+![](photos/Screen%20Shot%202022-01-22%20at%201.15.41%20PM.png)
+![](photos/Screen%20Shot%202022-01-22%20at%201.17.07%20PM.png)
 
 #### [Moscow method](notes/moscow-method.md)
 
-![](Screen%20Shot%202022-01-22%20at%201.20.50%20PM.png)
+![](photos/Screen%20Shot%202022-01-22%20at%201.20.50%20PM.png)
 - Talk to ==customers== to learn about these
 
 
 ### [Scrum Basics](notes/scrum.md)
 
 - Timebox tasks into ==sprints== of 2 weeks
-![](Screen%20Shot%202022-01-22%20at%201.22.07%20PM.png)
+![](photos/Screen%20Shot%202022-01-22%20at%201.22.07%20PM.png)
 
 #### Tasks
 1. [Sprint planning](notes/sprint-planning.md)
@@ -57,3 +57,8 @@ date: Jan 22, 2022
 	- Midpoint of script, celebrating small wins
 	- Discuss as a team–what has been done so far
 	- Product demos–feedback & comments, if needed
+4. Retrospective
+	1. What went well
+	2. What did not go well
+	3. What can we do better
+	4. Action items

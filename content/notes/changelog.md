@@ -1,11 +1,12 @@
 ---
 title: "Changelog"
-date: Jan 22, 2022
+date: Jan 27, 2022
 notoc: true
 ---
 
-- 2022-01-22 at 13h26 · [[talk-project-mngmt]]
-- 2022-01-22 at 13h09 · [[dump]]
+- 2022-01-27 at 20h33 · [[workshop-ally]]
+- 2022-01-27 at 20h20 · [[dump]]
+- 2022-01-22 at 13h40 · [[talk-project-mngmt]]
 - 2022-01-22 at 13h07 · [[_index]]
 - 2022-01-20 at 19h50 · [[web-type-access]]
 - 2022-01-20 at 19h43 · [[design-accessibility]]
@@ -33,4 +34,3 @@ notoc: true
 - 2021-09-08 at 02h14 · [[intercom-startup]]
 - 2021-09-08 at 01h48 · [[private]]
 - 2021-09-08 at 01h47 · [[marketing]]
-- 2021-09-08 at 01h33 · [[li-b2b-marketing]]

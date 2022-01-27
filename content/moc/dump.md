@@ -11,3 +11,4 @@ notoc: true
 
 ## Notes
 - [Talk: Project Management System w Developh](notes/talk-project-mngmt.md)
+- [Workshop: Becoming a better ally w MakeSense](notes/workshop-ally.md)

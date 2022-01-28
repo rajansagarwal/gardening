@@ -2,10 +2,10 @@
 alias: "000"
 ---
 
-# Chloe's Digital Garden 🪴
+# chloe's digital garden 🪴
 👋 Hey, I'm Chloe Abrasada! As a chronic learner, I like my life with organized chaos.. hence the ~~scattered folder under folder~~ garden. 📁
 
-💡 One of my personal goals this year is to become more intentional with my identity of loving learning. Here's me committing it into existence. 🌸
+💡 I'm in love with learning! And I genuinely want to become more intentional with it.. here's me committing it into existence. 🌸
 
 🧠 In this garden/ [second brain](https://fortelabs.co/blog/basboverview/), I publish my learning notes, journeys, and projects as [evergreen notes](https://mikegiannulis.com/how-to-take-evergreen-notes/) that I continue to cultivate and grow–there is no perfect *end state*, and it will always be a work in progress! My notes range from fleeting notes to completely fleshed out permanent notes. I write more about digital gardens [here.](home/garden.md)
 

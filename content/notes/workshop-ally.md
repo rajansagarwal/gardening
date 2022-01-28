@@ -15,7 +15,7 @@ notoc: true
 1. Educate yourself
 	- It's your burden, no one else's
 	- Look up on different readings to take up the initiative to learn about different people
-	- ![](Screen%20Shot%202022-01-27%20at%208.21.43%20PM.png)
+	- ![](photos/Screen%20Shot%202022-01-27%20at%208.21.43%20PM.png)
 		- [Invisible Women by Caroline Perez](notes/invisible-women.md) #book-recs
 		- Don't be hard on yourself
 2. Listen
@@ -32,10 +32,10 @@ notoc: true
 3. Step back
 4. Self-reflect
 	- Circle of accountability
-	- ![](Screen%20Shot%202022-01-27%20at%208.28.17%20PM.png)
+	- ![](photos/Screen%20Shot%202022-01-27%20at%208.28.17%20PM.png)
 5. Speak out!
 	- [BIFF Framework](notes/biff-framework.md)
-		- ![](Screen%20Shot%202022-01-27%20at%208.29.07%20PM.png)
+		- ![](photos/Screen%20Shot%202022-01-27%20at%208.29.07%20PM.png)
 6. Ask for help
 	- We are affected by information gaps & we do not know everything about how to treat people & a certain group
 7. Take action

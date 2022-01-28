@@ -2,7 +2,7 @@
 alias: "000"
 ---
 
-# chloe's digital garden 🪴
+# Chloe's Digital Garden 🪴
 👋 Hey, I'm Chloe Abrasada! As a chronic learner, I like my life with organized chaos.. hence the ~~scattered folder under folder~~ garden. 📁
 
 💡 I'm in love with learning! And I genuinely want to become more intentional with it.. here's me committing it into existence. 🌸

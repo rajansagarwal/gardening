@@ -12,13 +12,13 @@ h1, h2, h3, h4, ol, ul, thead {
 }
 
 p, ul, text {
-  font-family: Lora;
+  font-family: Lato;
   color: var(--gray);
   fill: var(--gray);
 }
 
 a {
-  font-family: Lora;
+  font-family: Lato;
   font-weight: 700;
   font-size: 1em;
   text-decoration: none;
@@ -55,7 +55,7 @@ a {
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: Lora;
+    font-family: Lato;
     font-weight: 700;
   }
 }
@@ -86,7 +86,7 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Lora;
+  font-family: Lato;
   color: var(--gray);
   line-height: 1.5em;
 }
@@ -123,7 +123,7 @@ td, th {
 }
 
 article a {
-  font-family: Lora;
+  font-family: Lato;
   font-weight: 600;
   text-decoration: underline;
   text-decoration-color: var(--tertiary);

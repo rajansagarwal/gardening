@@ -1,6 +1,7 @@
 ---
-title: "What do recruiters want?"
+title: "What do recruiters want"
 date: Aug 11, 2021
+tags:
 - in-progress
 ---
 

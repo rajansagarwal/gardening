@@ -29,6 +29,8 @@ notoc: true
 -  `08/07/2021` Change fonts & add text-background on hover
 -   `08/07/2021` Make external links open new tab
 	* [How to Make Links Open in a New Window or Tab (thesitewizard.com)](https://www.thesitewizard.com/html-tutorial/open-links-in-new-window-or-tab.shtml#:~:text=How%20to%20Open%20Hyperlinks%20in,your%20links%20(anchor%20tags).&text=Now%20when%20your%20visitors%20click,how%20they%20configured%20that%20browser)
+- Forgot to input a lot of stuff lmao
+- `01292021` Received the quartz 3.0 update and giving back life to the garden~
 
 ***Lol look at that struggle...*** 🐒
 ![github-struggle](/photos/github-struggle.png)

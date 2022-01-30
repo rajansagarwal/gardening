@@ -16,9 +16,7 @@ title: Chloe's Digital Garden 🪴
 
 ## Home 🏡
 - [About Me](home/about.md) 🧘‍♀️
-- [Chloe's Corner](home/corner.md) 🥰
 - [On Digital Gardens](home/garden.md) 🪴
-- [Gardening System](notes/home/gardening-system) 🐵
 - [Navigating the Garden](home/navigate.md) 🍁
 - [Roadmap-ish](home/roadmap.md) 🫀
 

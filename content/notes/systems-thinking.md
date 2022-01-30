@@ -2,9 +2,10 @@
 title: "Systems thinking"
 date: Aug 9, 2021
 notoc: true
+tags:
+- to-digest
 ---
 
-- **Tags:** #to-digest 
 - **Relevant Notes**
 	- [mental-models](notes/mental-models.md)
 	- [productivity-systems-moc](notes/productivity-systems-moc.md)

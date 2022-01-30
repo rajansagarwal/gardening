@@ -3,7 +3,6 @@ title: "talk-project-mngmt"
 date: Jan 22, 2022
 ---
 
-- **Tags:**
 - **Relevant Notes**
 - **References**
 

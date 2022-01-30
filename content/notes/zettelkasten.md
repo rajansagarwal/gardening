@@ -1,9 +1,10 @@
 ---
 title: "Zettelkasten"
 date: Aug 5, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [learning](content/moc/learning.md)
 	- [learning-thinking-communicating](content/moc/learning-thinking-communicating.md)

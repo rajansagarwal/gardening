@@ -3,7 +3,6 @@ title: "Writing for marketers"
 date: Aug 19, 2021
 ---
 
-- **Tags:**
 - **Relevant Notes**
 	- [writing](moc/writing.md)
 

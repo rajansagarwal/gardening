@@ -3,7 +3,6 @@ title: "Burnout"
 date: Aug 23, 2021
 ---
 
-- **Tags:**
 - **Relevant Notes**
 	- [yerkes-dodson-law](notes/yerkes-dodson-law.md)
 - **References**

@@ -1,9 +1,10 @@
 ---
 title: "Art of questioning in UX design"
 date: Aug 5, 2021
+tags:
+- to-digest
 ---
 
-- **Tags:** #to-digest 
 - **Relevant Notes**
 	- [learning-thinking-communicating](moc/learning-thinking-communicating.md)
 	- [ethics-in-tech](moc/ethics-in-tech.md) #come-back 

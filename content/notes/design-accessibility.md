@@ -4,7 +4,6 @@ date: Jan 20, 2022
 notoc: true
 ---
 
-- **Tags:**
 - **Relevant Notes**
 - **References**
 

@@ -1,9 +1,10 @@
 ---
 title: "collector-fallacy"
 date: Aug 5, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [productivity](content/moc/productivity.md)
 	- [learning-in-public](content/notes/learning-in-public.md)

@@ -2,9 +2,10 @@
 title: "Design sources"
 date: Aug 10, 2021
 notoc: true
+tags:
+- repository
 ---
 
-- **Tags:** #repository 
 - **Relevant Notes**
 	- [design-tools-sources](notes/design-tools-sources.md)
 

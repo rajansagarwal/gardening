@@ -1,8 +1,9 @@
 ---
 title: "Availability bias"
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 
 

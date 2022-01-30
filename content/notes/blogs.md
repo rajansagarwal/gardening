@@ -1,7 +1,7 @@
 ---
 title: "Blogs"
+tags:
+- repository
 ---
-
-**Tags:** #repository 
 
 - [Jon Brooks](https://www.jonbrooks.com/)

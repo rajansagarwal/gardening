@@ -1,9 +1,10 @@
 ---
 title: "Buyer personas"
 date: Aug 19, 2021
+tags:
+- in-progress
 ---
 
-- **Tags:**#i #in-progress/garden 
 - **Relevant Notes**
 
 ## Sources

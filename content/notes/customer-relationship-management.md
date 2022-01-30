@@ -1,9 +1,11 @@
 ---
 title: "customer-relationship-management"
 date: Aug 19, 2021
+tags:
+- come-back
+- in-progress
 ---
 
-- **Tags:** #come-back #in-progress/garden 
 - **Relevant Notes**
 
 ## Sources

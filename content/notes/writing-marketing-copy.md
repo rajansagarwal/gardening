@@ -1,9 +1,11 @@
 ---
 title: "writing-marketing-copy"
 date: Sep 8, 2021
+tags:
+- courses
+- to-digest
 ---
 
-- **Tags:** #courses #to-digest 
 - **Relevant Notes**
 	- [writing](moc/writing.md)
 

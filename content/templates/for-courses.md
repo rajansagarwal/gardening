@@ -1,7 +1,9 @@
 ---
 title: "{{title}}"
 date: {{date:MMM D, YYYY}}
+tags:
+- courses
+- to-digest
 ---
 
-- **Tags:** #courses #to-digest 
 - **Relevant Notes**

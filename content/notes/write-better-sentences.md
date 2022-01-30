@@ -2,9 +2,10 @@
 title: "How to write better sentences"
 date: Aug 11, 2021
 notoc: true
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 
 

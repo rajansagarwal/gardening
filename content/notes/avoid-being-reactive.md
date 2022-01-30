@@ -2,6 +2,8 @@
 title: "Avoid being reactive"
 date: Aug 4, 2021
 notoc: true
+tags:
+- permanent-notes
 ---
 
 - **Tags:** #permanent-notes 

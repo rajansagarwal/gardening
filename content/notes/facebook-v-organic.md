@@ -2,9 +2,10 @@
 title: "What works for social does not work for organic"
 date: Aug 18, 2021
 notoc: true
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [marketing-tooling](notes/marketing-tooling.md)
 

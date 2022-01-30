@@ -2,9 +2,10 @@
 title: "Facebook marketing"
 date: Sep 2, 2021
 notoc: true
+tags:
+- courses
 ---
 
-- **Tags:** #courses 
 - **Relevant Notes**
 - **References**
 	- [LinkedIn Learning](https://www.linkedin.com/learning/marketing-on-facebook/how-to-create-a-facebook-page)

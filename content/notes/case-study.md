@@ -1,9 +1,10 @@
 ---
 title: "Case studies in UX design"
 date: Aug 15, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 
 

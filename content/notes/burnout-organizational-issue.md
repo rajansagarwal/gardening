@@ -1,9 +1,10 @@
 ---
 title: "Burnout is an organizational issue"
 date: Aug 22, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:**
 - **Relevant Notes**
 - **Reference**
 	- [The Burnout Conversation Is A Corporate Tool To Turn Your Suffering Into Marketing - by Ed Z - Ed Zitron's Where's Your Ed At](https://ez.substack.com/p/the-burnout-conversation-is-a-corporate?ref=refind)

@@ -1,8 +1,9 @@
 ---
 title: "Circular Economy"
+tags:
+- to-digest
 ---
 
-- **Tags:**  #to-digest 
 - **Relevant Notes**
 
 ## Notes

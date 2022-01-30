@@ -1,9 +1,10 @@
 ---
 title: "Boundaries as invitation rather than limitation"
 date: Dec 17, 2021
+tags:
+- to-sort
 ---
 
-- **Tags:**
 - **Relevant Notes**
 - **References**
 

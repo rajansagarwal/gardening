@@ -1,6 +1,8 @@
 ---
 title: "Advocacy burnout"
 date: Aug 26, 2021
+tags:
+- permanent-notes
 ---
 
 - **Tags:** #permanent-notes 

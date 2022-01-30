@@ -1,9 +1,10 @@
 ---
 title: "choose-perspective"
 date: Aug 6, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:**
 - **Relevant Notes**
 
 

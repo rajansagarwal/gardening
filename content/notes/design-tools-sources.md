@@ -1,9 +1,10 @@
 ---
 title: "Design Tools & Sources"
 date: Aug 10, 2021
+tags:
+- repository
 ---
 
-- **Tags:** #repository 
 - **Relevant Notes**
 	- [ux-tools](notes/skills/ux-design/ux-tools.md)
 	- [tooling](moc/tooling.md)

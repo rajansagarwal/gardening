@@ -1,9 +1,10 @@
 ---
 title: "Make research accessible to the public"
 date: Aug 19, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 
 

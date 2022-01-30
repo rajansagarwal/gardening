@@ -4,7 +4,6 @@ date: Sep 2, 2021
 notoc: true
 ---
 
-- **Tags:**
 - **Relevant Notes**
 - **References**
 	- [integrated-online-marketing-plan](integrated-online-marketing-plan.md)

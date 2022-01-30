@@ -1,8 +1,9 @@
 ---
 title: "Design is political x Decolonizing design"
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 
 ## Notes

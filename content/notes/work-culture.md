@@ -1,5 +1,7 @@
 ---
 title: "Work Culture"
+tags:
+- permanent-notes
 ---
 
 - **Tags:** #permanent-notes 

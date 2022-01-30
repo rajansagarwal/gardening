@@ -2,9 +2,10 @@
 title: "Becoming a better ally with MakeSense"
 date: Jan 27, 2022
 notoc: true
+tags:
+- workshops
 ---
 
-- **Tags:**
 - **Relevant Notes**
 	- [privilege](notes/privilege.md)
 - **References**

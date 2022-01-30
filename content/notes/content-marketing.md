@@ -1,6 +1,8 @@
 ---
 title: "Content marketing"
 date: Sep 8, 2021
+tags:
+- permanent-notes
 ---
 
 - **Tags:** #permanent-notes 

@@ -1,8 +1,9 @@
 ---
 Title: "Active Listening"
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [mental-health](moc/mental-health.md)
 

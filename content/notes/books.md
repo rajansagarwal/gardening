@@ -2,6 +2,8 @@
 title: "Books"
 date: Aug 5, 2021
 notoc: true
+tags:
+- repository
 ---
 
 - [Ikigai by Francesc Miralles and Hector Garcia](notes/ikigai.md)

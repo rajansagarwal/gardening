@@ -1,9 +1,10 @@
 ---
 title: "Candidate red flags"
 date: Aug 12, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [getting-hired](notes/getting-hired.md)
 	- [interviews](quartz/content/notes/interviews.md)

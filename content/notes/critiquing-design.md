@@ -1,9 +1,10 @@
 ---
 title: "critiquing-design"
 date: Aug 4, 2021
+tags:
+- to-digest
 ---
 
-- **Tags:** #to-digest 
 - **Relevant Notes**
 
 

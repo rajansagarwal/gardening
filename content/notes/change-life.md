@@ -1,8 +1,10 @@
 ---
 title: "How to Change Your Life"
+tags:
+- extra-push
+- to-digest
 ---
 
-- **Tags:** #extra-push #to-digest 
 - **Relevant Notes**
 
 ---

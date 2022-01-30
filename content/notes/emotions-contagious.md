@@ -1,8 +1,9 @@
 ---
 title: "Emotions are contagious"
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [collective-effervesence](notes/collective-effervesence.md)
 

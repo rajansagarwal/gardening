@@ -1,8 +1,9 @@
 ---
 Title: "Design Teams"
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [leadership in design](notes/arts/leadership-design)
 	- [work-culture](notes/work-culture.md)

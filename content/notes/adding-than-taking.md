@@ -1,12 +1,12 @@
 ---
 title: "When we have a problem, we tend to go with solutions that involve adding something than taking something existing away"
 date: Aug 4, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [hanlon](notes/hanlon.md)
-
 
 ## Notes
 

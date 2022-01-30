@@ -2,9 +2,10 @@
 title: "Art is political"
 date: Aug 7, 2021
 notoc: true
+tags:
+- to-digest
 ---
 
-- **Tags:** #to-digest 
 - **Relevant Notes**
 
 

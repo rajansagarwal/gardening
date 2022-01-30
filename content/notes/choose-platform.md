@@ -1,9 +1,9 @@
 ---
 title: "How to choose a platform"
 date: Sep 9, 2021
+tags:
 ---
 
-- **Tags:**
 - **Relevant Notes**
 	- [marketing-growth](notes/marketing-growth.md)
 	- [marketing-research](notes/marketing-research.md)

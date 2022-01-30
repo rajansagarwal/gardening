@@ -1,9 +1,10 @@
 ---
 title: "Branding experience"
 date: Aug 11, 2021
+tags:
+- permanent-notes
 ---
 
-- **Tags:** #permanent-notes 
 - **Relevant Notes**
 	- [ux-design](moc/ux-design.md)
 

@@ -1,8 +1,9 @@
 ---
 title: "Collective Effervesence"
+tags:
+- to-digest
 ---
 
-- **Tags:** #to-digest 
 - **Relevant Notes**
 	- [notes/emotions-contagious](notes/emotions-contagious.md)
 

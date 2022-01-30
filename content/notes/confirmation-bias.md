@@ -1,8 +1,10 @@
 ---
 title: "Confirmation Bias"
+tags:
+- in-progress
+- to-digest
 ---
 
-- **Tags:** #in-progress/garden #to-digest 
 - **Relevant Notes**
 
 

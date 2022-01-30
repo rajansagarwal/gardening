@@ -1,9 +1,10 @@
 ---
 title: "Yerkes-Dodson-law"
 date: Aug 23, 2021
+tags:
+- to-digest
 ---
 
-- **Tags:**
 - **Relevant Notes**
 	- [Burnout](notes/burnout.md)
 - **References**

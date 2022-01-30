@@ -1,8 +1,8 @@
 ---
 title: "What to Learn"
+- repository
 ---
 
-- **Tags:** #repository 
 - **Relevant Notes**
 	- [Learning](moc/learning-thinking-communicating.md)
 	- [Where to Learn](notes/where-to-learn.md)

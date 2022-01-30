@@ -1,5 +1,7 @@
 ---
 title: "Visual Design"
+tags:
+- in-progress
 ---
 
 - **Tags:** #in-progress/garden 

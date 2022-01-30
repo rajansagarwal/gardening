@@ -1,9 +1,11 @@
 ---
 title: "Typography inclusivity & accessibility"
 date: Jan 20, 2022
+tags:
+- permanent-notes
+- to-sort
 ---
 
-- **Tags:**
 - **Relevant Notes**
 - **References**
 	- [Webflow 101 crash course | Webflow University](https://university.webflow.com/courses/webflow-101-crash-course?video=J2846GiZuLA)

@@ -1,9 +1,9 @@
 ---
 title: "What do recruiters want?"
 date: Aug 11, 2021
+- in-progress
 ---
 
-- **Tags:** #in-progress/garden 
 - **Relevant Notes**
 
 

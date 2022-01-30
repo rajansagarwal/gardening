@@ -1,8 +1,9 @@
 ---
 title: "Where to Learn"
+- in-progress
+- repository
 ---
 
-- **Tags:** #in-progress/garden #repository 
 - **Relevant Notes**
 	- [Learning](moc/learning-thinking-communicating.md)
 	- [What to Learn](notes/what-to-learn.md)

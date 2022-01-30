@@ -8,30 +8,20 @@
 
 h1, h2, h3, h4, ol, ul, thead {
   font-family: Karla;
-  color: var(--dark)
+  color: var(--dark);
+  font-weight: revert;
+  margin: revert;
+  padding: revert;
 }
 
 p, ul, text {
   font-family: Lato;
   color: var(--gray);
   fill: var(--gray);
+  font-weight: revert;
+  margin: revert;
+  padding: revert;
 }
-
-a {
-  font-family: Lato;
-  font-weight: 700;
-  font-size: 1em;
-  text-decoration: none;
-  transition: all 0.2s ease;
-  color: var(--secondary);
-
-  &:hover {
-    color: var(--tertiary) !important;
-    background-color: #7e89c785;
-  }
-}
-
-
 
 #TableOfContents > ol {
   counter-reset: section;
@@ -91,12 +81,8 @@ p, tbody, li {
   line-height: 1.5em;
 }
 
-h2 {
-  opacity: 0.85;
-}
-
-h3 {
-  opacity: 0.75;
+h2, h3 {
+  opacity: 0.9;
 }
 
 blockquote {
@@ -122,17 +108,118 @@ td, th {
   margin: 0.5em 0;
 }
 
-article a {
-  font-family: Lato;
+.pagination {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  margin-top: 2em;
+  gap: 1.5em;
+  justify-content: center;
+
+  & > li {
+    text-align: center;
+    display: inline-block;
+
+    & a {
+      background-color: transparent !important;
+    }
+
+    & a[href$="#"] {
+      opacity: 0.2;
+    }
+  }
+}
+
+.section {
+  & h3 > a {
+    font-weight: 700;
+    font-family: Inter;
+    margin: 0;
+  }
+  & p {
+    margin-top: 0;
+  }
+}
+
+article {
+  & > .meta {
+    margin: -1.5em 0 1em 0;
+    opacity: 0.7;
+  }
+
+  & > .tags {
+    list-style: none;
+    padding-left: 0;
+
+    & .meta {
+      & > h1 {
+        margin: 0;
+      }
+      & > p {
+        margin: 0;
+      }
+    }
+
+    & > li {
+      display: inline-block;
+    }
+    & > li > a {
+      border-radius: 8px;
+      border: var(--outlinegray) 1px solid;
+      padding: 0.2em 0.5em;
+      &::before {
+        content: "#";
+        margin-right: 0.3em;
+        color: var(--outlinegray);
+      }
+    }
+  }
+
+  & a {
+    font-family: Lato;
+    font-weight: 600;
+    border-radius: 3px;
+
+    &.internal-link {
+      text-decoration: none;
+      background-color: #afbfc922;
+      padding: 0 0.1em;
+      margin: auto -0.1em;
+    }
+
+    &.external-link::after {
+      content: "⇗";
+      position: relative;
+      bottom: 0.3em;
+      font-size: 1em;
+      display: inline-block;
+    }
+  }
+}
+
+.backlinks a {
   font-weight: 600;
-  text-decoration: underline;
-  text-decoration-color: var(--tertiary);
-  text-decoration-thickness: .15em;
+  font-size: 0.9rem;
 }
 
 sup > a {
   text-decoration: none;
   padding: 0 0.1em 0 0.2em;
+}
+
+a {
+  font-family: Lato;
+  font-weight: 700;
+  font-size: 1em;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  color: var(--secondary);
+  border-radius: 3px;
+
+  &:hover {
+    color: var(--tertiary) !important;
+    background-color: #7e89c785;
+  }
 }
 
 pre {
@@ -188,25 +275,6 @@ hr {
   background-color: var(--dark);
 }
 
-// internal link
-a[href^="/"] {
-  text-decoration: none;
-  background-color: #afbfc922;
-  padding: 0 0.2em;
-  border-radius: 3px;
-}
-
-// external link
-a[href^="https://"]::after {
-  /* "\ao " is a non-breaking space */
-  content: "⇗";
-  position: relative;
-  bottom: 0.3em;
-  font-size: 1em;
-  display: inline-block;
-}
-
-
 .singlePage {
   margin: 4em 30vw;
 
@@ -218,6 +286,7 @@ a[href^="https://"]::after {
 .page-end {
   display: flex;
   flex-direction: row;
+  gap: 2em;
 
   @media all and (max-width: 780px) {
     flex-direction: column;
@@ -231,7 +300,6 @@ a[href^="https://"]::after {
     & > ul {
       list-style: none;
       padding-left: 0;
-      margin-right: 2em;
 
       & > li {
         margin: 0.5em 0;
@@ -244,7 +312,7 @@ a[href^="https://"]::after {
 
   & #graph-container {
     border: var(--outlinegray) 1px solid;
-    border-radius: 5px
+    border-radius: 5px;
   }
 }
 
@@ -252,18 +320,22 @@ a[href^="https://"]::after {
   margin-top: 30vh;
 }
 
+article > h1 {
+  font-size: 2em;
+}
+
 header {
   display: flex;
   flex-direction: row;
   align-items: center;
 
+  & > h1 {
+    font-size: 2em;
+  }
+
   & > nav {
     @media all and (max-width: 600px) {
       display: none;
-    }
-
-    & > a {
-      margin-left: 2em;
     }
   }
 
@@ -295,7 +367,8 @@ header {
   left: 0;
   top: 0;
   width: 100vw;
-  height: 100vh;
+  height: 100%;
+  overflow: scroll;
   display: none;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
@@ -338,8 +411,20 @@ header {
         transition: background 0.2s ease;
         border: 1px solid var(--outlinegray);
         border-bottom: none;
+        width: 100%;
 
-        &:hover {
+        // normalize button props
+        font-family: inherit;
+        font-size: 100%;
+        line-height: 1.15;
+        margin: 0;
+        overflow: visible;
+        text-transform: none;
+        text-align: left;
+        background: var(--light);
+        outline: none;
+
+        &:hover, &:focus {
           background: rgba(180, 180, 180, 0.15);
         }
 
@@ -365,5 +450,58 @@ header {
         }
       }
     }
+  }
+}
+
+.section-ul {
+  list-style: none;
+  padding-left: 0;
+
+  & > li {
+    border: 1px solid var(--outlinegray);
+    border-radius: 5px;
+    padding: 0 1em;
+    margin-bottom: 1em;
+
+    & h3 {
+      opacity: 1;
+      font-weight: 700;
+      margin-bottom: 0em;
+    }
+
+    & .meta {
+      opacity: 0.6;
+    }
+  }
+}
+
+.popover {
+  z-index: 999;
+  position: absolute;
+  width: 15em;
+  display: inline;
+  background-color: var(--light);
+  padding: 1em;
+  border: 1px solid var(--outlinegray);
+  border-radius: 5px;
+  transform: translate(-50%, 40%);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  transition-delay: 0.3s;
+  user-select: none;
+
+  &.visible {
+    opacity: 1;
+    transform: translate(-50%, 20%);
+  }
+
+  & > h3 {
+    margin: 0.5em 0;
+  }
+
+  & > p {
+    margin: 0;
+    font-weight: 400;
   }
 }

@@ -3,18 +3,25 @@ title: "About Me"
 notoc: true
 ---
 
-![chloe-photo-2](/photos/chloe-2.jpg)
+![chloe-photo-2](/photos/chloe-abt.jpg)
+
+![](photos/chloe-abt.png)
 
 > 👋 Hello! I'm Chloe Abrasada. I actually have a second name that I don't use for branding purposes *(jkjk)*. I'm a productivity nerd 👩‍🏫, web lurker 💻, and design enthusiast 🎨.
 
-📚 I'm an incoming third year student in UP Manila studying Occupational Therapy. Outside school, I part time as a designer and volunteer in NGOs related to my cause. 🍃
+📚 I'm currently studying Occupational therapy in UP Manila. Alongside that, I'm a UX designer currently working with different start-ups (diverse fields, yes!). I also advocate for mental health and sustainability and am passionate about volunteering.
+
+## 🧠
+My thinking is shaped by the lovely programs I've personally grown my knowledge with.
+- Reshaped my relationship with knowledge as a [Linking Your Thinking](https://www.linkingyourthinking.com/) scholar
+- Questioned my assumptions on technology, creativity, and design as a [Developh](https://developh.org/) Camp fellow
+- Defining (currently!) my principles as a [OpenPrinciples](https://openprinciples.org/) fellow
 
 ## 🔗 Links
 - I publish my works here at my [portfolio](https://chloeabrasada.online/) and [Behance.](https://www.behance.net/chloeabrasada)
-- Let's connect at [LinkedIn!](https://www.linkedin.com/in/chloeabrasada)
-- I like writing at [Medium](https://chloeabrasada.medium.com/) and ~~am trying to gauge when I am ready to deploy my personal blog to the world~~.
-- I'm also at [Facebook](https://www.facebook.com/chloeabrasada/) and [Instagram.](https://www.instagram.com/chloeabrasada)
-- I like dumping my brain in [Are.na,](https://www.are.na/chloe-abrasada), inspiration-seeking in [Pinterest,](https://www.pinterest.ph/chloeabrasada), and reading long chunks of text in [Refind.](https://refind.com/chloe-abrasada)
+- Let's connect at [LinkedIn!](https://www.linkedin.com/in/chloeabrasada) or shout at me on [Twitter](https://twitter/com/chloeabrasada).
+- I like writing at [Medium](https://chloeabrasada.medium.com/) and my (wow i need to revive this) [personal blog](https://blog.chloeabrasada.onlne/).
+- I like dumping my brain in [Are.na,](https://www.are.na/chloe-abrasada) and reading long chunks of text in [Matter.](https://getmatter.app/chloeabrasada).
 
 ## 🍉 Luvs...
 

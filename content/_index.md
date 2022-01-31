@@ -35,6 +35,7 @@ title: Chloe's Digital Garden 🪴
 - **Sciences** 👩‍⚕️🖨
 	- [Health MOC](moc/health.md)
 	- [Technology MOC](moc/technology.md)
+	- [Sustainability MOC](moc/sustainability.md)
 - **Social Sciences** 💎
 	- [Politics MOC](moc/politics.md)
 	- [Social Change MOC](moc/social-change.md)
